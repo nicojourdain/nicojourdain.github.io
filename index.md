@@ -2,13 +2,13 @@
 layout: default
 ---
 
-![baniere1]({site.baseurl}/img/baniere_3.jpg)
+![baniere1]({{site.baseurl}}/img/baniere_3.jpg)
 
 ### Nicolas C. Jourdain
 
 ## Contact
 
-![baniere1]({site.baseurl}/img/photo_nico-filtered.jpg)
+![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg)
 
 <mailto:nicolas.jourdain@univ-grenoble-alpes.fr>
 
