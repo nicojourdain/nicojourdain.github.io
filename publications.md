@@ -19,6 +19,8 @@ For publications metrics, see :
 
 28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res. (under minor revision)_.
 
+# 2016
+
 27. Li, Y., **Jourdain, N. C.**, Taschetto, A. S., Sen Gupta, A., Argüeso, D., Masson, S., Cai, W. (2016). Resolution dependence of the simulated precipitation and diurnal cycle over the Maritime Continent. _Clim. Dynam., in press, accepted in Aug. 2016_.
 
 26. **Jourdain, N. C.**, Lengaigne, M., Vialard, J., Izumo, T., Sen Gupta, A. (2016). Further insights on the influence of the Indian Ocean Dipole on the following year's ENSO from observations and CMIP5 models. _J. Climate_, 29(2), 637-658.
