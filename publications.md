@@ -77,13 +77,13 @@ For publication metrics, see :
 
 # 2011
 
-5. Jourdain N. C., Gallée, H., (2011). Influence of the orographic roughness of glacier valleys across the Transantarctic Mountains in a regional climate model. _Clim. Dynam._, 36(5–6):1067–1081.
+5. **Jourdain N. C.**, Gallée, H., (2011). Influence of the orographic roughness of glacier valleys across the Transantarctic Mountains in a regional climate model. _Clim. Dynam._, 36(5–6):1067–1081.
 
 4. Vincent, E., Lengaigne, M., Menkes, C. E., **Jourdain, N. C.**, Marchesiello, P., Madec, G. (2011): Interannual Variability of the South Pacific Convergence Zone and Tropical Cyclone Genesis. _Clim. Dynam._, 36(9):1881–1896.
 
-3. Jourdain N. C., Mathiot P., Gallée H., Barnier B. (2011). Influence of coupling on atmosphere, sea ice and ocean regional models in the Ross Sea sector, Antarctica. _Clim. Dynam._, 36(7–8):1523–1543.
+3. **Jourdain N. C.**, Mathiot P., Gallée H., Barnier B. (2011). Influence of coupling on atmosphere, sea ice and ocean regional models in the Ross Sea sector, Antarctica. _Clim. Dynam._, 36(7–8):1523–1543.
 
-2. Jourdain N. C., Marchesiello, P., Menkes, C. E., Lefèvre, J., Vincent, E., Lengaigne, M., Chauvin, F. (2011). Mesoscale simulation of tropical cyclones in the South Pacific : climatology and interannual variability. _J. Climate_, 24:3–25.
+2. **Jourdain N. C.**, Marchesiello, P., Menkes, C. E., Lefèvre, J., Vincent, E., Lengaigne, M., Chauvin, F. (2011). Mesoscale simulation of tropical cyclones in the South Pacific : climatology and interannual variability. _J. Climate_, 24:3–25.
 
 # 2010
 
