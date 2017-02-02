@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-For publications metrics, see :  
+![baniere1]({{site.baseurl}}/img/baniere_4.jpg)
+
+For publication metrics, see :  
 [google scholar](https://scholar.google.fr/citations?user=vIdPlZ4AAAAJ&hl=en)  
 [ORCID](http://orcid.org/0000-0002-1372-2235 )  
 
