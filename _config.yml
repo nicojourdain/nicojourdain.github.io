@@ -12,7 +12,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: http://nicojourdain.github.io/
 github_username:  nicojourdain
 #twitter_username: nicojourdain
-header-img: {{site.baseurl}}/img/baniere_3.jpg
+#header-img: {{site.baseurl}}/img/baniere_3.jpg
 
 # Build settings
 markdown: kramdown
