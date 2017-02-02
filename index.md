@@ -4,8 +4,6 @@ layout: default
 
 ![baniere1]({{site.baseurl}}/img/baniere_3.jpg)
 
-### Nicolas C. Jourdain
-
 ## Contact
 
 ![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg)
