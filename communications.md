@@ -8,15 +8,15 @@ permalink: /communications/
 
 ## International communications as lead author
 
-&#9824 Invited
+&#9824; Invited
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden**, October 2106 : Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
 
 * **International Glaciological Society (IGS) Symposium, La Jolla, USA**, July 2016 : Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. [Proceedings](https://www.igsoc.org/symposia/2016/lajolla/proceedings/proceedings.html)
 
-* &#9824 **Journées scientifiques du CNFRA, Lyon, France**, May 2016 : Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *Modélisation de l'interface océan/glace*.
+* &#9824; **Journées scientifiques du CNFRA, Lyon, France**, May 2016 : Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *Modélisation de l'interface océan/glace*.
 
-* &#9824 **Rising coastal seas on a Warming Earth II, Abu Dhabi, United Arab Emirates**, May 2016 : Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. [Workshop website](http://nyuad.nyu.edu/en/news-events/abu-dhabi-events/2016/05/rising-coastal-seas-on-a-warming-earth-ii.html)
+* &#9824; **Rising coastal seas on a Warming Earth II, Abu Dhabi, United Arab Emirates**, May 2016 : Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. [Workshop website](http://nyuad.nyu.edu/en/news-events/abu-dhabi-events/2016/05/rising-coastal-seas-on-a-warming-earth-ii.html)
 
 * **International Glaciological Society (IGS) Symposium, Cambridge, UK**, August 2015 : Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries*. [Proceedings](https://www.igsoc.org/symposia/2015/cambridge/proceedings/proceedings.html)
 
@@ -24,7 +24,7 @@ permalink: /communications/
 
 * **European Geophysical Union (EGU) General Assembly, Vienna**, Austria, April 2015 : Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries*. [Abstract](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-6470-1.pdf)
 
-* &#9824 **Workshop for the West Antarctic Glacier Ocean Modelling, Abu Dhabi, United Arab Emirates**, October 2014 : Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *How to model coastal ocean warming around Antarctica?* [workshop website](http://www.climate-cryosphere.org/activities/targeted/misomip/826-2014-kick-off#faqnoanchor) [EOS paper](https://eos.org/wp-content/uploads/2015/11/15-Nov_Magazine.pdf?dd3e24)
+* &#9824; **Workshop for the West Antarctic Glacier Ocean Modelling, Abu Dhabi, United Arab Emirates**, October 2014 : Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *How to model coastal ocean warming around Antarctica?* [workshop website](http://www.climate-cryosphere.org/activities/targeted/misomip/826-2014-kick-off#faqnoanchor) [EOS paper](https://eos.org/wp-content/uploads/2015/11/15-Nov_Magazine.pdf?dd3e24)
 
 * **WRF workshop, Sydney, Australia**, February 2014 : Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y. *Modelling the climate of the Maritime Continent*. 
 
@@ -38,7 +38,7 @@ permalink: /communications/
 
 * **3rd CLIVAR workshop on the Evaluation of ENSO processes in climate models, Hobart, Australia**, January 2013 : N. C. Jourdain, M. Lengaigne, J. Vialard, T. Izumo, A. Sen Gupta. *Influence of IOD on the following year’s El Niño: robustness across the CMIP models?*
 
-* &#9824 **6th Annual CAWCR Workshop, Melbourne, Australia**, November 2012 : Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. *The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations*. [Extended Abstracts](http://www.cawcr.gov.au/technical-reports/CTR_056.pdf)
+* &#9824; **6th Annual CAWCR Workshop, Melbourne, Australia**, November 2012 : Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. *The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations*. [Extended Abstracts](http://www.cawcr.gov.au/technical-reports/CTR_056.pdf)
 
 * **International CLIVAR Workshop on interdecadal variability of the global monsoons, Nanjing, China**, September 2012 : Jourdain, N. C., Sen Gupta, A., Li, Y., Taschetto, A. S. and Ummenhofer, C. C.. *Variability of the Tropospheric Biennial Oscillation*. [more about the workhsop](http://www.clivar.org/panels-and-working-groups/aamp/event/interdecadal-variability-of-the-global-monsoons-workshop)
 
