@@ -91,6 +91,15 @@ For publication metrics, see :
 
 1. Lefèvre J., Marchesiello, P., **Jourdain, N. C.**, Menkes, C. E. (2010): Weather regimes and orographic circulation around New Caledonia. _Marine Poll. Bull._ 61(7–12):413–431. 
 
+
+## Conference papers
+
+
+* **Jourdain, N. C.**, Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 44-47.
+
+* Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43.
+
+
 ## Other publications
 
 * **Jourdain N.** (2007). Simulations climatiques régionales couplées atmosphère - océan - gace de mer  en Antarctique. _Thèse de doctorat, Université Joseph Fourier, France_.
