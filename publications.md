@@ -14,12 +14,14 @@ For publication metrics, see :
 
 * Merino N., J. Le Sommer, G. Durand, **N. C. Jourdain**, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
 
+* Bull, C., England, M. H., Van Sebille, E., Kiss, A. and **Jourdain, N. C.**. The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
+
 
 ## Peer reviewed publications
 
 # 2017
 
-28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res. (under minor revision)_.
+28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res. (accepted in Feb. 2017)_.
 
 # 2016
 
