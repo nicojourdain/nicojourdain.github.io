@@ -1,3 +1,9 @@
+---
+layout: page
+title: TROIS-AS
+permalink: /trois_as/
+---
+
 ### TROIS AS
 
 ![logo_3AS]({{site.baseurl}}/img/trois_as_original_text.png)
