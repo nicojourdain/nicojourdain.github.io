@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: post
+title: "TROIS AS"
+date: 2017-02-18
 ---
 
 ### TROIS AS
