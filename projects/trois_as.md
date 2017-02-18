@@ -1,8 +1,3 @@
----
-layout: default
-title: "TROIS AS"
----
-
 ### TROIS AS
 
 ![logo_3AS]({{site.baseurl}}/img/trois_as_original_text.png)
