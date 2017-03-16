@@ -6,7 +6,7 @@ date: 2017-02-18
 
 ### TROIS AS
 
-![logo_3AS]({{site.baseurl}}/img/trois_as_original_text.png)
+![logo_3AS](/img/trois_as_original_text.png)
 
 ## Towards a Regional Ocean / Ice-Sheet / Atmosphere modelling System
 
