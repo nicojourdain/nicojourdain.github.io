@@ -11,3 +11,5 @@ permalink: /projects/
 [PI of **Tout le Monde se MAR** (AO Labex OSUG@2020, 2016-2018)]({{site.baseurl}}/projects_dir/tout_le_Monde_se_MAR.md)
 
 [involved in **SOBUMS** (ANR, 2017-2020)](http://lesommer.github.io/2016/07/21/sobums-accepted)
+
+[PI of **TROIS AS** (ANR-JCJC, 2015-2019)](/projects_dir/trois_as.md)
