@@ -8,7 +8,7 @@ layout: default
 
 {::nomarkdown}
 <div style="float:left">
-<img src="{{site.baseurl}}/img/photo_nico-filtered.jpg" style="float: left;" />
+<img src="{{site.baseurl}}/img/photo_nico-filtered.jpg" width="150%" height="150%" style="float: left;" />
 </div>
 <div style="float:right">
 <mailto:nicolas.jourdain@univ-grenoble-alpes.fr><br>
