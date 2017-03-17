@@ -10,6 +10,8 @@ layout: default
 | ![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg) | IGE (Institut des Géosciences de l'Environnement, ex-LGGE) |
 |                                                         | 54, rue Molière, Saint-Martin d’Hères, France              |
 
+toto
+
 {::nomarkdown}
 <div style="float:left">
 <img src="{{site.baseurl}}/img/photo_nico-filtered.jpg" style="float: left;" />
