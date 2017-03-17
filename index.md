@@ -14,10 +14,10 @@ layout: default
 <div style="float:left" markdown="1">
 ![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg)
 </div>
-<div style="float:right" markdown="1">
-<p <mailto:nicolas.jourdain@univ-grenoble-alpes.fr><br>
+<div style="float:right">
+<mailto:nicolas.jourdain@univ-grenoble-alpes.fr><br>
 IGE (Institut des Géosciences de l'Environnement, ex-LGGE)<br>
-54, rue Molière, Saint-Martin d’Hères, France</p>
+54, rue Molière, Saint-Martin d’Hères, France<br>
 </div>
 <div style="clear:both"/>
 {:/}
