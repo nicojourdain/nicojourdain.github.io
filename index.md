@@ -6,12 +6,9 @@ layout: default
 
 ## Contact
 
-![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg)
-
-<mailto:nicolas.jourdain@univ-grenoble-alpes.fr>
-
-IGE (Institut des Géosciences de l'Environnement, ex-LGGE)  
-54, rue Molière, BP 96  F-38402 Saint-Martin d’Hères cedex, France
+|                                                         | <mailto:nicolas.jourdain@univ-grenoble-alpes.fr>           |
+| ![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg) | IGE (Institut des Géosciences de l'Environnement, ex-LGGE) |
+|                                                         | 54, rue Molière, Saint-Martin d’Hères, France              |
 
 CNRS Research Fellow  
 ARCCSS Associate Investigator
