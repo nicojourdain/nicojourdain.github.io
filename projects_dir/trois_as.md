@@ -4,8 +4,6 @@ title: "TROIS AS"
 date: 2017-02-18
 ---
 
-### TROIS AS
-
 <div>
 <img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="30%" height="30%"/>
 </div>
