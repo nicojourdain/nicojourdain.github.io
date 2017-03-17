@@ -10,10 +10,10 @@ layout: default
 | ![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg) | IGE (Institut des Géosciences de l'Environnement, ex-LGGE) |
 |                                                         | 54, rue Molière, Saint-Martin d’Hères, France              |
 
-<div style="float:left">
+<div style="float:left" markdown="1">
 ![myface]({{site.baseurl}}/img/photo_nico-filtered.jpg)
 </div>
-<div style="float:right">
+<div style="float:right" markdown="1">
 <mailto:nicolas.jourdain@univ-grenoble-alpes.fr>
 IGE (Institut des Géosciences de l'Environnement, ex-LGGE)
 54, rue Molière, Saint-Martin d’Hères, France
