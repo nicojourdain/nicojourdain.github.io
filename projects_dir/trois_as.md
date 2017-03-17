@@ -6,8 +6,6 @@ date: 2017-02-18
 
 ### TROIS AS
 
-![logo_3AS]({{site.url}}projects_dir/img/trois_as_original_text.png)
-
 <div>
 <img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="30%" height="30%"/>
 </div>
