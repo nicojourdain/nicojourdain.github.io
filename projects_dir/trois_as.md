@@ -6,8 +6,8 @@ date: 2017-03-25
 
 {::nomarkdown}
 <div style="display:inline;text-align:left;">
-<img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="25%" height="25%" border="0"/>
-<div style="float:right"> 
+<img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="20%" height="20%" border="0"/>
+<div style="itext-align:center;float:right"> 
 <br> <b>
 <font size="5">
 Towards a Regional<br>
