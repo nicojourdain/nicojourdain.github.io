@@ -9,12 +9,11 @@ date: 2017-03-25
 <img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="25%" height="25%" border="0"/>
 </div>
 <div style="display:inline; text-align:left; float:right"> 
-<br>
-<b>
+<br> <b>
 Towards a Regional<br>
 Ocean / Ice-Sheet / Atmosphere<br>
 modelling System<br>
-</b>
+</b> <br> <br>
 </div>
 <div style="clear:both"/>
 {:/}
