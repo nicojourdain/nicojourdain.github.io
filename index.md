@@ -11,7 +11,6 @@ layout: default
 CNRS Research Fellow<br>
 ARCCSS Associate Investigator<br>
 <hr>
-<mailto:nicolas.jourdain@univ-grenoble-alpes.fr><br>
 <a href="mailto:nicolas.jourdain@univ-grenoble-alpes.fr">nicolas.jourdain@univ-grenoble-alpes.fr</a><br>
 <hr>
 <b>Office:</b><br>
