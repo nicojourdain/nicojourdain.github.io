@@ -2,7 +2,9 @@
 layout: default
 ---
 
-![baniere1]({{site.baseurl}}/img/baniere_3.jpg)
+<div>
+<img src="{{site.url}}img/baniere_3.jpg" width="100%" height="100%"/>
+</div>
 
 {::nomarkdown}
 <div style="display:inline;text-align:left;">
