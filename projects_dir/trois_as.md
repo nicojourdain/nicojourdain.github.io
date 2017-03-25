@@ -9,13 +9,14 @@ date: 2017-03-25
 <img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="25%" height="25%" border="0"/>
 <div style="float:right"> 
 <br> <b>
+<font size="18">
 Towards a Regional<br>
 Ocean / Ice-Sheet / Atmosphere<br>
 modelling System<br>
 </b> <br> <br>
+</font>
 </div>
 </div>
-<div style="clear:both"/>
 {:/}
 
 The largest uncertainty on the 21st century sea level rise is related to the Antarctic ice sheet, where dynamical ice discharge is projected to increase, being only partly compensated by the effect of increased snowfall. A very large part of the increased discharge will likely occur through Pine Island and Thwaites glaciers that have an ice-shelf termination in the Amundsen Sea. These glaciers may already be engaged in a dynamical instability triggered by increased melt beneath their ice shelves. The later results from the Amundsen Sea warming that is likely related to wind changes at both regional and global scales. Several significant feedbacks between atmosphere, ocean and glacier dynamics have been suggested in the literature.
