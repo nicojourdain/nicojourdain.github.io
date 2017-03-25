@@ -6,6 +6,8 @@ layout: default
 <img src="{{site.url}}img/baniere_3.jpg" width="100%" height="100%"/>
 </div>
 
+<br>
+
 {::nomarkdown}
 <div style="display:inline;text-align:left;">
 <img src="{{site.baseurl}}/img/photo_nico-filtered.jpg" style="float: left;" />
