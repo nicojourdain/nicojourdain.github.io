@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: trois_as
 title: "TROIS AS"
-date: 2017-02-18
+date: 2017-03-23
 ---
 
 <div>
@@ -14,4 +14,8 @@ The largest uncertainty on the 21st century sea level rise is related to the Ant
 
 Current Earth System Models built for climate projections have many biases in the Antarctic region, and they do not represent the ocean beneath ice shelves and the glacier dynamics. The capability of representing the ocean in static ice-shelf cavities has been introduced in a few ocean models recently. The ice-sheet models have also improved significantly over the last few years, and a few ice models are now able to capture the fast acceleration of glaciers with a marine termination. However, most of these models are still forced by an imposed and idealized melt rate beneath their ice shelves, which hides feedbacks and makes future projections overly uncertain. Concerning the atmosphere, only a few regional models designed for the polar environment are currently able to simulate the complex surface mass balance and coastal winds of Antarctica.
 
-The TROIS-AS project aims to build a regional modeling system enabling the representation of physical processes and feedbacks at the ocean/ice-sheet and atmosphere/ice-sheet interfaces. The objective is to quantify the contribution of Pine Island and Thwaites glaciers to global sea level rise over the next 100 years. The project covers 2015-2019 and is conducted at the *Institut de Géosciences de l’Environnement* (IGE, Grenoble, France). 
+The TROIS-AS project aims to build a regional modeling system enabling the representation of physical processes and feedbacks at the ocean/ice-sheet and atmosphere/ice-sheet interfaces. The objective is to quantify the contribution of Pine Island and Thwaites glaciers to global sea level rise over the next 100 years. The project covers 2015-2019 and is conducted at the *Institut de Géosciences de l’Environnement* (IGE, Grenoble, France).
+
+<div>
+<img src="{{site.url}}projects_dir/img/all_logos.jpg" width="100%" height="100%"/>
+</div> 
