@@ -1,11 +1,11 @@
 ---
 layout: trois_as
 title: "TROIS AS"
-date: 2017-03-23
+date: 2017-03-25
 ---
 
 <div>
-<img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="30%" height="30%"/>
+<img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="25%" height="25%"/>
 </div>
 
 ## Towards a Regional Ocean / Ice-Sheet / Atmosphere modelling System
@@ -17,5 +17,5 @@ Current Earth System Models built for climate projections have many biases in th
 The TROIS-AS project aims to build a regional modeling system enabling the representation of physical processes and feedbacks at the ocean/ice-sheet and atmosphere/ice-sheet interfaces. The objective is to quantify the contribution of Pine Island and Thwaites glaciers to global sea level rise over the next 100 years. The project covers 2015-2019 and is conducted at the *Institut de Géosciences de l’Environnement* (IGE, Grenoble, France).
 
 <div>
-<img src="{{site.url}}projects_dir/img/all_logos.jpg" width="100%" height="100%"/>
+<img src="{{site.url}}projects_dir/img/all_logos.jpg" width="50%" height="50%"/>
 </div> 
