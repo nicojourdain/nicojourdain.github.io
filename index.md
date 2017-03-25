@@ -4,13 +4,13 @@ layout: default
 
 ![baniere1]({{site.baseurl}}/img/baniere_3.jpg)
 
-## Contact
-
 {::nomarkdown}
-<div style="float:left">
+<div style="display:inline;text-align:left;">
 <img src="{{site.baseurl}}/img/photo_nico-filtered.jpg" style="float: left;" />
-</div>
 <div style="float:right">
+CNRS Research Fellow<br>
+ARCCSS Associate Investigator<br>
+<hr>
 <mailto:nicolas.jourdain@univ-grenoble-alpes.fr><br>
 <a href="mailto:nicolas.jourdain@univ-grenoble-alpes.fr">nicolas.jourdain@univ-grenoble-alpes.fr</a><br>
 <hr>
@@ -25,8 +25,7 @@ CS 40 700<br>
 F-38058 Grenoble cedex 9<br>
 France<br>
 <hr>
-CNRS Research Fellow<br>
-ARCCSS Associate Investigator<br>
+</div>
 </div>
 <div style="clear:both"/>
 {:/}
