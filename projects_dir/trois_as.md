@@ -8,7 +8,7 @@ date: 2017-03-25
 <div style="display:inline; text-align:left; float:left;">
 <img src="{{site.url}}projects_dir/img/trois_as_original_text.png" width="25%" height="25%" border="0"/>
 </div>
-<div style="display:inline; text-align:left; float:right"> 
+<div style="float:right"> 
 <br> <b>
 Towards a Regional<br>
 Ocean / Ice-Sheet / Atmosphere<br>
