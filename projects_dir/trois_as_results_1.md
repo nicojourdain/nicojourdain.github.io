@@ -8,6 +8,7 @@ We have contributed to the 2nd Ice Shelf-Ocean Model Intercomparison Project ([I
 
 Below is an example of our results for ISOMIP+ EXP3, showing a warm forcing with retreating ice-shelf geometry.
 
+![animated EXP3]({{site.url}}projects_dir/img/movie_temperatureXZ_Ocean3_COM.gif)
 
 [1]: http://www.climate-cryosphere.org/activities/targeted/153-misomip/1413-isomip-plus
 [2]: http://www.nemo-ocean.eu
