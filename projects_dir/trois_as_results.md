@@ -15,6 +15,7 @@ TROIS AS Results <br>
 </font>
 </div>
 </div>
+<div style="clear:both"/>
 {:/}
 
 ---
