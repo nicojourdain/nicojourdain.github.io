@@ -15,6 +15,7 @@ TROIS AS Communications <br>
 </font>
 </div>
 </div>
+<div style="clear:both"/>
 {:/}
 
 * **International Glaciological Society (IGS) Symposium, Wellington, New Zealand**, March 2017 : Merino, N., Le Sommer, J., Jourdain, N. C., Durand, G., Goosse, H. *Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean*. See [Proceedings](https://www.igsoc.org/symposia/2017/newzealand/proceedings/proceedings.html)

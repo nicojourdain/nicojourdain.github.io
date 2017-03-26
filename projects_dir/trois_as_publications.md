@@ -15,9 +15,10 @@ TROIS AS Publications <br>
 </font>
 </div>
 </div>
+<div style="clear:both"/>
 {:/}
 
 * Merino N., Le Sommer, J., Durand, G., Jourdain, N. C., Goose, H., Madec, G., Mathiot, P. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
 
-* Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res. (accepted in Feb. 2017)_.
+* Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res. (accepted in Feb. 2017)_. [doi/10.1002/2016JC012509](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract)
 
