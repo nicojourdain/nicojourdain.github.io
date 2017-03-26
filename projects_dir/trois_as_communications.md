@@ -19,6 +19,8 @@ TROIS AS Communications <br>
 
 * **International Glaciological Society (IGS) Symposium, Wellington, New Zealand**, March 2017 : Merino, N., Le Sommer, J., Jourdain, N. C., Durand, G., Goosse, H. *Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean*. See [Proceedings](https://www.igsoc.org/symposia/2017/newzealand/proceedings/proceedings.html)
 
+* **AGU Fall Meeting, San Francisco, USA**, December 2016 : Asay-Davis, X., Galton-Fenzi, B., Gwyther, D., Jourdain, N., Martin, D. F., Nakayama, Y., Seroussi, H. L. *Results from ISOMIP+ and MISOMIP1, two interrelated marine ice sheet and ocean model intercomparison projects*. See [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/117786) 
+
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden**, October 2106 : Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
 
 * **International Glaciological Society (IGS) Symposium, La Jolla, USA**, July 2016 : Jourdain, N. C., Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Proceedings](https://www.igsoc.org/symposia/2016/lajolla/proceedings/proceedings.html)
