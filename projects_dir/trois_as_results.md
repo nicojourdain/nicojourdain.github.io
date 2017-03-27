@@ -27,7 +27,7 @@ This is the first paper from the TROIS AS ANR project, and the first paper writt
 ---
 **January 2017 - Contribution to ISOMIP+**
 
-We have contributed to the 2nd Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+)...
+We have contributed to the 2nd Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+) using the NEMO ocean model...
 [[Read more]]({{site.url}}projects_dir/trois_as_results_1)
 
 ---
