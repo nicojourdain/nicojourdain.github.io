@@ -4,5 +4,20 @@ title: "Ocean circulation and sea-ice thinning induced by melting ice shelves"
 date: 2017-03-24
 ---
 
-Coming soon...
+This is the first paper from the [TROIS AS][1] ANR project, and the first paper written at [IGE][2]/CNRS/UGA (with colleagues from Australia, UK and USA) on the simulation of under-ice-shelf seas. Here is the [journal link][3]. 
 
+In this paper, we describe a new configuration of the ocean model [NEMO][4] that represents the entire Amundsen Sea, Antarctica, including ice-shelf cavities, and the entire sea ice pack extending northward of the Amundsen Sea. After an evaluation of our simulations (based on satellite estimates of sea-ice cover and ice-shelf melt, and on CTD profiles), we have investigated the sensitivity of ice-shelf melt to the drag (*Cd*) and heat exchange (*&#915;T*) coefficients at the ice/ocean interface. This emphasizes the importance of the thermal Stanton number (*St*), and shows that several combinations of drag and heat exchange coefficients allow reproducing observed melt rates.
+
+![]({{site.url}}projects_dir/img/melt_various_drag_St_THW_PIG_reduced.jpg)
+*Sensitivity of the total melt rate in (a) Thwaites and (b) Pine Island cavities to the drag and heat exchange coefficients. Each circle is the result of a simulation, and the colour shading in between is an interpolation. Iso-Stanton numbers are indicated in black, and the white contours indicate the melt observational range.*
+
+Then, we have used all these sensitivity experiments to know more about the melt-induced circulation within ice-shelf cavities. Our results indicate a very strong linear relationship between the cavity melt rate and the circulation (either input/output, barotropic, or overturning). The strength of the melt-induced circulation is also quite impressive, as the melt-induced circulation brings 100 to 500 more warm water into the cavity than the melt volume flux itself. The water inflow mixes with the extremely buoyant ice-shelf meltwater, and is still buoyant when it extis the cavity. As such, ice-shelf cavities in the Amundsen Sea are very powerful warm water pumps.
+
+![]({{site.url}}projects_dir/img/isf_scheme.png)
+*Schematic of the melt-induced circulation and heat fluxes in the cavities of the Amundsen Sea. All the numbers correspond to volume and heat transports induced by 1mSv (1000 m3/s) of melt rate.* 
+
+
+[1]: http://nicojourdain.github.io/projects_dir/trois_as
+[2]: http://www.ige-grenoble.fr
+[3]: http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract
+[4]: http://www.nemo-ocean.eu
