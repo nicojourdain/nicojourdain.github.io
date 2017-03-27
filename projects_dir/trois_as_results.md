@@ -21,15 +21,13 @@ TROIS AS Results <br>
 ---
 **March 2017 - Ocean circulation and sea-ice thinning induced by melting ice shelves**
 
-This is the first paper from the TROIS AS ANR project, and the first paper written at IGE/CNRS/UGA...
-
-[Read more]({{site.url}}projects_dir/trois_as_results_2)
+This is the first paper from the TROIS AS ANR project, and the first paper written at IGE/CNRS/UGA on the simulation of under-ice-shelf seas...
+[[Read more]]({{site.url}}projects_dir/trois_as_results_2)
 
 ---
 **January 2017 - Contribution to ISOMIP+**
 
 We have contributed to the 2nd Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+)...
-
-[Read more]({{site.url}}projects_dir/trois_as_results_1)
+[[Read more]]({{site.url}}projects_dir/trois_as_results_1)
 
 ---
