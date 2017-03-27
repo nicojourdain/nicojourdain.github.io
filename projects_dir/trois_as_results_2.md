@@ -13,7 +13,9 @@ In this paper, we describe a new configuration of the ocean model [NEMO][4] that
 
 Then, we have used all these sensitivity experiments to know more about the melt-induced circulation within ice-shelf cavities. Our results indicate a very strong linear relationship between the cavity melt rate and the circulation (either input/output, barotropic, or overturning). The strength of the melt-induced circulation is also quite impressive, as the melt-induced circulation brings 100 to 500 more warm water into the cavity than the melt volume flux itself. The water inflow mixes with the extremely buoyant ice-shelf meltwater, and is still buoyant when it extis the cavity. As such, ice-shelf cavities in the Amundsen Sea are very powerful warm water pumps.
 
-![]({{site.url}}projects_dir/img/isf_scheme.png)
+<div align:center >
+<img src="{{site.url}}projects_dir/img/isf_scheme.png" width="75%" height="75%"/>
+</div>
 *Schematic of the melt-induced circulation and heat fluxes in the cavities of the Amundsen Sea. All the numbers correspond to volume and heat transports induced by 1mSv (1000 m3/s) of melt rate.* 
 
 
