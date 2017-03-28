@@ -4,6 +4,17 @@ title: How to deal with netcdf files?
 date: 28-03-2017
 ---
 
+This page is organised as follows:
+
+1. Read metadata and quickly visualise netcdf files
+2. Modify netcdf files using the NCO operators
+3. Using cdo operators
+4. Read/Modify/Create netcdf files in fortran90
+5. Read/Modify/Create netcdf files in Matlab
+6. Read/Modify/Create netcdf files in Python
+
+---
+
 # Read metadata and quickly visualise netcdf files
 
 To list the metadata of a netcdf file (dimensions, variable names, attributes) :
