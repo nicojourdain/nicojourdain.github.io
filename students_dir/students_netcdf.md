@@ -173,7 +173,7 @@ nc-config --libs
 nc-configs --includedir
 ```
 
-NB2: if you want to install the libraries yourself, check [this page](/students_dir/students_nclib.md).
+NB2: if you want to install the libraries yourself, check [this page]({{site.url}}students_dir/students_nclib).
 
 ---
 
