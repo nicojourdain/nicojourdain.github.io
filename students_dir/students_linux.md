@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Linux
+date: 28-03-2017
 ---
 
-
-
-hehe
+Coming soon...

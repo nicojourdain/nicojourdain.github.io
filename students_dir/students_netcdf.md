@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: post
 title: How to deal with netcdf files?
+date: 28-03-2017
 ---
 
 # Read metadata and quickly visualise netcdf files
@@ -96,17 +97,17 @@ ncatted -a standard_name,var1,d,, filein.nc fileout.nc
 
 To modify existing attribute "long_name" of character type for variable var1:
 ```shell
-    ncatted -a long_name,var1,m,c,'temperature' filein.nc fileout.nc
+ncatted -a long_name,var1,m,c,'temperature' filein.nc fileout.nc
 ```
 To create non-existing attribute "units" of character type for variable var1:
 ```shell
-    ncatted -a units,var1,c,c,'K' filein.nc fileout.nc
+ncatted -a units,var1,c,c,'K' filein.nc fileout.nc
 ```
 
 Finally, a very powerful command is ncap2. Again, there is a large number of possibilities, see NCO user guide for further information. A few examples are given here: 
 To calculate new variable called KE from existing uu and vv variables:
 ```shell
-    ncap2 -F -s "KE=0.5*(uu*uu+vv*vv)" file_in.nc file_out.nc
+ncap2 -F -s "KE=0.5*(uu*uu+vv*vv)" file_in.nc file_out.nc
 ```
 To create a land mask variable (sftlf) based on SST (tos) values : 
 ```shell
@@ -117,56 +118,74 @@ where( tos(1,:,:) > 260.0 || tos(1,:,:) < 310.0 ) sftlf=0.0" \\
 filein.nc fileout.nc
 ```
 To use a loop to fill existing variable X from index 1 to index 482:
-    ncap2 -F -s \\
+```shell
+ncap2 -F -s \\
 "idx=1 ; while(idx<482){X(idx) = 20.0+0.75*idx; idx++;}" \\
 filein.nc fileout.nc
+```
 
+---
 
-3- Using cdo operators
+# Using cdo operators
 
 Many things (running means, EOF, conversions, etc) can now be done using the cdo operators. For a list of available operators and options, see:
-https://code.zmaw.de/projects/cdo/embedded/cdo_refcard.pdf
+[this PDF](https://code.zmaw.de/projects/cdo/embedded/cdo_refcard.pdf)
 
 A few very simple examples are shown below.
 
 To create a variable from the sum (var_sum) of two existing variables (var1 & var2) :
-    cdo expr,'var_sum=var1+var2' file_in.nc file_out.nc
+```shell
+cdo expr,'var_sum=var1+var2' file_in.nc file_out.nc
+```
 
 To check whether two netcdf files are identical, or to find where differences are :
-    cdo diffn file_in.nc file_out.nc
+```shell
+cdo diffn file_in.nc file_out.nc
+```
 
 To convert grib to netcdf :
-    cdo -f nc copy file_in.grib file_out.nc
+```shell
+cdo -f nc copy file_in.grib file_out.nc
+```
 As variable names are not stored in grib files, you may need to contact the institute that built the grib file to identify variables (e.g. check ungrib/Variable_Tables for WRF/WPS files).
 
+---
 
-4- Read/Modify/Create netcdf files in fortran90
+# Read/Modify/Create netcdf files in fortran90
 
 It can be convenient to read netcdf files in your fortran scripts, or to create fortran scripts to treat large netcdf files. For this, you can use the netcdf-fortran library.
 
 Here is an example of very basic fortran program that can be used to read a netcdf file, create or modify a variable and create a new netcdf file that is similar to the first one:
-                                                    example.f90
+example.f90
 
 A way to compile and execute it (e.g. with the ifort compiler) is :
-    NC_INC="-I /apps/netcdf/4.2.1.1/include"  ## to adapt
-    NC_LIB="-L /apps/netcdf/4.2.1.1/lib -lnetcdf -lnetcdff" ## to adapt
-    ifort -c $NC_INC example.f90
-    ifort -o run_example example.o $NC_LIB
-    ./run_example
+```shell
+NC_INC="-I /apps/netcdf/4.2.1.1/include"  ## to adapt
+NC_LIB="-L /apps/netcdf/4.2.1.1/lib -lnetcdf -lnetcdff" ## to adapt
+ifort -c $NC_INC example.f90
+ifort -o run_example example.o $NC_LIB
+./run_example
+```
 
 NB1: to find the netcdf path, you can do: 
+```shell
 nc-config --libs
-or :
-locate libnetcdf.a
+nc-configs --includedir
+```
 
-NB2: if you want to install the libraries yourself, check [this page]
+NB2: if you want to install the libraries yourself, check [this page](/students_dir/students_nclib.md).
 
-5- Read/Modify/Create netcdf files in Matlab
+---
 
-To be written...
+# Read/Modify/Create netcdf files in Matlab
 
+To read a netcdf file, you can use [ncload.m](http://github.com/nicojourdain/matlab_scripts/blob/master/ncload.m)
 
-6- Read/Modify/Create netcdf files in Python
+To be completed...
+
+---
+
+# Read/Modify/Create netcdf files in Python
 
 To be written...
 
