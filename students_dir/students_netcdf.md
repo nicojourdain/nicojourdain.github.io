@@ -46,7 +46,7 @@ ncrename -O -v var1,newvar filein.nc fileout.nc
 ncrename -O -d x,lon filein.nc fileout.nc
 ```
 
-To crop a netcdf file, i.e. to reduce the domain size (with option -F indices start from 1):
+To **crop a netcdf file**, i.e. to reduce the domain size (with option -F indices start from 1):
 ```shell
 ncks -F -d time,1,10 filein.nc fileout.nc
 ncks -F -d x,92,111 filein.nc fileout.nc
@@ -57,28 +57,28 @@ Similarly, if you have a well written netcdf file (with appropriate attributes) 
 ncks -d lat,-30.0,30.0 filein.nc fileout.nc
 ```
 
-To only keep variables var1 and var2 in a netcdf file (option -O is to overwritte):
+To **only keep variables var1 and var2** in a netcdf file (option -O is to overwritte):
 ```shell
 ncks -O -v var1,var2 filein.nc fileout.nc
 ```
 
-To remove variables var1 and var2 from a netcdf file:
+To **remove variables** var1 and var2 from a netcdf file:
 ```shell
 ncks -O -x -v var1,var2 filein.nc fileout.nc
 ```
 
-To merge two files of same dimension (name and size), e.g. file1.nc containing the variable var(x,y) and file2.nc containing the variables nav_lon(x,y), nav_lat(x,y) and Bathymetry(x,y), you can do as follows:
+To **merge two files** of same dimension (name and size), e.g. file1.nc containing the variable var(x,y) and file2.nc containing the variables nav_lon(x,y), nav_lat(x,y) and Bathymetry(x,y), you can do as follows:
 ```shell
 ncks -A file1.nc file2.nc
 ```
 The variable var(x,y) will then be included into file2.nc 
 
-To concatenate files with the same variables and consecutive time steps (e.g. there is one file per month [whatever the output frequency within this file] and you want a file containing the JJAS months):
+To **concatenate files** with the same variables and consecutive time steps (e.g. there is one file per month [whatever the output frequency within this file] and you want a file containing the JJAS months):
 ```shell
 ncrcat JUN1979.nc JUL1979.nc AUG1979.nc SEP1979.nc JJAS_1979.nc  
 ```
 
-To calculate time-averages, e.g. to calculate a monthly mean from a file containing daily outputs:
+To calculate **time-averages**, e.g. to calculate a monthly mean from a file containing daily outputs:
 ```shell
 ncra -F -d time,1,31 file_January_daily.nc file_January_monthly.nc
 ```
@@ -89,7 +89,7 @@ ncra -F -d time,2,1872,12 tos_monthly_1850-2005.nc tos_mean_FEB.nc
 ncra -F -d time,3,1872,12 tos_monthly_1850-2005.nc tos_mean_MAR.nc
 ```
 
-Here are a few examples showing how to modify netcdf attributes (see NCO user guide for further information). 
+Here are a few examples showing how to modify **netcdf attributes** (see NCO user guide for further information). 
 To delete attribute "standard_name" for variable "var1":
 ```shell
 ncatted -a standard_name,var1,d,, filein.nc fileout.nc
@@ -155,8 +155,7 @@ As variable names are not stored in grib files, you may need to contact the inst
 
 It can be convenient to read netcdf files in your fortran scripts, or to create fortran scripts to treat large netcdf files. For this, you can use the netcdf-fortran library.
 
-Here is an example of very basic fortran program that can be used to read a netcdf file, create or modify a variable and create a new netcdf file that is similar to the first one:
-example.f90
+Here is an example of very basic fortran program that can be used to read a netcdf file, create or modify a variable and create a new netcdf file that is similar to the first one: [example.f90]({{site.url}}students_dir/example.f90).
 
 A way to compile and execute it (e.g. with the ifort compiler) is :
 ```shell

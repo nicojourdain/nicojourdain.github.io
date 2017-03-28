@@ -4,11 +4,9 @@ title: How to install hdf5/netcdf libraries?
 date: 01-01-2015
 ---
 
-This page is to help installing Netcdf, Hdf, and Fortran-netcdf libraries on your platform if they are not already installed. 
+This page is to help installing Netcdf, Hdf, and Fortran-netcdf libraries on your platform if they are not already installed or if they have been installed with the wrong options. 
 
-For NEMO users: these libraries are often installed with standard options that do not fit with the needs of NEMO or the IO server, so you probably need to recompile them even if they are already available through modules (e.g. on raijin). 
-
-Here is the way to do it on raijin, but it will be very similar for other platforms (e.g. you can probably change the -xAVX option to another one on other platforms):
+Here is the way to do it on raijin (NCI), but it will be very similar for other platforms (e.g. you can probably change the -xAVX option to another one on other platforms):
 
 ```shell
 
