@@ -1,22 +1,24 @@
 ---
 layout: page
-title: Netcdf
+title: How to deal with netcdf files?
 ---
 
-## Read metadata and quickly visualise netcdf files
+# Read metadata and quickly visualise netcdf files
 
 To list the metadata of a netcdf file (dimensions, variable names, attributes) :
 ```shell
-function () {
 ncdump -h file.nc
-}
 ```
 
 To list the metadata and the values of variable var1 :
-    ncdump -v var1 file.nc | more
+```shell
+ncdump -v var1 file.nc | more
+```
 
 To have a quick look at the fields (i.e. the variables) in the netcdf file, use ncview:
-    ncview file.nc &
+```shell
+ncview file.nc &
+```
 
 Ferret is also a convenient software to have a quick look at netcdf files, e.g. :
     ferret
@@ -28,10 +30,10 @@ Ferret is also a convenient software to have a quick look at netcdf files, e.g. 
         yes? plot/over BATHYMETRY[i=215]
         yes? quit
 
-See Ferret documentation [here] for more complex plots and diagnostics.
+See Ferret documentation [here](http://ferret.pmel.noaa.gov/Ferret/documentation/users-guide) for more complex plots and diagnostics.
 
-
-2- Modify netcdf files using the NCO operators
+---
+# Modify netcdf files using the NCO operators
 
 NCO tools consist of several powerful commands to read/modify/create netcdf files. The full documentation can be found [here]. Some simple basic command lines are shown here as an example.
 
