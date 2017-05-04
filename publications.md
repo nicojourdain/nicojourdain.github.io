@@ -12,6 +12,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+* Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _Submitted to J. Geophys. Res. Oceans_
+
 * Merino N., J. Le Sommer, G. Durand, **N. C. Jourdain**, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
 
 * Bull, C., England, M. H., Van Sebille, E., Kiss, A. and **Jourdain, N. C.**. The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
