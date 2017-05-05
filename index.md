@@ -10,7 +10,7 @@ layout: default
 
 {::nomarkdown}
 <div style="display:inline;text-align:left;">
-<img src="{{site.baseurl}}/img/photo_nico-filtered.jpg" style="float: left;" />
+<img src="{{site.baseurl}}/img/nico_4-3.jpg" style="float: left;" />
 <div style="float:right">
 CNRS Research Fellow<br>
 ARCCSS Associate Investigator<br>
