@@ -100,6 +100,11 @@ ncra -F -d time,2,1872,12 tos_monthly_1850-2005.nc tos_mean_FEB.nc
 ncra -F -d time,3,1872,12 tos_monthly_1850-2005.nc tos_mean_MAR.nc
 ```
 
+To remove a degenerated dimension (e.g. z):
+```shell
+ncwa -F -a z,1 filein.nc fileout.nc
+```
+
 Here are a few examples showing how to modify **netcdf attributes** (see NCO user guide for further information). 
 To delete attribute "standard_name" for variable "var1":
 ```shell
