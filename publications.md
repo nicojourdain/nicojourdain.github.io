@@ -12,6 +12,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+* Asay-Davis, X., **Jourdain, N. C.** and Yamagata, Y. Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Submitted to Current Climate Change Reports_
+
 * Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _Submitted to J. Geophys. Res. Oceans_
 
 * Merino N., J. Le Sommer, G. Durand, **N. C. Jourdain**, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
@@ -23,11 +25,11 @@ For publication metrics, see :
 
 # 2017
 
-28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res. (accepted in Feb. 2017)_. [doi:10.1002/2016JC012509](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract)
+28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. (2016). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res._, 122 (3), 2550–2573. [doi:10.1002/2016JC012509](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract)
+
+27. Li, Y., **Jourdain, N. C.**, Taschetto, A. S., Sen Gupta, A., Argüeso, D., Masson, S., Cai, W. (2016). Resolution dependence of the simulated precipitation and diurnal cycle over the Maritime Continent. _Clim. Dynam._, 48 (11), 4009–4028. [doi:10.1007/s00382-016-3317-y](http://link.springer.com/article/10.1007/s00382-016-3317-y)
 
 # 2016
-
-27. Li, Y., **Jourdain, N. C.**, Taschetto, A. S., Sen Gupta, A., Argüeso, D., Masson, S., Cai, W. (2016). Resolution dependence of the simulated precipitation and diurnal cycle over the Maritime Continent. _Clim. Dynam., in press, accepted in Aug. 2016_. [doi:10.1007/s00382-016-3317-y](http://link.springer.com/article/10.1007/s00382-016-3317-y)
 
 26. **Jourdain, N. C.**, Lengaigne, M., Vialard, J., Izumo, T., Sen Gupta, A. (2016). Further insights on the influence of the Indian Ocean Dipole on the following year's ENSO from observations and CMIP5 models. _J. Climate_, 29(2), 637-658. [doi:10.1175/JCLI-D-15-0481.1](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-15-0481.1)
 
