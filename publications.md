@@ -12,8 +12,6 @@ For publication metrics, see :
 
 ## Submitted papers
 
-* Asay-Davis, X., **Jourdain, N. C.** and Yamagata, Y. Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Submitted to Current Climate Change Reports_
-
 * Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _Submitted to J. Geophys. Res. Oceans_
 
 * Merino N., J. Le Sommer, G. Durand, **N. C. Jourdain**, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
