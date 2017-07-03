@@ -18,6 +18,7 @@ For publication metrics, see :
 
 * Bull, C., England, M. H., Van Sebille, E., Kiss, A. and **Jourdain, N. C.**. The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
 
+* Dutheil, C., Bador, M., Lengaigne, M., Lefèvre, J., **Jourdain, N. C.**, Jullien, S., Vialard, J. R. and Menkes, C. E. The collapse of the South Pacific Convergence Zone under a changing climate. _Submitted to Climate Dynamics_.
 
 ## Peer reviewed publications
 
