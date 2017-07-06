@@ -160,3 +160,13 @@ To update a file date:
 ```shell
 touch file1
 ```
+
+To find your IP address:
+```shell
+/sbin/ifconfig
+```
+
+To find the name associated with an IP address ("your_IP"):
+```shell
+nslookup your_IP
+```
