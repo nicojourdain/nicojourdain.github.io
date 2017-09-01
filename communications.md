@@ -10,6 +10,10 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Bergen, Norway**, June 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.*
+
+* **European Geophysical Union (EGU) General Assembly, Vienna**, Austria, April 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.* See [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf) 
+
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden**, October 2106 : Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
 
 * **International Glaciological Society (IGS) Symposium, La Jolla, USA**, July 2016 : Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Proceedings](https://www.igsoc.org/symposia/2016/lajolla/proceedings/proceedings.html)
