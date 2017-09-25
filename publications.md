@@ -20,15 +20,13 @@ For publication metrics, see :
 
 * Bull, C., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. Wind forced variability in eddy formation, eddy shedding and the separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
 
-* Dutheil, C., Bador, M., Lengaigne, M., Lefèvre, J., **Jourdain, N. C.**, Jullien, S., Vialard, J. R. and Menkes, C. E. The collapse of the South Pacific Convergence Zone under a changing climate. _Submitted to Climate Dynamics_.
-
-* Asay-Davis, X. S., **Jourdain, N. C.** and Nakayama, Y. Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Submitted to Current Climate Change Reports_
-
 ## Peer reviewed publications
 
 # 2017
 
-28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P., Paul Spence and Madec, G. (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res._, 122 (3), 2550–2573. [doi:10.1002/2016JC012509](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract)
+29. Asay-Davis, X. S., **Jourdain, N. C.** and Nakayama, Y. Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Current Climate Change Reports, accepted_
+
+28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P., Spence, P. and Madec, G. (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res._, 122 (3), 2550–2573. [doi:10.1002/2016JC012509](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract)
 
 27. Li, Y., **Jourdain, N. C.**, Taschetto, A. S., Sen Gupta, A., Argüeso, D., Masson, S., Cai, W. (2017). Resolution dependence of the simulated precipitation and diurnal cycle over the Maritime Continent. _Clim. Dynam._, 48 (11), 4009–4028. [doi:10.1007/s00382-016-3317-y](http://link.springer.com/article/10.1007/s00382-016-3317-y)
 
