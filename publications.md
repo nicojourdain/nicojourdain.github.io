@@ -8,7 +8,7 @@ permalink: /publications/
 
 For publication metrics, see :  
 [google scholar](https://scholar.google.fr/citations?user=vIdPlZ4AAAAJ&hl=en)  
-[ORCID](http://orcid.org/0000-0002-1372-2235 )  
+<a href="https://orcid.org/0000-0002-1372-2235" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1372-2235</a>
 
 ## Submitted papers
 
