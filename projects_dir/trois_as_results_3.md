@@ -4,7 +4,7 @@ title: "New review on ocean/ice-sheet interaction"
 date: 2017-10-25
 ---
 
-Xylar Asay-Davis, Yoshihiro Nakayama and Nicolas Jourdain have written a review on recent developments (over the last 3 years) in simulating and parameterizing interactions between the Southern Ocean and the Antarctic Ice Sheet. It has been published in [Current Climate Change Reports][1] (download draft [here][2]). 
+Xylar Asay-Davis, Yoshihiro Nakayama and Nicolas Jourdain have written a review on recent developments (over the last 3 years) in simulating and parameterizing interactions between the Southern Ocean and the Antarctic Ice Sheet. It has been published in [Current Climate Change Reports][1] (See [Full text (view only)][4] or download [draft][2]). 
 
 The first part is dedicated to the ocean processes involved in the heat exchange between the Southern Ocean and the ice sheet margins, and to the effects of the Antarctic freshwater release (iceberg and ice-shelf melt) on the climate system. The second part describes the various ice-shelf melt parameterizations that have been used in recent ice-sheet modelling studies, and lists the caveats inherent to each parameterization. Finally, our paper presents the results obtained with recently developed ocean/ice-sheet models, and discusses the on-going challenges. 
 
@@ -17,3 +17,4 @@ Asay-Davis, X. S., Jourdain, N. C. and Nakayama, Y. Developments in Simulating a
 [1]: https://doi.org/10.1007/s40641-017-0071-0
 [2]: https://mycore.core-cloud.net/index.php/s/sFFqqSuNubuklVG
 [3]: https://link.springer.com/journal/40641/topicalCollection/AC_c5819e8f7dcffef432f0bf4cffe36cb1
+[4]: http://rdcu.be/xzM6
