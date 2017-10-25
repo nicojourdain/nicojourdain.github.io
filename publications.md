@@ -24,7 +24,7 @@ For publication metrics, see :
 
 # 2017
 
-29. Asay-Davis, X. S., **Jourdain, N. C.** and Nakayama, Y. Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Current Climate Change Reports, accepted_
+29. Asay-Davis, X. S., **Jourdain, N. C.** and Nakayama, Y. Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Current Climate Change Reports_, published online [doi:10.1007/s40641-017-0071-0](https://doi.org/10.1007/s40641-017-0071-0)
 
 28. **Jourdain, N. C.**, Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P., Spence, P. and Madec, G. (2017). Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea. _J. Geophys. Res._, 122 (3), 2550–2573. [doi:10.1002/2016JC012509](http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract)
 
