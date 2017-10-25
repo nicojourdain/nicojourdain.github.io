@@ -18,6 +18,10 @@ TROIS AS Communications <br>
 <div style="clear:both"/>
 {:/}
 
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Bergen, Norway**, June 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.*
+
+* **European Geophysical Union (EGU) General Assembly, Vienna**, Austria, April 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.* See [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf)
+
 * **International Glaciological Society (IGS) Symposium, Wellington, New Zealand**, March 2017 : Merino, N., Le Sommer, J., Jourdain, N. C., Durand, G., Goosse, H. *Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean*. See [Proceedings](https://www.igsoc.org/symposia/2017/newzealand/proceedings/proceedings.html)
 
 * **AGU Fall Meeting, San Francisco, USA**, December 2016 : Asay-Davis, X., Galton-Fenzi, B., Gwyther, D., Jourdain, N., Martin, D. F., Nakayama, Y., Seroussi, H. L. *Results from ISOMIP+ and MISOMIP1, two interrelated marine ice sheet and ocean model intercomparison projects*. See [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/117786) 
