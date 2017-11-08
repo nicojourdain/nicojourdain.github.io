@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First simulations with the NEMO-Elmer/Ice coupled model"
-date: 2017-10-08
+date: 2017-11-08
 ---
 
 *Contributors*: Nacho Merino (previously at IGE), Nico Jourdain (IGE), Fabien Gillet-Chaulet (IGE), Olivier Gagliardini (IGE), Gaël Durand (IGE), Pierre Mathiot (UK Met Office), Gurvan Madec (LOCEAN-IPSL)
