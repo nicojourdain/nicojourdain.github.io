@@ -18,11 +18,11 @@ For publication metrics, see :
 
 * Bull, C., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
 
-* Bull, C., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. Wind forced variability in eddy formation, eddy shedding and the separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
-
 ## Peer reviewed publications
 
 # 2017
+
+30. Bull, C., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. Wind forced variability in eddy formation, eddy shedding and the separation of the East Australian Current. _Geophys. Res. Lett._, in press.
 
 29. Asay-Davis, X. S., **Jourdain, N. C.** and Nakayama, Y. (2017). Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Current Climate Change Reports_, published online [doi:10.1007/s40641-017-0071-0](https://doi.org/10.1007/s40641-017-0071-0)
 
