@@ -12,15 +12,15 @@ For publication metrics, see :
 
 ## Submitted papers
 
-* Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _Submitted to J. Geophys. Res. Oceans_
-
-* Merino N., J. Le Sommer, G. Durand, **N. C. Jourdain**, H. Goose, G. Madec, P. Mathiot. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
-
 * Bull, C., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _Submitted to Geophys. Res. Lett._.
 
 ## Peer reviewed publications
 
 # 2017
+
+32. Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _Submitted to J. Geophys. Res. Oceans_, accepted.
+
+31. Merino N., **Jourdain, N. C.**, Le Sommer, J., Goose, H., Mathiot, P. and Durand, G. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_, accepted.
 
 30. Bull, C., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. Wind forced variability in eddy formation, eddy shedding and the separation of the East Australian Current. _Geophys. Res. Lett._, in press.
 
