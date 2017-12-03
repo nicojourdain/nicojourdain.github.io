@@ -19,6 +19,12 @@ TROIS AS Results <br>
 {:/}
 
 ---
+**December 2017 - Impact of increasing glacial freshwater release on the Antarctic sea ice**
+
+In their new paper, Merino et al. propose a refined methodology to calculate and distribute the increased freshwater release from the Antarctic ice sheet from the early 1990s to the 2000s...
+[[Read more]]({{site.url}}projects_dir/trois_as_results_4) 
+
+---
 **October 2017 - New review on ocean/ice-sheet interaction** 
 
 Xylar Asay-Davis, Yoshihiro Nakayama and Nicolas Jourdain have written a review on recent developments (over the last 3 years) in simulating and parameterizing interactions between the Southern Ocean and the Antarctic Ice Sheet...
