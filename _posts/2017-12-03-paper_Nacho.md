@@ -17,7 +17,7 @@ It is found that the freshwater-induced changes in sea-ice extent overall contri
 
 
 <center><div>
-<img src="{{site.url}}projects_dir/img/fig11_Merino_2017.jpg" width="60%" height="60%"/>
+<img src="{{site.url}}projects_dir/img/fig11_Merino_2017.jpg" width="80%" height="80%"/>
 </div></center>
 *Changes in sea ice thickness due to changing winds (a) and to changing glacial freshwater (b).*
 
