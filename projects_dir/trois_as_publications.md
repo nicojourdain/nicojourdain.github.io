@@ -18,9 +18,9 @@ TROIS AS Publications <br>
 <div style="clear:both"/>
 {:/}
 
-* Donat-Magnin, M., Jourdain, N. C., Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _Submitted to J. Geophys. Res. Oceans_.
+* Donat-Magnin, M., Jourdain, N. C., Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _J. Geophys. Res. Oceans_, in press.
 
-* Merino N., Le Sommer, J., Durand, G., Jourdain, N. C., Goose, H., Madec, G., Mathiot, P. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
+* Merino N., Jourdain, N. C., Le Sommer, J., Goose, H., Mathiot, P. and Durand, G. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Ocean Modelling_, in press [doi:10.1016/j.ocemod.2017.11.009](https://doi.org/10.1016/j.ocemod.2017.11.009)
 
 * Asay-Davis, X. S., Jourdain, N. C. and Nakayama, Y. (2017). Developments in Simulating and Parameterizing Interactions between the Southern Ocean and the Antarctic Ice Sheet. _Current Climate Change Reports_, published online [doi:10.1007/s40641-017-0071-0](https://doi.org/10.1007/s40641-017-0071-0)
 
