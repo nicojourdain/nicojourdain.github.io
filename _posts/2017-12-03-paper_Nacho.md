@@ -4,7 +4,7 @@ title: "Impact of increasing glacial freshwater release on the Antarctic sea ice
 date: 2017-12-03
 ---
 
-In their new paper, Merino et al. propose a refined methodology to calculate and distribute the increased freshwater release from the Antarctic ice sheet from the early 1990s to the 2000s. They describe the impact of increased glacial freshwater on regional sea ice extent and volume, and compare it to the wind-induced changes over the same period. Here is the [journal link][3]. 
+In their new paper, Merino et al. propose a refined methodology to calculate and distribute the increased freshwater release from the Antarctic ice sheet from the early 1990s to the 2000s. They describe the impact of increased glacial freshwater on regional sea ice extent and volume, and compare it to the wind-induced changes over the same period. Here is the [journal link][3], and the non-edited draft can be found [here][10]. 
 
 This study is based on global eddy-permitting [NEMO][4] ocean simulations, with Lagrangian icebergs as in [Merino et al. (2016)][5], and ice-shelf melt water distributed between the grounding line depth and the depth of the ice-shelf front as in [Mathiot et al. (2017)][6]. The geographical distribution of iceberg calving and ice-shelf melt in the 2000s is from the satellite-based estimates of [Depoorter et al. (2013)][7]. Iceberg and ice-shelf melt in the early 1990s are reconstructed for each ice shelf considering all the terms of the ice-shelf mass balance, and from the variations in ice-sheet mass balance derived from satellite data ([Shepherd et al. (2012)][8]).
 
@@ -37,3 +37,4 @@ Merino N., Jourdain, N. C., Le Sommer, J., Goose, H., Mathiot, P. and Durand, G.
 [7]: https://www.nature.com/articles/nature12567
 [8]: http://science.sciencemag.org/content/338/6111/1183
 [9]: http://onlinelibrary.wiley.com/doi/10.1002/2016JC012509/abstract
+[10]: https://mycore.core-cloud.net/index.php/s/TY2o9rSl60bRI29
