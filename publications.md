@@ -18,7 +18,7 @@ For publication metrics, see :
 
 # 2017
 
-32. Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _J. Geophys. Res. Oceans_, accepted.
+32. Donat-Magnin, M., **Jourdain, N. C.**, Spence, P., Le Sommer, J. and Durand, G. Ice-shelf melt response to changing winds and glacier dynamics in the Amundsen Sea Sector, Antarctica. _J. Geophys. Res. Oceans_, in press [doi:10.1002/2017JC013059](http://onlinelibrary.wiley.com/doi/10.1002/2017JC013059/full)
 
 31. Merino N., **Jourdain, N. C.**, Le Sommer, J., Goose, H., Mathiot, P. and Durand, G. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Ocean Modelling_, in press [doi:10.1016/j.ocemod.2017.11.009](https://doi.org/10.1016/j.ocemod.2017.11.009)
 
