@@ -154,6 +154,11 @@ To create a variable from the sum (var_sum) of two existing variables (var1 & va
 cdo expr,'var_sum=var1+var2' file_in.nc file_out.nc
 ```
 
+To concatenate two consecutive files:
+```shell
+cdo mergetime JUN1979.nc JUL1979.nc AUG1979.nc SEP1979.nc JJAS_1979.nc
+```
+
 To check whether two netcdf files are identical, or to find where differences are :
 ```shell
 cdo diffn file_in.nc file_out.nc
