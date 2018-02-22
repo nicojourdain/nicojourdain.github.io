@@ -16,11 +16,6 @@ In the second part of their paper, [Donat-Magnin et al. (2017)][3] describe the 
 ![]({{site.url}}projects_dir/img/fig7_DonatMagnin_2017.png)
 *Depth of the ice-shelf draft prescribed from Cornford et al. (2015), corresponding to 2000 (left) and 2100 (right)*
 
-<center><div>
-<img src="{{site.url}}projects_dir/img/fig11_Merino_2017.jpg" width="80%" height="80%"/>
-</div></center>
-*Changes in sea ice thickness due to changing winds (a) and to changing glacial freshwater (b).*
-
 This study was partly funded by the [TROIS AS][5] ANR project, and the simulations were run on the occigen supercomputer at CINES.
 
 # Reference
