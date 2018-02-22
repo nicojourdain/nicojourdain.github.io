@@ -18,6 +18,13 @@ TROIS AS Results <br>
 <div style="clear:both"/>
 {:/}
 
+
+---
+**February 2017 - Some good reasons to include ice sheets in Earth System Models** 
+
+In their recent paper, Marion Donat-Magnin and colleagues bring strong arguments in favour of the inclusion of ice sheet models in Earth System Models (ESMs)...
+[[Read more]]({{site.url}}projects_dir/trois_as_results_5)
+
 ---
 **December 2017 - Impact of increasing glacial freshwater release on the Antarctic sea ice**
 
