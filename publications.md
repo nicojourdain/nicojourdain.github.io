@@ -18,7 +18,7 @@ empty
 
 # 2018
 
-33. Bull, C. Y. S., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. (2018). The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _J. Geophys. Res. Oceans, in press_.
+33. Bull, C. Y. S., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. (2018). The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _J. Geophys. Res. Oceans, in press_. [doi:10.1002/2017JC013412](https://doi.org/10.1002/2017JC013412)
 
 32. Merino N., **Jourdain, N. C.**, Le Sommer, J., Goose, H., Mathiot, P. and Durand, G (2018). Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Ocean Modelling_, 121, 76-89. [doi:10.1016/j.ocemod.2017.11.009](https://doi.org/10.1016/j.ocemod.2017.11.009)
 
