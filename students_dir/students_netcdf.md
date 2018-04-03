@@ -84,6 +84,11 @@ ncks -A file1.nc file2.nc
 ```
 The variable var(x,y) will then be included into file2.nc 
 
+To make dimension _time_ the record dimension (_UNLIMITED_):
+```shell
+ncks -O --mk_rec_dmn time filein.nc fileout.nc
+``` 
+
 To **concatenate files** with the same variables and consecutive time steps (e.g. there is one file per month [whatever the output frequency within this file] and you want a file containing the JJAS months):
 ```shell
 ncrcat JUN1979.nc JUL1979.nc AUG1979.nc SEP1979.nc JJAS_1979.nc  
