@@ -18,6 +18,8 @@ The aims of this workshop are to:
 
 The workshop will be held at [IGE in Grenoble, France][2], on Friday 7 September 2018. For those attending to the [FRISP meeting][3], transportation will be arranged from Aussois to Grenoble on Thursday evening. The workshop will start relatively early on Friday morning so that participants can take a train or flight home on Friday. 
 
+If you wish to participate, contact [Nicolas Jourdain](mailto:nicolas.jourdain@univ-grenoble-alpes.fr).
+
 [1]: https://www.geosci-model-dev.net/10/2849/2017
 [2]: http://www.ige-grenoble.fr/acces-rapides/article/contact-et-localisation?lang=en
 [3]: https://jbs.locean-ipsl.upmc.fr/FRISP2018.html
