@@ -12,7 +12,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-empty
+34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Submitted to Ocean Modelling_.
 
 ## Peer reviewed publications
 
