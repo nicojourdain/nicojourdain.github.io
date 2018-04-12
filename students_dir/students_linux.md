@@ -165,6 +165,10 @@ To find your IP address:
 ```shell
 /sbin/ifconfig
 ```
+or:
+````shell
+ip addr show
+```
 
 To find the name associated with an IP address ("your_IP"):
 ```shell
