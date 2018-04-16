@@ -212,7 +212,28 @@ To be completed...
 
 # Read/Modify/Create netcdf files in Python
 
-To be written...
+A possibility is to use the Xarray module. If you use Anaconda, this can be done through the following commands:
+```shell
+conda install netcdf4
+conda install xarray
+```
 
+Then, your script to open a netcdf file should look like this:
+````python
+import numpy as np
+import xarray as xr
+
+# Open netcdf file:
+file_in = 'Ocean.nc'
+print 'Reading ', file_in
+nc1 = xr.open_dataset(file_in)
+
+# Get variable 'sst' and print its attributes and shape
+rvar=nc1['sst']
+namvar=nc1['sst'].attrs.get('long_name')
+unitvar=nc1['sst'].attrs.get('units')
+print 'Processing ', nc1['sst'].attrs.get('long_name')
+print 'Size is ', rvar.shape
+```
 
 
