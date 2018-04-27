@@ -219,7 +219,7 @@ conda install xarray
 ```
 
 Then, your script to open a netcdf file should look like this:
-````python
+```python
 import numpy as np
 import xarray as xr
 
@@ -236,4 +236,8 @@ print 'Processing ', nc1['sst'].attrs.get('long_name')
 print 'Size is ', rvar.shape
 ```
 
+Note that if your netcdf does not follow the CF conventions, you need to open the file as follows:
+```python
+nc1 = xr.open_dataset(file_in,decode_cf=False)
+```
 
