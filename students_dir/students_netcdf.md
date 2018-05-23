@@ -144,6 +144,10 @@ ncap2 -F -s \\
 "idx=1 ; while(idx<482){X(idx) = 20.0+0.75*idx; idx++;}" \\
 filein.nc fileout.nc
 ```
+To create variables x and y corresponding to dimensions x and y knowing that xmin=-10000.0 and ymax=20000.0 with a grid spacing of 500.0 along both x and y:
+```shell
+ncap2 -O -s 'x=array(-10000.0,500.0,$x)' -s 'y=array(20000.0-($y.size-1)*500.0,500.0,$y)'
+```
 
 ---
 
