@@ -161,16 +161,27 @@ To update a file date:
 touch file1
 ```
 
-To find your IP address:
+To find your IP address (4 numbers giving the address of your host), try on of these commands:
 ```shell
 /sbin/ifconfig
-```
-or:
-````shell
 ip addr show
 ```
 
-To find the name associated with an IP address ("your_IP"):
+To find the server name associated with an IP address ("your_IP"), you can try one of these commands:
 ```shell
 nslookup your_IP
+hostname
+```
+
+To connect to a remote host, try one of these :
+```shell
+ssh -Y login@your_IP      # replace "login" and "your_IP" with, e.g. bob and 132.37.121.137
+ssh -Y login@server_name  # replace "server_name", e.g. machine.univ.fr
+```
+
+To copy files between your machine and a remote host, you can use one of these:
+```shell
+scp -p loal_file login@server_name:/usr/home/dir/.  # or vice versa
+scp -rp local_dir login@server_name:/usr/home/dir/. # or vice versa
+rsync -av loal_file login@server_name:/usr/home/dir/. # or vice versa
 ```
