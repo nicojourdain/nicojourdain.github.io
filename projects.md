@@ -6,8 +6,10 @@ permalink: /projects/
 
 ![baniere1]({{site.baseurl}}/img/baniere_5.jpg)
 
+[PI of **Ice shelf-ocean interactions in Antarctica, enhancing French-US collaborations to reduce uncertainty in global sea level rise predictions** (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative)](/projects_dir/Thomas_Jefferson.md)
+
 [PI of **TROIS AS** (ANR-JCJC, 2015-2019)]({{site.url}}projects_dir/trois_as)
 
 [PI of **Tout le Monde se MAR** (AO Labex OSUG@2020, 2016-2018)](/projects_dir/tout_le_Monde_se_MAR.md)
 
-[involved in **SOBUMS** (ANR, 2017-2020)](http://lesommer.github.io/2016/07/21/sobums-accepted)
+[coPI of **A regional coupled climate model for Australia** (ARC Discovery Project, 2018-2020)](/projects_dir/ARC_DP_NOW.md)
