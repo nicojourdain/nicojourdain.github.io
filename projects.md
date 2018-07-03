@@ -6,7 +6,7 @@ permalink: /projects/
 
 ![baniere1]({{site.baseurl}}/img/baniere_5.jpg)
 
-[PI of **Ice shelf-ocean interactions in Antarctica, enhancing French-US collaborations to reduce uncertainty in global sea level rise predictions** (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative)](/projects_dir/Thomas_Jefferson.md)
+[PI of **Ice shelf-ocean interactions in Antarctica** (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative)](/projects_dir/Thomas_Jefferson.md)
 
 [PI of **TROIS AS** (ANR-JCJC, 2015-2019)]({{site.url}}projects_dir/trois_as)
 
