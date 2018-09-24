@@ -10,13 +10,15 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **Ice Sheet Model Intercomparison for CMIP6 (ISMIP6) workshop, Sassenheim, Netherlands**, September 2018 : Jourdain, N. C. and the ISMIP6 ocean group. *Sample approach- Amundsen Sea Glacier*.
+
 * &#9824; **Rising coastal seas on a Warming Earth III, Abu Dhabi, United Arab Emirates**, May 2018 : Jourdain, N. C., Favier, L., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F. *Inter-comparison of melt parameterizations and coupled simulations in a MISOMIP-like framework*.
 
 * **American Geophisical Union (AGU) Fall Meeting 2017, New Orleans, USA**, December 2017 : Jourdain, N., Molines, J. M., Le Sommer, J., Mathiot, P., de Lavergne, C., Gurvan, M., Durand, G., *Modelling and parameterizing the influence of tides on ice-shelf melt rates.* See [Abstract](http://adsabs.harvard.edu/abs/2017AGUFM.C13G..07J)
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Bergen, Norway**, June 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.*
 
-* **European Geophysical Union (EGU) General Assembly, Vienna**, Austria, April 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.* See [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf) 
+* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.* See [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf) 
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden**, October 2106 : Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
 

@@ -54,7 +54,7 @@ For publication metrics, see :
 
 21. Samson, G., Masson, S., Lengaigne, M., Keerthi, M., Vialard, J., Pous, S., Madec, G., **Jourdain, N. C.**, Jullien, S., Menkes, C. and Marchesiello, P. (2014). The NOW Regional Coupled Model: Application to the Tropical Indian Ocean Climate and Tropical Cyclones Activity. _Journal of Advances in Modeling Earth Systems_, 6(3), 700-722. [doi:10.1002/2014MS000324](http://onlinelibrary.wiley.com/doi/10.1002/2014MS000324/abstract)
 
-20. Jullien, S., Marchesiello, P., Menkes, C.E., Lefèvre, J., Jourdain, N.C., Samson, G., Lengaigne, M. (2014). Ocean feedback to tropical cyclones: climatology and processes. _Clim. Dynam._, 43(9-10), 2831-2854. [doi:10.1007/s00382-014-2096-6](http://link.springer.com/article/10.1007/s00382-014-2096-6)
+20. Jullien, S., Marchesiello, P., Menkes, C.E., Lefèvre, J., **Jourdain, N.C.**, Samson, G., Lengaigne, M. (2014). Ocean feedback to tropical cyclones: climatology and processes. _Clim. Dynam._, 43(9-10), 2831-2854. [doi:10.1007/s00382-014-2096-6](http://link.springer.com/article/10.1007/s00382-014-2096-6)
 
 19. Taschetto, A. S., Sen Gupta, A., **Jourdain, N. C.**, Santoso, A., Ummenhofer, C. C., England, M. H. (2014). Cold Tongue and warm pool ENSO events in CMIP5: mean state and future projections. _J. Climate_, 27(8):2861-2885. [doi:10.1175/JCLI-D-13-00437.1](http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00437.1)
 
