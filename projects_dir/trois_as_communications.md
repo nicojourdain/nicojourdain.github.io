@@ -20,7 +20,7 @@ TROIS AS Communications <br>
 
 * **Ice Sheet Model Intercomparison for CMIP6 (ISMIP6) workshop, Sassenheim, Netherlands**, September 2018 : Jourdain, N. C. and the ISMIP6 ocean group. *Sample approach- Amundsen Sea Glacier*.
 
-**Forum for Research into Ice Shelf Processess (FRISP) workshop, Aussois, France**, September 2018 : Donat-Magnin, M., Jourdain, N. C., Gallée, H., Drira, A., Agosta, C., Amory, C. *Interannual variability of the surface mass balance in the Amundsen Sea sector*.
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Aussois, France**, September 2018 : Donat-Magnin, M., Jourdain, N. C., Gallée, H., Drira, A., Agosta, C., Amory, C. *Interannual variability of the surface mass balance in the Amundsen Sea sector*.
 
 * &#9824; **Rising coastal seas on a Warming Earth III, Abu Dhabi, United Arab Emirates**, May 2018 : Jourdain, N. C., Favier, L., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F. *Inter-comparison of melt parameterizations and coupled simulations in a MISOMIP-like framework*.
 
