@@ -13,7 +13,6 @@ layout: default
 <img src="{{site.baseurl}}/img/nico_4-3.jpg" width="30%" height="30%" style="float: left;" />
 <div style="float:right">
 CNRS Research Fellow<br>
-ARCCSS Associate Investigator<br>
 <hr>
 <a href="mailto:nicolas.jourdain@univ-grenoble-alpes.fr">nicolas.jourdain@univ-grenoble-alpes.fr</a><br>
 <hr>

@@ -30,7 +30,7 @@ Overall, **the representation of tides in our regional simulations enhances ice-
 
 These results indicate that **including tidal velocities into the equation of the turbulent heat flux is a good approach to account for tide-induced melting in ocean models that do not explicitly represent tides**. It is nonetheless important to keep the horizontal patterns of tidal velocities, and prescribing uniform tidal velocities leads to large errors. Overall, we find that prescribibg 66% of the tidal velocity from a barotropic tidal model reproduces remarkably well tide-induced melting.
 
-The work leading to this publication was supported by the [TROIS AS][4] ANR project.
+The work leading to this publication was supported by the [TROIS AS][4] ANR project and the simulations were run on the occigen supercomputer at [CINES][5].
 
 # Reference
 Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling, in press_. [doi/10.1016/j.ocemod.2018.11.001][2]
@@ -40,3 +40,4 @@ Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lave
 [2]: https://doi.org/10.1016/j.ocemod.2018.11.001
 [3]: http://www.nemo-ocean.eu
 [4]: https://nicojourdain.github.io/projects_dir/trois_as 
+[5]: https://www.cines.fr/en/
