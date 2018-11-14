@@ -18,6 +18,11 @@ TROIS AS Results <br>
 <div style="clear:both"/>
 {:/}
 
+---
+**November 2018 - New paper on tide-indiced ice-shelf melting**
+
+Tides influence the ocean temperature and salinity in many ways, in particular in Antarctic seas...
+[[Read more]]({{site.url}}projects_dir/trois_as_results_6)
 
 ---
 **February 2018 - Some good reasons to include ice sheets in Earth System Models** 
