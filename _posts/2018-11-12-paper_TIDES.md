@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper on the influence of tides on ice-shelf melting"
+title: "Influence of tides on ice-shelf melting"
 date: 2018-11-12
 ---
 
@@ -20,7 +20,7 @@ Understanding the interplay between all these processes is important because it 
 In [our study][2], we show that diurnal tides produce strong tidal velocities over the continental shelf break. Steep topography indeed generates tidal waves that cannot propagate away from their generation site that are poleward of the critical latitude (where inertial frequency equals tidal frequency and beyond which tidal waves do not propagate freely). These strong currents enhance vertical mixing over the continental shelf break. We also bring evidence for a significant residual circulation that flows westward along the continental shelf break and southward in Dotson-Getz Trough (see figure below). 
 
 <center><div>
-<img src="{{site.url}}projects_dir/img/paper_TIDES_AMU12_Fig5.png" width="90%" height="90%"/>
+<img src="{{site.url}}projects_dir/img/paper_TIDES_AMU12_Fig5.png" width="75%" height="75%"/>
 </div></center>
 *Barotropic stream function of the tidal residual circulation in the absence of ocean stratification and ice shelf melting (the difference between 2 points on the map gives the ocean transport in millions of m3/s through the corresponding vertical section).*
 
@@ -28,7 +28,7 @@ While these processes can be identified seaward of the ice shelves, they do not 
 
 Overall, **the representation of tides in our regional simulations enhances ice-shelf melting, with weakest effects for Pine Island (+1%) and Thwaites (+8%) and strongest effects for Dotson (+30%), Cosgrove (+34%) and Abbot (+39%)**. The relatively weak tidal effect on Pine Island and Thwaites is likely due to the thick water column that makes the resonnant quarter wavelength much larger than the typical horizontal cavity size. By contrast, the Amundsen cavities with shallower water columns tend to be resonnant for semi-diurnal tides. The strong sensitivity of the tidal effect to the water column thickness shows that the aforementioned numbers have to be considered carefully because of the high uncertainty on bathymetry and ice-shelf drafts.
 
-These results indicate that including tidal velocities into the equation of the turbulent heat flux is a good approach to account for tide-induced melting in ocean models that do not explicitly represent tides. It is nonetheless important to keep the horizontal patterns of tidal velocities, and prescribing uniform tidal velocities leads to large errors. Overall, we find that prescribibg 66% of the tidal velocity from a barotropic tidal model reproduces remarkably well tide-induced melting.
+These results indicate that **including tidal velocities into the equation of the turbulent heat flux is a good approach to account for tide-induced melting in ocean models that do not explicitly represent tides**. It is nonetheless important to keep the horizontal patterns of tidal velocities, and prescribing uniform tidal velocities leads to large errors. Overall, we find that prescribibg 66% of the tidal velocity from a barotropic tidal model reproduces remarkably well tide-induced melting.
 
 The work leading to this publication was supported by the [TROIS AS][4] ANR project.
 
