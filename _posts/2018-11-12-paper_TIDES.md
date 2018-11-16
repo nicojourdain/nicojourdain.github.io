@@ -10,7 +10,7 @@ Tidal vertical mixing is caused by vertical shear, as tidal currents rub upon th
 
 Within ice shelf cavities, tides primarily affect ice/ocean interactions by increasing velocities and therefore turbulent heat exchanges near the ice base. The extra melting caused by tides induces an additional buoyancy-driven residual circulation, which in turn can increase ice-shelf melting. Estimating the relative importance of each of these tidal processes is a prerequisite for better prescribing or parameterizing the effect of tides on ice shelf cavities. 
 
-Understanding the interplay between all these processes is important because it tells how tidal effects should be precribed in the climate models that do not explicitly represent tides. In [our new paper][2] (draft [here][6]), we consider the example of the Amundsen Sea, and run numerous [NEMO][3] regional simulations to analyse the multiple effects of tides on ice-shelf melting. 
+Understanding the interplay between all these processes is important because it tells how tidal effects should be precribed in the climate models that do not explicitly represent tides. In [our new paper][2] (non-edited version available [here][6]), we consider the example of the Amundsen Sea, and run numerous [NEMO][3] regional simulations to analyse the multiple effects of tides on ice-shelf melting. 
 
 <center><div>
 <img src="{{site.url}}projects_dir/img/paper_TIDES_AMU12_Fig1.png" width="75%" height="75%"/>
@@ -33,7 +33,7 @@ These results indicate that **including tidal velocities into the equation of th
 The work leading to this publication was supported by the [TROIS AS][4] ANR project and the simulations were run on the occigen supercomputer at [CINES][5].
 
 # Reference
-Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling, in press_. [doi/10.1016/j.ocemod.2018.11.001][2], [draft][6]
+Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling, in press_. [doi/10.1016/j.ocemod.2018.11.001][2]. Non-edited version available [here][6].
 
 
 [1]: https://doi.org/10.1002/2016RG000546
