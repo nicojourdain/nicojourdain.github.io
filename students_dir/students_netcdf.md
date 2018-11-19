@@ -45,6 +45,8 @@ ferret
 
 See Ferret documentation [here](http://ferret.pmel.noaa.gov/Ferret/documentation/users-guide) for more complex plots and diagnostics.
 
+See [this page]({{site.url}}students_dir/students_install_Ferret) to install Ferret on your computer.
+
 ---
 
 # Modify netcdf files using the NCO operators
