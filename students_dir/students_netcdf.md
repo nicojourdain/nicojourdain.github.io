@@ -211,8 +211,32 @@ NB2: if you want to install the libraries yourself, check [this page]({{site.url
 # Read/Modify/Create netcdf files in Matlab
 
 To read a netcdf file, you can use [ncload.m](http://github.com/nicojourdain/matlab_scripts/blob/master/ncload.m)
+```matlab
+ncload('file.nc')                % to load all variables in file.nc
+ncload('file.nc','var1','var2')  % to only load var1 and var2
+```
 
-To be completed...
+To write a netcdf file, use nccreate and ncwrite, e.g.:
+```matlab
+mlon=length(lon);
+mlat=length(lat);
+
+nccreate('file.nc','lon',...
+         'Dimensions', {'lon',mlon},...
+         'FillValue','disable');
+
+nccreate('file.nc','lat',...
+         'Dimensions', {'lat',mlat},...
+         'FillValue','disable');
+
+nccreate('file.nc','var1',...
+         'Dimensions', {'lon',mlon,'lat',mlat},...
+         'FillValue','disable');
+
+ncwrite('file.nc','lon',lon);
+ncwrite('file.nc','lat',lat);
+ncwrite('file.nc','var1',var1);
+```
 
 ---
 
@@ -242,7 +266,7 @@ print 'Processing ', nc1['sst'].attrs.get('long_name')
 print 'Size is ', rvar.shape
 ```
 
-Note that if your netcdf does not follow the CF conventions, you need to open the file as follows:
+*NB:* If your netcdf does not follow the CF conventions, you need to open the file as follows:
 ```python
 nc1 = xr.open_dataset(file_in,decode_cf=False)
 ```
