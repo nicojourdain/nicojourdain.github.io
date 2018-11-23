@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Launching My New Site"
+date: 2018-11-22
+---
+
+New web site, on GitHub, see sources on https://github.com/nicojourdain/nicojourdain.github.io
