@@ -4,10 +4,9 @@ title: "XXYYXXYY"
 date: 2018-11-19
 ---
 
-## Under construction 
+## Portfolio
 Under construction...
 
 ## News
-{% for post in site.photoposts %}
-   - {{ post.date | date_to_string }} » [{{ post.title }}]({{ site.baseurl }}/myphotos_dir/{{ post.url }})
-{% endfor %}
+
+* [In the streets of Saigon, November 2018](/news_dir/2018_11_Saigon.md).
