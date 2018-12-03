@@ -16,9 +16,11 @@ For publication metrics, see :
 
 ## Peer reviewed publications
 
-# 2018
+# 2019
 
-34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling, in press_. [doi/10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
+34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2019). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi/10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
+
+# 2018
 
 33. Bull, C. Y. S., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. (2018). The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _J. Geophys. Res. Oceans, in press_. [doi:10.1002/2017JC013412](https://doi.org/10.1002/2017JC013412)
 
