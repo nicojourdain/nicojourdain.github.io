@@ -259,11 +259,12 @@ print 'Reading ', file_in
 nc1 = xr.open_dataset(file_in)
 
 # Get variable 'sst' and print its attributes and shape
-rvar=nc1['sst']
+rvar=nc1['sst'].values[:,:]
+mx=nc1.sizes['longitude']
 namvar=nc1['sst'].attrs.get('long_name')
 unitvar=nc1['sst'].attrs.get('units')
 print 'Processing ', nc1['sst'].attrs.get('long_name')
-print 'Size is ', rvar.shape
+print 'Size is ', nc1['sst'].shape
 ```
 
 *NB:* If your netcdf does not follow the CF conventions, you need to open the file as follows:
