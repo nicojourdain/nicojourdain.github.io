@@ -19,6 +19,12 @@ TROIS AS Results <br>
 {:/}
 
 ---
+**January 2019 - New paper on firction laws and ice mass loss projections**
+
+The Antartic ice sheet represents the world’s largest potential contributor to future sea level rise...
+[[Read more]]({{site.url}}projects_dir/trois_as_results_7)
+
+---
 **November 2018 - New paper on tide-indiced ice-shelf melting**
 
 Tides influence the ocean temperature and salinity in many ways, in particular in Antarctic seas...
