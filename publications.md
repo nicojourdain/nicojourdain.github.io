@@ -12,17 +12,21 @@ For publication metrics, see :
 
 ## Submitted papers
 
-35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2018). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Submitted to Climate Dynamics_.
+37. Favier, L., **Jourdain, N. C.**, Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev. Discuss._, [doi:10.5194/gmd-2019-26](https://doi.org/10.5194/gmd-2019-26). 
+
+36. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Submitted to Geophys. Res. Lett._
 
 ## Peer reviewed publications
 
 # 2019
 
-34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2019). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi/10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
+35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2019). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Climate Dynamics (accepted)_.
+
+34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2019). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi:10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
 
 # 2018
 
-33. Bull, C. Y. S., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. (2018). The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _J. Geophys. Res. Oceans, in press_. [doi:10.1002/2017JC013412](https://doi.org/10.1002/2017JC013412)
+33. Bull, C. Y. S., Kiss, A., van Sebille, E., **Jourdain, N. C.** and England, M. H. (2018). The role of the New Zealand plateau in the Tasman Sea circulation and separation of the East Australian Current. _J. Geophys. Res. Oceans_, 123 (2), 1457-1470. [doi:10.1002/2017JC013412](https://doi.org/10.1002/2017JC013412)
 
 32. Merino N., **Jourdain, N. C.**, Le Sommer, J., Goose, H., Mathiot, P. and Durand, G (2018). Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Ocean Modelling_, 121, 76-89. [doi:10.1016/j.ocemod.2017.11.009](https://doi.org/10.1016/j.ocemod.2017.11.009)
 
