@@ -22,29 +22,38 @@ brew install hdf5
 brew install netcdf
 ```
 
-Get and install Ferret:
+Get Ferret:
 ```shell
 mkdir git
 git clone https://github.com/NOAA-PMEL/Ferret.git ~/git/Ferret
+```
+
+If you don't want the latest release, check the available tagged versions [here](https://github.com/NOAA-PMEL/Ferret/releases). For example, to get the 7.4.4 version, do:
+```shell
+git clone https://github.com/NOAA-PMEL/Ferret.git ~/git/Ferret --branch 7.4.4
+```
+
+Before installing Ferret, the people using anaconda may need to comment the lines that export PATH to include anaconda pathways in your .bashrc or .bash\_profile (because this messes up the automatic config commands, e.g. nc-config) then to source your .bashrc or .bash\_profile. Then, install Ferret:
+```shell
 cd ~/git/Ferret
 cp -p site_specific.mk.in site_specific.mk
 vi site_specific.mk ## E.g. of choices (check on your system) :
 # DIR_PREFIX = $(HOME)/git/Ferret
 # BUILDTYPE = intel-mac
-# INSTALL_FER_DIR = $(HOME)/Ferret-7.4
+# INSTALL_FER_DIR = $(HOME)/Ferret-7.4.4
 # HDF5_LIBDIR =
 # SZ_LIBDIR =
-# NETCDF_LIBDIR = /usr/local/lib
-# READLINE_LIBDIR = /usr/local/Cellar/readline/7.0.5/lib
+# NETCDF_LIBDIR = /usr/local/Cellar/netcdf/4.6.3_1/lib
+# READLINE_LIBDIR = /usr/local/Cellar/readline/8.0.0_1/lib
 cp -p external_functions/ef_utility/site_specific.mk.in external_functions/ef_utility/site_specific.mk
 vi external_functions/ef_utility/site_specific.mk ## put BUILDTYPE = intel-mac
 make # takes a few minutes
 make install
-```
+``` 
 
 Then, get some datasets used by ferret:
 ```shell
-cd ~/Ferret-7.4
+cd ~/Ferret-7.4.4
 mkdir fer_dsets
 cd fer_dsets
 wget ftp://ftp.pmel.noaa.gov/ferret/pub/data/fer_dsets_smaller.tar.gz
@@ -55,8 +64,8 @@ rm -f fer_dsets_smaller.tar
 
 Run Finstall to create the pathways:
 ```shell
-cd ~/Ferret-7.4/bin
-sudo Finstall
+cd ~/Ferret-7.4.4/bin
+sudo ./Finstall
 # Enter your choice:
 # (1) Install executables, (2) Customize ferret_paths files, (3,q,x) Exit
 # (1, 2, 3, q, x) --> 2
@@ -67,12 +76,12 @@ sudo Finstall
 # file was installed/extracted (FER_DIR).  The location recommended 
 # in the Ferret installation guide was '/usr/local/ferret'. 
 # 
-# FER_DIR --> /Users/jourdain/Ferret-7.4
+# FER_DIR --> /Users/jourdain/Ferret-7.4.4
 # 
 # Enter the name of the directory where the 'fer_dsets.tar.gz' 
 # file was installed/extracted (FER_DSETS).
 # 
-# FER_DSETS --> /Users/jourdain/Ferret-7.4/fer_dsets
+# FER_DSETS --> /Users/jourdain/Ferret-7.4.4/fer_dsets
 # 
 # Enter the name of the directory where you want to place 
 # the newly created 'ferret_paths.csh' and 'ferret_path.sh' 
@@ -97,6 +106,6 @@ sudo Finstall
 
 Then, run these two lines or add them to your .bashrc file or equivalent:
 ```shell
-export PATH="/Users/jourdain/Ferret-7.4/bin:$PATH"
+export PATH="/Users/jourdain/Ferret-7.4.4/bin:$PATH"
 source /usr/local/ferret_paths
 ```
