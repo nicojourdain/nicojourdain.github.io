@@ -19,6 +19,12 @@ TROIS AS Results <br>
 {:/}
 
 ---
+**January 2019 - New paper on simulating and parameterizing ice/ocean interactions**
+
+In this new paper in GMD led by Lionel Favier, we present the new Elmer/Ice-NEMO ice-ocean coupled model, and we use it to evaluate sub-ice-shelf melt parameterizations implemented in Elmer/Ice. These parameterizations include... 
+[[Read more]]({{site.url}}projects_dir/trois_as_results_8)
+
+---
 **January 2019 - New paper on firction laws and ice mass loss projections**
 
 The Antartic ice sheet represents the world’s largest potential contributor to future sea level rise...
