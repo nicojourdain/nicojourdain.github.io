@@ -19,7 +19,7 @@ TROIS AS Results <br>
 {:/}
 
 ---
-**January 2019 - New paper on simulating and parameterizing ice/ocean interactions**
+**May 2019 - New paper on simulating and parameterizing ice/ocean interactions**
 
 In this new paper in GMD led by Lionel Favier, we present the new Elmer/Ice-NEMO ice-ocean coupled model, and we use it to evaluate sub-ice-shelf melt parameterizations implemented in Elmer/Ice. These parameterizations include... 
 [[Read more]]({{site.url}}projects_dir/trois_as_results_8)
