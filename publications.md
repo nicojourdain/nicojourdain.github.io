@@ -12,13 +12,15 @@ For publication metrics, see :
 
 ## Submitted papers
 
-37. Favier, L., **Jourdain, N. C.**, Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev. Discuss._, [doi:10.5194/gmd-2019-26](https://doi.org/10.5194/gmd-2019-26). 
+38. Donat-Magnin, M., **Jourdain, N. C.**, Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2019): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere Discuss., in review_, [https://doi.org/10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
 
-36. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Submitted to Geophys. Res. Lett._
+37. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Submitted to Scientific Reports_
 
 ## Peer reviewed publications
 
 # 2019
+
+36. Favier, L., **Jourdain, N. C.**, Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev. Discuss._, [doi:10.5194/gmd-2019-26](https://doi.org/10.5194/gmd-2019-26).
 
 35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2019). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Climate Dynamics (accepted)_.
 
