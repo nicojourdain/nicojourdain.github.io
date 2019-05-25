@@ -4,7 +4,9 @@ title: Projects
 permalink: /projects/
 ---
 
-![baniere1]({{site.baseurl}}/img/baniere_5.jpg)
+<div>
+<img src="{{site.url}}img/baniere_4.jpg" width="100%" height="100%"/>
+</div>
 
 [PI of **Ice shelf-ocean interactions in Antarctica** (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative)](/projects_dir/Thomas_Jefferson.md)
 
