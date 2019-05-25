@@ -8,6 +8,8 @@ permalink: /publications/
 <img src="{{site.url}}img/baniere_4.jpg" width="100%" height="100%"/>
 </div>
 
+<br>
+
 For publication metrics, see :  
 [google scholar](https://scholar.google.fr/citations?user=vIdPlZ4AAAAJ&hl=en)  
 <a href="https://orcid.org/0000-0002-1372-2235" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-1372-2235</a>

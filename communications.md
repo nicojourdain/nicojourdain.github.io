@@ -8,6 +8,8 @@ permalink: /communications/
 <img src="{{site.url}}img/baniere_5.jpg" width="100%" height="100%"/>
 </div>
 
+<br>
+
 ## International communications as lead author
 
 &#9824; Invited

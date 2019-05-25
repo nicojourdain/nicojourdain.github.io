@@ -8,6 +8,8 @@ permalink: /projects/
 <img src="{{site.url}}img/baniere_4.jpg" width="100%" height="100%"/>
 </div>
 
+<br>
+
 [PI of **Ice shelf-ocean interactions in Antarctica** (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative)](/projects_dir/Thomas_Jefferson.md)
 
 [PI of **TROIS AS** (ANR-JCJC, 2015-2019)]({{site.url}}projects_dir/trois_as)
