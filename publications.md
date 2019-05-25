@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-![baniere1]({{site.baseurl}}/img/baniere_4.jpg)
+<div>
+<img src="{{site.url}}img/baniere_4.jpg" width="100%" height="100%"/>
+</div>
 
 For publication metrics, see :  
 [google scholar](https://scholar.google.fr/citations?user=vIdPlZ4AAAAJ&hl=en)  

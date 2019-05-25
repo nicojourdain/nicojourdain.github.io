@@ -4,7 +4,9 @@ title: Students
 permalink: /students/
 ---
 
-![baniere1]({{site.baseurl}}/img/baniere_5.jpg)
+<div>
+<img src="{{site.url}}img/baniere_5.jpg" width="100%" height="100%"/>
+</div>
 
 * For an overview of basic linux commands, check [this](/students_dir/students_linux.md).
 

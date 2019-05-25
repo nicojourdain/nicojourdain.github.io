@@ -4,7 +4,9 @@ title: Models
 permalink: /models/
 ---
 
-![baniere1]({{site.baseurl}}/img/baniere_5.jpg)
+<div>
+<img src="{{site.url}}img/baniere_4.jpg" width="100%" height="100%"/>
+</div>
 
 Here are the models that I'm currently using:
 
@@ -23,9 +25,6 @@ Some of these models have been coupled:
 * NOW (NEMO-OASIS-WRF), developed by [Samson et al. (2014)][6].
 
 * TANGO (NEMO-OASIS-MAR), developed by [Jourdain et al. (2011)][7], to be updated.
-
-
-### More soon...
 
 
 [1]: https://www.nemo-ocean.eu
