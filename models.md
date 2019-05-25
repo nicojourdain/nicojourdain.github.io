@@ -8,6 +8,8 @@ permalink: /models/
 <img src="{{site.url}}img/baniere_4.jpg" width="100%" height="100%"/>
 </div>
 
+<br>
+
 Here are the models that I'm currently using:
 
 * [NEMO][1] (Nucleus for European Modelling of the Ocean), including the OPA ocean model and the LIM sea ice model.
