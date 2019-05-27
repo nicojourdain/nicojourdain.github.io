@@ -175,6 +175,20 @@ To check whether two netcdf files are identical, or to find where differences ar
 cdo diffn file_in.nc file_out.nc
 ```
 
+To regrid a lon/lat field to another lon/lat grid:
+```shell
+cat > mygrid << EOF
+gridtype = lonlat
+xsize    = 192
+ysize    = 41
+xfirst   = -178.125
+xinc     = 1.875
+yfirst   = -90
+yinc     = 1.25
+EOF
+cdo remapbil,mygrid file_in.nc file_out.nc
+```
+
 To convert grib to netcdf :
 ```shell
 cdo -f nc copy file_in.grib file_out.nc
