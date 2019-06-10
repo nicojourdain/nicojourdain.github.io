@@ -26,7 +26,7 @@ For publication metrics, see :
 
 36. Favier, L., **Jourdain, N. C.**, Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev. Discuss._, [doi:10.5194/gmd-2019-26](https://doi.org/10.5194/gmd-2019-26).
 
-35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2019). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Climate Dynamics (accepted)_.
+35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2019). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Climate Dynamics (accepted)_. [doi:10.1007/s00382-019-04692-6](https://doi.org/10.1007/s00382-019-04692-6)
 
 34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2019). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi:10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
 
