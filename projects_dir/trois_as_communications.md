@@ -18,6 +18,12 @@ TROIS AS Communications <br>
 <div style="clear:both"/>
 {:/}
 
+* **International Union of Geodesy and Geophysics (IUGG), Montreal, Canada**, July 2019 : Jourdain, N. C. Asay-Davis, X., Seroussi, H., Hattermann, T., Little, C., Straneo, F., Favier, L. and Mouginot, J. *Huge uncertainty on future ice-shelf basal melt rates in West Antarctica*. See [Abstract](https://www.czech-in.org/cmPortalV15/CM_W3_Searchable/iugg19/normal#!abstractdetails/0000797630)
+
+* **American Geophysical Union (AGU) Fall Meeting 2018, Washington, USA**, December 2018 : Donat-Magnin, M., Jourdain, N. C., Agosta, C., Gallée, H., Amory, C.. *Interannual surface mass balance simulations in the Amundsen Sea sector, West Antarctica*. See[Abstract](http://adsabs.harvard.edu/abs/2018AGUFM.C51A..03D)
+
+* **American Geophysical Union (AGU) Fall Meeting 2018, Washington, USA**, December 2018 : Favier, L., Jourdain, N. C., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., Mathiot, P., Jenkins, A., Chekki, M. *Sub-shelf melt parameterizations overestimate ice loss in stand-alone ice sheet modelling*. See [Abstract](http://adsabs.harvard.edu/abs/2018AGUFM.C21C1352F)
+
 * **Ice Sheet Model Intercomparison for CMIP6 (ISMIP6) workshop, Sassenheim, Netherlands**, September 2018 : Jourdain, N. C. and the ISMIP6 ocean group. *Sample approach- Amundsen Sea Glacier*.
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Aussois, France**, September 2018 : Donat-Magnin, M., Jourdain, N. C., Gallée, H., Drira, A., Agosta, C., Amory, C. *Interannual variability of the surface mass balance in the Amundsen Sea sector*.

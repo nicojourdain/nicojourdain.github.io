@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+40. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
+
 39. Barthel, A., Agosta, C., Little, C. M., Hatterman, T., **Jourdain, N. C.**, Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere Discuss., in review_, [https://doi.org/10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
 
 38. Donat-Magnin, M., **Jourdain, N. C.**, Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2019): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere Discuss., in review_, [https://doi.org/10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).

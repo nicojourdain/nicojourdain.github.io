@@ -14,6 +14,8 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **International Union of Geodesy and Geophysics (IUGG), Montreal, Canada**, July 2019 : Jourdain, N. C. Asay-Davis, X., Seroussi, H., Hattermann, T., Little, C., Straneo, F., Favier, L. and Mouginot, J. *Huge uncertainty on future ice-shelf basal melt rates in West Antarctica*. See [Abstract](https://www.czech-in.org/cmPortalV15/CM_W3_Searchable/iugg19/normal#!abstractdetails/0000797630)
+
 * **Ice Sheet Model Intercomparison for CMIP6 (ISMIP6) workshop, Sassenheim, Netherlands**, September 2018 : Jourdain, N. C. and the ISMIP6 ocean group. *Sample approach- Amundsen Sea Glacier*.
 
 * &#9824; **Rising coastal seas on a Warming Earth III, Abu Dhabi, United Arab Emirates**, May 2018 : Jourdain, N. C., Favier, L., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F. *Inter-comparison of melt parameterizations and coupled simulations in a MISOMIP-like framework*.

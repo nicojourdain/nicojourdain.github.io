@@ -18,6 +18,8 @@ TROIS AS Publications <br>
 <div style="clear:both"/>
 {:/}
 
+* Seroussi, H. and Nowicki, S. and Simon, E. and Abe-Ouchi, A. and Albrecht, T. and Brondex, J. and Cornford, S. and Dumas, C. and Gillet-Chaulet, F. and Goelzer, H. and Golledge, N. R. and Gregory, J. M. and Greve, R. and Hoffman, M. J. and Humbert, A. and Huybrechts, P. and Kleiner, T. and Larour, E. and Leguy, G. and Lipscomb, W. H. and Lowry, D. and Mengel, M. and Morlighem, M. and Pattyn, F. and Payne, A. J. and Pollard, D. and Price, S. F. and Quiquet, A. and Reerink, T. J. and Reese, R. and Rodehacke, C. B. and Schlegel, N.-J. and Shepherd, A. and Sun, S. and Sutter, J. and Van Breedam, J. and van de Wal, R. S. W. and Winkelmann, R. and Zhang, T. (2019). initMIP-Antarctica: an ice sheet model initialization experiment of ISMIP6. _The Cryosphere_, 13(5), 1441-1471. [doi/10.5194/tc-13-1441-2019](https://www.the-cryosphere.net/13/1441/2019/tc-13-1441-2019.html)
+
 * Brondex, J., F. Gillet-Chaulet, and O. Gagliardini (2018). Sensitivity of centennial mass loss projections of the Amundsen basin to the friction law. _The Cryosphere_, [https://doi.org/10.5194/tc-2018-194](https://doi.org/10.5194/tc-2018-194).
 
 * Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2019). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi/10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
