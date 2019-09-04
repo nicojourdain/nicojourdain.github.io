@@ -107,6 +107,11 @@ ncra -F -d time,2,1872,12 tos_monthly_1850-2005.nc tos_mean_FEB.nc
 ncra -F -d time,3,1872,12 tos_monthly_1850-2005.nc tos_mean_MAR.nc
 ```
 
+To average over an ensemble of files of same structure, e.g. to calculate the monthly-mean diurnal cycle from hourly outputs in daily files:
+```shell
+ncea wrfhrly_y1999m01d??.nc diurnal_y1999m01.nc
+```
+
 To remove a degenerated dimension (e.g. z):
 ```shell
 ncwa -F -a z,1 filein.nc fileout.nc
