@@ -19,6 +19,12 @@ TROIS AS Results <br>
 {:/}
 
 ---
+**May 2019 - New paper on InitMIP - Antarctica**
+
+A paper published in The Cryosphere presents the results of initMIP-Antarctica from 25 ice sheet simulations performed by 16 international modeling groups, including IGE. The submitted results use different initial conditions and initialization methods, as well as ice flow model parameters and reference external forcings...
+[[Read more]]({{site.url}}projects_dir/trois_as_results_9)
+
+---
 **May 2019 - New paper on simulating and parameterizing ice/ocean interactions**
 
 In this new paper in GMD led by Lionel Favier, we present the new Elmer/Ice-NEMO ice-ocean coupled model, and we use it to evaluate sub-ice-shelf melt parameterizations implemented in Elmer/Ice. These parameterizations include... 
