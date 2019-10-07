@@ -127,20 +127,22 @@ For publication metrics, see :
 * Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43.
 
 
-## Other publications
-
-* **Jourdain N.** (2007). Simulations climatiques régionales couplées atmosphère - océan - gace de mer  en Antarctique. _Thèse de doctorat, Université Joseph Fourier, France_. [Abstract](https://tel.archives-ouvertes.fr/tel-00266564) [PDF](https://tel.archives-ouvertes.fr/tel-00266564/document)
-
-* Mathiot P., **Jourdain N.**, Barnier B., Gallée H. (2008). Sensitivity of a model of the Ross Ice Shelf Polynya to different atmospheric forcing sets. _Mercator Ocean Quarterly Newsletter_, 28:22–30. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/06/lettre_28_en.pdf)
- 
-* Ferry, N., Parent, L., Garric, G., Barnier, B., **Jourdain, N. C.** and Mercator Team (2010). Mercator Global Eddy Permitting Ocean Reanalysis GLORYS1v1 : Description and Results. _Mercator Ocean Quarterly Newsletter_, 36:15–27. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/05/Mercator-Ocean-newsletter-2010_36.pdf)
-
-* Ferry, N., L. Parent, G. Garric, C. Bricaud, C. E. Testut, O. Le Galloudec, J. M. Lellouche, Drévillon, M., Greiner, E., Barnier, B., Molines, J. M., **Jourdain, N.**, Guinehut, S., Cabanes, C. and Zawadzki., L. (2012). GLORYS2V1 global ocean reanalysis of the altimetric era (1993-2009) at meso scale. _Mercator Quarterly Newsletter_, 44:28–39. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/05/Mercator-Ocean-newsletter-2012_44.pdf)
+## Other accademic publications
 
 * Vialard, J., Praveen Kumar, B., **Jourdain, N. C.**, and M. Bador (2012). CIRENE: from cyclones to interannual timescales in the south-western tropical indian ocean. _Mercator Quarterly Newsletter_, 45:16–20. [PDF](http://archimer.ifremer.fr/doc/00098/20969/18589.pdf)
 
-## Media releases
+* Ferry, N., L. Parent, G. Garric, C. Bricaud, C. E. Testut, O. Le Galloudec, J. M. Lellouche, Drévillon, M., Greiner, E., Barnier, B., Molines, J. M., **Jourdain, N.**, Guinehut, S., Cabanes, C. and Zawadzki., L. (2012). GLORYS2V1 global ocean reanalysis of the altimetric era (1993-2009) at meso scale. _Mercator Quarterly Newsletter_, 44:28–39. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/05/Mercator-Ocean-newsletter-2012_44.pdf)
 
-* Larson, C., 2012: Where Asia’s monsoon go to die. _Science_, 337(6102):1598-1599. [See article](http://science.sciencemag.org/content/337/6102/1598)
+* Ferry, N., Parent, L., Garric, G., Barnier, B., **Jourdain, N. C.** and Mercator Team (2010). Mercator Global Eddy Permitting Ocean Reanalysis GLORYS1v1 : Description and Results. _Mercator Ocean Quarterly Newsletter_, 36:15–27. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/05/Mercator-Ocean-newsletter-2010_36.pdf)
+
+* Mathiot P., **Jourdain N.**, Barnier B., Gallée H. (2008). Sensitivity of a model of the Ross Ice Shelf Polynya to different atmospheric forcing sets. _Mercator Ocean Quarterly Newsletter_, 28:22–30. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/06/lettre_28_en.pdf)
+
+* **Jourdain N.** (2007). Simulations climatiques régionales couplées atmosphère - océan - gace de mer  en Antarctique. _Thèse de doctorat, Université Joseph Fourier, France_. [Abstract](https://tel.archives-ouvertes.fr/tel-00266564) [PDF](https://tel.archives-ouvertes.fr/tel-00266564/document)
+
+## Significant media releases
+
+* Nicolas Jourdain and Cécile Agosta (edited by Maylis Gaillard), March 2019: Fonte des glaces et climat, que se trame-t-il en Antarctique ?, _The Conversation - France_ [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
 
 * Holland D. and Holland D., 2015: On the rocks: The challenges of predicting sea level rise, _Eos_, 96. [See article](https://eos.org/features/on-the-rocks-the-challenges-of-predicting-sea-level-rise)
+
+* Larson, C., 2012: Where Asia’s monsoon go to die. _Science_, 337(6102):1598-1599. [See article](http://science.sciencemag.org/content/337/6102/1598)
