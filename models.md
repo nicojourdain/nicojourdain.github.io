@@ -22,9 +22,9 @@ Here are the models that I'm currently using:
 
 Some of these models have been coupled:
 
-* NEMO-Elmer/Ice, see [first simulation][5].
+* NEMO-Elmer/Ice, see [MISOMIP simulation][5], described in [Favier et al. (2019)][8].
 
-* NOW (NEMO-OASIS-WRF), developed by [Samson et al. (2014)][6].
+* NOW (NEMO-OASIS-WRF), developed by [Samson et al. (2014)][6], used in [Li et al. (2017)][9].
 
 * TANGO (NEMO-OASIS-MAR), developed by [Jourdain et al. (2011)][7], to be updated.
 
@@ -36,3 +36,5 @@ Some of these models have been coupled:
 [5]: https://nicojourdain.github.io/2017/11/08/first-coupled-NEMO-Elmer
 [6]: http://onlinelibrary.wiley.com/doi/10.1002/2014MS000324/abstract
 [7]: http://link.springer.com/article/10.1007/s00382-010-0889-9
+[8]: https://www.geosci-model-dev.net/12/2255/2019
+[9]: https://link.springer.com/content/pdf/10.1007/s00382-016-3317-y.pdf
