@@ -14,6 +14,8 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK**, September 2019: Jourdain, N. C. *Uncertainty on future ice-shelf basal melt rates in Antarctica*. See [FRISP webpage](https://www.bas.ac.uk/event/frisp-2019/)
+
 * **International Union of Geodesy and Geophysics (IUGG), Montreal, Canada**, July 2019 : Jourdain, N. C. Asay-Davis, X., Seroussi, H., Hattermann, T., Little, C., Straneo, F., Favier, L. and Mouginot, J. *Huge uncertainty on future ice-shelf basal melt rates in West Antarctica*. See [Abstract](https://www.czech-in.org/cmPortalV15/CM_W3_Searchable/iugg19/normal#!abstractdetails/0000797630)
 
 * **Ice Sheet Model Intercomparison for CMIP6 (ISMIP6) workshop, Sassenheim, Netherlands**, September 2018 : Jourdain, N. C. and the ISMIP6 ocean group. *Sample approach- Amundsen Sea Glacier*.

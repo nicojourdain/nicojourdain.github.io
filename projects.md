@@ -10,6 +10,8 @@ permalink: /projects/
 
 <br>
 
+[Partner in **TiPACCs** - Tipping Points in Antarctic Climate Components (H2020-LC-CLA-2018-2, 820575)](https://www.tipaccs.eu)
+
 [PI of **Ice shelf-ocean interactions in Antarctica** (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative)](/projects_dir/Thomas_Jefferson.md)
 
 [PI of **TROIS AS** (ANR-JCJC, 2015-2019)]({{site.url}}projects_dir/trois_as)
