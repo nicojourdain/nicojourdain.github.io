@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The TiPACCs project, on Antarctic ice/ocean tipping points, has started !
+title: "The TiPACCs project, on Antarctic ice/ocean tipping points, has started"
 date: 2019-10-10
 ---
 
