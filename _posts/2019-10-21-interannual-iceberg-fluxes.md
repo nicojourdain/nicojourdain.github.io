@@ -4,7 +4,7 @@ title: "Interannual iceberg freshwater fluxes"
 date: 2019-10-21
 ---
 
-I have updated the Antarctic iceberg freshwater flux originally developed by [Merino et al. (2016)][4]. Is is now avaailable as a monthly timeseries covering 1972-2017. It is based on a very similar modelling framework as [Merino et al. (2018)][4]:
+I have updated the Antarctic iceberg freshwater flux originally developed by [Merino et al. (2016)][4]. It is now avaailable as a monthly timeseries covering 1972-2017. It is based on a very similar modelling framework as [Merino et al. (2018)][4]:
 
 * Lagrangian iceberg module developed by [Marsh et al. (2015)][1], modified by [Merino et al. (2016)][4].
 
@@ -12,9 +12,9 @@ I have updated the Antarctic iceberg freshwater flux originally developed by [Me
 
 * ice-shelf freshwater increasing linearly from 1990 to 2010, with melt rates derived from glacological date [Merino et al. (2018)][3].
 
-The updated dataset is available here: [doi:10.5281/zenodo.3514727](https://doi.org/10.5281/zenodo.3514727)
+The updated dataset is available here [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3514728.svg)](https://doi.org/10.5281/zenodo.3514728)
 
-#Reference
+# Reference
 
 * Marsh, R., Ivchenko, V.O., Skliris, N., Alderson, S., Bigg, G.R., Madec, G., Blaker, A.T., Aksenov, Y., Sinha, B., Coward, A.C. and Le Sommer, J. (2015). NEMO-ICB (v1. 0): interactive icebergs in the NEMO ocean model globally configured at eddy-permitting resolution. _Geoscientific Model Development_, 8(5), 1547-1562. [doi:10.5194/gmd-8-1547-2015][1]
 
