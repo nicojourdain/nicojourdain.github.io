@@ -16,6 +16,10 @@ For publication metrics, see :
 
 ## Submitted papers
 
+43. **Jourdain, N. C.**, Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Sophie Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere Discuss., submitted_ 
+
+42. Bull, C., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans, submitted_ 
+
 41. Hausmann, U., Sallée, J.-B., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Madec, G., Deshayes, J. and Hattermann, T. (2019). The role of tides in ocean-ice-shelf interactions in the southwestern Weddell Sea. _J. Geophys. Res. Oceans, submitted_
 
 40. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
@@ -30,9 +34,9 @@ For publication metrics, see :
 
 # 2019
 
-36. Favier, L., **Jourdain, N. C.**, Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev. Discuss._, [doi:10.5194/gmd-2019-26](https://doi.org/10.5194/gmd-2019-26).
+36. Favier, L., **Jourdain, N. C.**, Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev._, 12, 2255–2283. [doi:10.5194/gmd-12-2255-2019](https://doi.org/10.5194/gmd-12-2255-2019)
 
-35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2019). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Climate Dynamics (accepted)_. [doi:10.1007/s00382-019-04692-6](https://doi.org/10.1007/s00382-019-04692-6)
+35. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., and Menkes C. (2019). Impact of surface temperature biases on climate change projections of the South Pacific Convergence Zone. _Climate Dynamics_, 53(5-6), 3197–3219. [doi:10.1007/s00382-019-04692-6](https://doi.org/10.1007/s00382-019-04692-6)
 
 34. **Jourdain, N. C.**, Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2019). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi:10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
 
