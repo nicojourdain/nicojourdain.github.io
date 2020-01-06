@@ -24,7 +24,7 @@ For publication metrics, see :
 
 44. Nowicki, S., Payne, A., Goelzer, H., Seroussi, H., Lipscomb, W., Abe-Ouchi, A., Agosta, C., Alexander, P., Asay-Davis, X. Barthel, A., Bracegirdle, T., Cullather, R., Felikson, D., Fettweis, X., Gregory, J., Hatterman, T., **Jourdain, N., C.**, Kuipers Munneke, P., Larour, E., Little, C., Morlinghem, M., Nias, I., Shepherd, A., Simon, E., Slater, D., Smith, R., Straneo, F., Trusel, L., van den Broeke, M. and van de Wal, R. (2020). Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models. _The Cryosphere Discuss., submitted_.
 
-43. **Jourdain, N. C.**, Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Sophie Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere Discuss., submitted_, [doi:10.5194/tc-2019-277](https://doi.org/10.5194/tc-2019-277)
+43. **Jourdain, N. C.**, Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere Discuss., under review_, [doi:10.5194/tc-2019-277](https://doi.org/10.5194/tc-2019-277)
 
 42. Bull, C., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans, submitted_ 
 
@@ -32,7 +32,7 @@ For publication metrics, see :
 
 40. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
 
-39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Submitted to Scientific Reports_
+39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Scientific Reports, under review_
 
 ## Peer reviewed publications
 
