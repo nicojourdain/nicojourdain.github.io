@@ -16,6 +16,14 @@ For publication metrics, see :
 
 ## Submitted papers
 
+47. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., R{\"u}ckamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). _Geophysical Research Letter, submitted_. 
+
+46. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2020). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere Discuss., submitted_.
+
+45. Seroussi, H., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. _The Cryosphere Discuss., submitted_.
+
+44. Nowicki, S., Payne, A., Goelzer, H., Seroussi, H., Lipscomb, W., Abe-Ouchi, A., Agosta, C., Alexander, P., Asay-Davis, X. Barthel, A., Bracegirdle, T., Cullather, R., Felikson, D., Fettweis, X., Gregory, J., Hatterman, T., **Jourdain, N., C.**, Kuipers Munneke, P., Larour, E., Little, C., Morlinghem, M., Nias, I., Shepherd, A., Simon, E., Slater, D., Smith, R., Straneo, F., Trusel, L., van den Broeke, M. and van de Wal, R. (2020). Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models. _The Cryosphere Discuss., submitted_.
+
 43. **Jourdain, N. C.**, Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Sophie Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere Discuss., submitted_, [doi:10.5194/tc-2019-277](https://doi.org/10.5194/tc-2019-277)
 
 42. Bull, C., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans, submitted_ 
@@ -24,13 +32,15 @@ For publication metrics, see :
 
 40. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
 
-39. Barthel, A., Agosta, C., Little, C. M., Hatterman, T., **Jourdain, N. C.**, Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2019). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere Discuss., in review_, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
-
-38. Donat-Magnin, M., **Jourdain, N. C.**, Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2019): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere, accepted_, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
-
-37. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Submitted to Scientific Reports_
+39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S. ,Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Submitted to Scientific Reports_
 
 ## Peer reviewed publications
+
+# 2020
+
+38. Donat-Magnin, M., **Jourdain, N. C.**, Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2020): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere, accepted_, [doi:10.5194/tc-2019-109](https://doi.org/10.5194/tc-2019-109).
+
+37. Barthel, A., Agosta, C., Little, C. M., Hatterman, T., **Jourdain, N. C.**, Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2020). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere, accepted_, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
 
 # 2019
 
