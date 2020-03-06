@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+49. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
+
 48. Ménégoz, M., Valla, E., **Jourdain, N. C.**, Blanchet, J., Beaumet, J., Wilhelm, B., Gallée, H., Fettweis, X., Morin, S. and Anquetin, S. (2020). Contrasting seasonal changes in total and intense precipitation in the European Alps from 1903 to 2010. _Hydrology and Earth System Sciences Discussions_ [doi:10.5194/hess-2019-690](https://doi.org/10.5194/hess-2019-690) 
 
 47. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
@@ -34,15 +36,15 @@ For publication metrics, see :
 
 40. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
 
-39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S., Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Scientific Reports, under review_
-
 ## Peer reviewed publications
 
 # 2020
 
+39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S., Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Scientific Reports, accepted_.
+
 38. Donat-Magnin, M., **Jourdain, N. C.**, Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2020): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere_, 14, 229-249. [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
-37. Barthel, A., Agosta, C., Little, C. M., Hatterman, T., **Jourdain, N. C.**, Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2020). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere, accepted_, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
+37. Barthel, A., Agosta, C., Little, C. M., Hatterman, T., **Jourdain, N. C.**, Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2020). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere_, 14, 855-879. [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020).
 
 # 2019
 

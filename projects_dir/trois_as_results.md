@@ -19,6 +19,12 @@ TROIS AS Results <br>
 {:/}
 
 ---
+**March 2020 - New paper on data assimilation in a transient marine ice sheet model**
+
+Assimilation of surface observations in transient Elmer/Ice simulations using an ensemble Kalman filter...
+[Read more](http://elmerice.elmerfem.org/news/128-assimilation-of-surface-observations-in-a-transient-marine-ice-sheet-model-using-an-ensemble-kalman-filter)
+
+---
 **May 2019 - New paper on InitMIP - Antarctica**
 
 A paper published in The Cryosphere presents the results of initMIP-Antarctica from 25 ice sheet simulations performed by 16 international modeling groups, including IGE. The submitted results use different initial conditions and initialization methods, as well as ice flow model parameters and reference external forcings...
