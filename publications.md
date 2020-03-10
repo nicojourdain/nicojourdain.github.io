@@ -159,10 +159,7 @@ For publication metrics, see :
 
 * **Jourdain N.** (2007). Simulations climatiques régionales couplées atmosphère - océan - gace de mer  en Antarctique. _Thèse de doctorat, Université Joseph Fourier, France_. [Abstract](https://tel.archives-ouvertes.fr/tel-00266564) [PDF](https://tel.archives-ouvertes.fr/tel-00266564/document)
 
-## Significant media releases
+## Publications for the general public
 
 * Nicolas Jourdain and Cécile Agosta (edited by Maylis Gaillard), March 2019: Fonte des glaces et climat, que se trame-t-il en Antarctique ?, _The Conversation - France_ [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
 
-* Holland D. and Holland D., 2015: On the rocks: The challenges of predicting sea level rise, _Eos_, 96. [See article](https://eos.org/features/on-the-rocks-the-challenges-of-predicting-sea-level-rise)
-
-* Larson, C., 2012: Where Asia’s monsoon go to die. _Science_, 337(6102):1598-1599. [See article](http://science.sciencemag.org/content/337/6102/1598)
