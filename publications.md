@@ -40,7 +40,7 @@ For publication metrics, see :
 
 # 2020
 
-39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S., Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Scientific Reports, accepted_.
+39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S., Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Scientific Reports_, 10, 4838. [doi:10.1038/s41598-020-61570-6](https://doi.org/10.1038/s41598-020-61570-6).
 
 38. Donat-Magnin, M., **Jourdain, N. C.**, Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2020): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere_, 14, 229-249. [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
