@@ -299,3 +299,4 @@ print 'Size is ', nc1['sst'].shape
 nc1 = xr.open_dataset(file_in,decode_cf=False)
 ```
 
+A list of useful tools and tutorials is provided on the [MEOM groups's page](https://github.com/meom-group/tutos/blob/master/software.md).
