@@ -11,8 +11,8 @@ You can either install a pre-compiled version (example below for linux), or re-c
 Here is an example for Ferret v6.93, which works on GRICAD's **luke**:
 
 ```shell
-mkdir /home/njourdain/ferret_v6.93
-cd /home/njourdain/ferret_v6.93
+mkdir /home/bob/ferret_v6.93
+cd /home/bob/ferret_v6.93
 wget ftp://ftp.pmel.noaa.gov/ferret/pub/rhel6_64/fer_executables.tar.gz
 wget ftp://ftp.pmel.noaa.gov/ferret/pub/rhel6_64/fer_environment.tar.gz
 tar xvzf fer_executables.tar.gz
@@ -21,9 +21,9 @@ tar xvzf fer_environment.tar.gz
      #
      # (1, 2, 3, q, x) --> 1
      #
-     # FER_DIR --> /home/njourdain/ferret_v6.93
+     # FER_DIR --> /home/bob/ferret_v6.93
      #
-     # 'fer_executables.tar.gz' location --> /home/njourdain/ferret_v6.93
+     # 'fer_executables.tar.gz' location --> /home/bob/ferret_v6.93
      #
 ```
 
@@ -37,18 +37,18 @@ cd ..
      #
      # (1, 2, 3, q, x) --> 2
      #
-     # FER_DIR --> /home/njourdain/ferret_v6.93
+     # FER_DIR --> /home/bob/ferret_v6.93
      #
-     # FER_DSETS --> /home/njourdain/ferret_v6.93/fer_dsets
+     # FER_DSETS --> /home/bob/ferret_v6.93/fer_dsets
      #
-     # desired ferret_paths location --> /home/njourdain/ferret_v6.93
+     # desired ferret_paths location --> /home/bob/ferret_v6.93
      #
      # ferret_paths link to create? (c/s/n) [n] --> s
      #
 echo '                                                     ' >> ~/.bashrc
 echo '# Ferret                                             ' >> ~/.bashrc
-echo 'export PATH="/home/njourdain/ferret_v6.93/bin:$PATH" ' >> ~/.bashrc
-echo 'source /home/njourdain/ferret_v6.93/ferret_paths     ' >> ~/.bashrc
+echo 'export PATH="/home/bob/ferret_v6.93/bin:$PATH" ' >> ~/.bashrc
+echo 'source /home/bob/ferret_v6.93/ferret_paths     ' >> ~/.bashrc
 rm -f *gz fer_dsets/*gz
 ```
 
