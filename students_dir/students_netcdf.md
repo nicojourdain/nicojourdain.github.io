@@ -199,8 +199,73 @@ xinc     = 1.875
 yfirst   = -90
 yinc     = 1.25
 EOF
-cdo remapbil,mygrid file_in.nc file_out.nc
+
+cdo remapbil,mygrid file_in.nc file_out.nc  # bi-linear interpolation
+cdo remapbic,mygrid file_in.nc file_out.nc  # bi-cubic interpolation
 ```
+
+It is also possible to define non-structured grids, e.g.:
+```shell
+cat > mygrid << EOF
+gridtype = unstructured
+gridsize = 42
+nvertex = 1  # nd of vertices (1 for NEMO's bdy, 3 for triangular meshes, 6 for hexagonal meshes)
+xvals =   -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85
+    -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  
+    -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85
+yvals = -76.43644  -76.41688  -76.39729  -76.37768  -76.35804  -76.33837  
+    -76.31867  -76.29895  -76.2792  -76.25942  -76.23962  -76.21978  
+    -76.19991  -76.18002  -76.1601  -76.14015  -76.12018  -76.10017  
+    -76.08014  -76.06007  -76.03999  -76.01987  -75.99973  -75.97955  
+    -75.95934  -75.93911  -75.91885  -75.89857  -75.87824  -75.85789  
+    -75.83752  -75.81712  -75.79669  -75.77623  -75.75574  -75.73522  
+    -75.71467  -75.69409  -75.67348  -75.65285  -75.63219  -75.6115  
+EOF
+```
+
+To perform conservative interpolation, it is require to define bounds, e.g.:
+```shell
+cat > mygrid << EOF
+gridtype = curvilinear
+gridsize = 6
+xsize = 3
+ysize = 2
+
+# Longitudes :
+xvals = 301.0  303.0  305.0
+        301.0  303.0  305.0
+
+# Longitudes of cell corners :
+xbounds =
+302.0  302.0  300.0  300.0
+304.0  304.0  302.0  302.0
+306.0  306.0  304.0  304.0
+302.0  302.0  300.0  300.0
+304.0  304.0  302.0  302.0
+306.0  306.0  304.0  304.0
+
+# Latitudes :
+yvals = 61.0  61.0  61.0
+        64.0  64.0  64.0
+
+# Latitudes of cell corners :
+ybounds =
+60.0  63.0  63.0  60.0
+60.0  63.0  63.0  60.0
+60.0  63.0  63.0  60.0
+63.0  65.0  65.0  63.0
+63.0  65.0  65.0  63.0
+63.0  65.0  65.0  63.0
+EOF
+
+cdo remapcon,mygrid file_in.nc file_out.nc  # conservative 1st order interpolation
+```
+
+It is also possible to specify which variables to interpolate, and to define the input grid in a file (input_grid) rather than interpretting it from the input netcdf file:
+```shell
+cdo remapcon,mygrid -selname,var1,var2 -setgrid,input_grid file_in.nc file_out.nc
+```
+
 
 To convert grib to netcdf :
 ```shell
