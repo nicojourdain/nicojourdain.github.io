@@ -188,6 +188,12 @@ To check whether two netcdf files are identical, or to find where differences ar
 cdo diffn file_in.nc file_out.nc
 ```
 
+To convert grib to netcdf :
+```shell
+cdo -f nc copy file_in.grib file_out.nc
+```
+As variable names are not stored in grib files, you may need to contact the institute that built the grib file to identify variables (e.g. check ungrib/Variable_Tables for WRF/WPS files).
+
 To regrid a lon/lat field to another lon/lat grid:
 ```shell
 cat > mygrid << EOF
@@ -265,13 +271,6 @@ It is also possible to specify which variables to interpolate, and to define the
 ```shell
 cdo remapcon,mygrid -selname,var1,var2 -setgrid,input_grid file_in.nc file_out.nc
 ```
-
-
-To convert grib to netcdf :
-```shell
-cdo -f nc copy file_in.grib file_out.nc
-```
-As variable names are not stored in grib files, you may need to contact the institute that built the grib file to identify variables (e.g. check ungrib/Variable_Tables for WRF/WPS files).
 
 ---
 
