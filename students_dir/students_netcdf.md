@@ -209,7 +209,7 @@ It is also possible to define non-structured grids, e.g.:
 cat > mygrid << EOF
 gridtype = unstructured
 gridsize = 42
-nvertex = 1  # nd of vertices (1 for NEMO's bdy, 3 for triangular meshes, 6 for hexagonal meshes)
+nvertex = 1  # nb of vertices (1 for NEMO's bdy, 3 for triangular meshes, 6 for hexagonal meshes)
 xvals =   -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85
     -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  
     -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85  -85
