@@ -229,7 +229,7 @@ yvals = -76.43644  -76.41688  -76.39729  -76.37768  -76.35804  -76.33837
 EOF
 ```
 
-To perform conservative interpolation, it is require to define bounds, e.g.:
+To perform conservative interpolation, it is required to define bounds, e.g.:
 ```shell
 cat > mygrid << EOF
 gridtype = curvilinear
