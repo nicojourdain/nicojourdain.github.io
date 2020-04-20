@@ -69,7 +69,7 @@ git checkout master
 
 You can tag a specific revision, which can be useful to point to the tools that have been used in a paper, or to easily switch to previous revisions (e.g. model versions):
 ```shell
-git tag -a v3.9  -m "short description"  ## to tag  
+git tag -a v3.9  -m "short description"  ## to tag current revision 
 git tag -a v3.9  -m "short description"  [revision_hash]  ## to retrospectively tag a previous commit
 ```
 
