@@ -8,11 +8,11 @@ date: 2020-04-21
 
 The [Institute of Geosciences and Environment (IGE)](http://www.ige-grenoble.fr/?lang=en), Grenoble, France, is advertising a 2-year postdoctoral position.
 
-The postdoc will be hired by [CNRS](http://www.cnrs.fr/en) and supervised by Nicolas Jourdain at IGE. **The position will ideally start in October 2020**.
+The postdoc will be hired by [CNRS](http://www.cnrs.fr/en) and supervised by Nicolas Jourdain at IGE. The position will ideally start in October 2020.
 
-We are looking for a highly motivated candidate with previous experience in physical oceanography, fluid dynamics, or similar, **to improve and develop parameterisations of ocean basal melting underneath Antarctic ice shelves**.
+We are looking for a highly motivated candidate with previous experience in physical oceanography, fluid dynamics, or similar, to improve and develop parameterisations of ocean basal melting underneath Antarctic ice shelves.
 
-Applicants should contact <nicolas.jourdain@univ-grenoble-alpes.fr> **before June 15th**.
+Applicants should contact <nicolas.jourdain@univ-grenoble-alpes.fr> before June 15th.
 
 # Postdoctoral project and scientific context
 
