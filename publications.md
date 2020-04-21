@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+50. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere Discuss., submitted_.
+
 49. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
 
 48. Ménégoz, M., Valla, E., **Jourdain, N. C.**, Blanchet, J., Beaumet, J., Wilhelm, B., Gallée, H., Fettweis, X., Morin, S. and Anquetin, S. (2020). Contrasting seasonal changes in total and intense precipitation in the European Alps from 1903 to 2010. _Hydrology and Earth System Sciences Discussions_ [doi:10.5194/hess-2019-690](https://doi.org/10.5194/hess-2019-690) 
@@ -32,13 +34,13 @@ For publication metrics, see :
 
 42. Bull, C., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans, submitted_ 
 
-41. Hausmann, U., Sallée, J.-B., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Madec, G., Deshayes, J. and Hattermann, T. (2019). The role of tides in ocean-ice-shelf interactions in the southwestern Weddell Sea. _J. Geophys. Res. Oceans, submitted_
-
-40. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
+41. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
 
 ## Peer reviewed publications
 
 # 2020
+
+40. Hausmann, U., Sallée, J.-B., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Madec, G., Deshayes, J. and Hattermann, T. (2019). The role of tides in ocean-ice-shelf interactions in the southwestern Weddell Sea. _J. Geophys. Res. Oceans, accepted_.
 
 39. Dutheil C., Bador M., Lengaigne M., Lefevre J., **Jourdain N. C.**, Jullien S., Vialard J., Peltier A., Sultan, B. and Menkes C. (2019). Impact of projected sea surface temperature biases on tropical cyclones projections in the South Pacific. _Scientific Reports_, 10, 4838. [doi:10.1038/s41598-020-61570-6](https://doi.org/10.1038/s41598-020-61570-6).
 
