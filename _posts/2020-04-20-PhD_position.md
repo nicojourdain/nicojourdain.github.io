@@ -10,11 +10,11 @@ The [Institute of Geosciences and Environment (IGE)](http://www.ige-grenoble.fr/
 
 The PhD candidate will produce and analyse ocean—ice-sheet coupled simulations in the Amundsen Sea sector, West Antarctica, with the aim to better understand decadal variability and future projections. This position requires a Master’s degree or equivalent in environmental sciences, fluid dynamics, mechanics/energetics, or equivalent. More information is provided below.
 
-The PhD candidate will be hired by [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) and the position will start in October 2020. 
+The PhD candidate will be hired by [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) and **the position will start in October 2020**. 
 
 We are looking for a highly motivated candidate with a Master’s degree (or equivalent) in environmental science, fluid dynamics, mechanics/energetics, or a related field. A strong interest in programming is required, but previous experience in numerical modelling is not compulsory.
 
-Applicants should send their CV and transcripts of the 2 previous years to <nicolas.jourdain@univ-grenoble-alpes.fr> before May 22nd.
+Applicants should send their CV and transcripts of the 2 previous years to <nicolas.jourdain@univ-grenoble-alpes.fr> **before May 22nd**.
 
 # PhD project and scientific context
 
@@ -26,11 +26,11 @@ On the other hand, ice dynamics are strongly influenced by bedrock topography: t
 
 In this PhD work, the student will first revisit the evolution of coastal and sub-glacial ocean dynamics, as well as glacial dynamics in recent decades (1960-2020), and since the beginning of the 20th century. This will be done by first studying the variability of ocean circulation and sub-glacial melting simulated by the NEMO ocean model ([Mathiot et al. 2017](https://www.geosci-model-dev.net/10/2849/2017/)). A physical analysis of a set of simulations with different parameters and forcing conditions will be performed to better understand the interplay of processes that trigger melt anomalies, but also the mechanisms that stop them.
 
-Then, the coupled ocean/ice-sheet model NEMO-Elmer/Ice ([Favier et al. 2019](https://www.geosci-model-dev.net/12/2255/2019/)) will be used in a configuration representing the Amundsen region. As the exact ice-sheet state is poorly known before the 1990s, ad-hoc cold perturbations will be applied to induce a re-advance of the ice-sheet. Then typical conditions of the 20th century will be applied to cause a slow retreat of the grounding lines, and generate an ensemble of plausible initial states. To assess the plausibility of initial states, reconstructions based on sediment records will be used (e.g., [Smith et al. 2017](https://www.nature.com/articles/nature20136) for the mid 20th century).
-
-The PhD work may lead to the development of future projections of the contribution of the Amundsen sector to global mean sea level over the coming decades, possibly based on the climate simulations of the Decadal Climate Prediction Project ([Boer et al. 2016](https://www.geosci-model-dev.net/9/3751/2016/)).
+Then, the coupled ocean/ice-sheet model NEMO-Elmer/Ice ([Favier et al. 2019](https://www.geosci-model-dev.net/12/2255/2019/)) will be used in a configuration representing the Amundsen region. Several assumptions will be made to reconstruct plausible ice-sheet state before the 1990s, which is poorly known. The PhD candidate will use this coupled modelling framework to simulate the contribution of the Amundsen sector to global mean sea level over the coming decades. 
 
 # Local and international collaborations
 
-The PhD will be carried out within the CryoDyn team at IGE. The modelling work will be carried out in close collaboration with NEMO experts at IGE (Pierre Mathiot, Julien Le Sommer) and in France (NEMO team at LOCEAN-IPSL in Paris) and with Elmer/Ice experts at IGE (Fabien Gillet-Chaulet, Olivier Gagliardini, and Gaël Durand). This PhD project will take place within the French ANR project called EIS (Elmer Ice Sheet, Jan. 2020 - Dec. 2023, partnership with LSCE and CNRM), and european collaborations will be highly facilitated by the Antarctic workpackage in the PROTECT H2020 project (Aug. 2020 - Jul. 2024).
+IGE, previously known as LGGE, gathers many world-leading experts in Antarctic Sciences, on topics including paleo-climate from ice cores, atmosphere and snow physics, and physical oceanography and climate. The modelling work will be carried out in close collaboration with NEMO experts at IGE (Pierre Mathiot, Julien Le Sommer, Jean-Marc Molines) and in France (NEMO team at LOCEAN-IPSL in Paris) and with Elmer/Ice experts at IGE (Fabien Gillet-Chaulet, Olivier Gagliardini, Gaël Durand). 
+
+This PhD project will take place within the French ANR project called EIS (_Elmer Ice Sheet_, Jan. 2020 - Dec. 2023, partnership with LSCE and CNRM), and will benefit from a large collaboration network thanks to the PROTECT H2020 project (Aug. 2020 - Jul. 2024, 25 european partners).
 
