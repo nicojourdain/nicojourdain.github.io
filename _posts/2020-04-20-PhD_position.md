@@ -8,9 +8,9 @@ date: 2020-04-20
 
 The [Institute of Geosciences and Environment (IGE)](http://www.ige-grenoble.fr/?lang=en), Grenoble, France, is advertising a 3-year PhD position.
 
-The PhD candidate will produce and analyse ocean—ice-sheet coupled simulations in the Amundsen Sea sector, West Antarctica, with the aim to better understand decadal variability and future projections. This position requires a Master’s degree or equivalent in environmental sciences, fluid dynamics, mechanics/energetics, or equivalent. More information is provided below.
+The PhD candidate will produce and analyse ocean—ice-sheet coupled simulations in the Amundsen Sea sector, West Antarctica, with the aim to better understand decadal variability and future projections. More information is provided below.
 
-The PhD candidate will be hired by [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) and **the position will start in October 2020**. 
+The PhD candidate will be hired by [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/) and supervised by Nicolas Jourdain at IGE. **The position will start in October 2020**. 
 
 We are looking for a highly motivated candidate with a Master’s degree (or equivalent) in environmental science, fluid dynamics, mechanics/energetics, or a related field. A strong interest in programming is required, but previous experience in numerical modelling is not compulsory.
 
