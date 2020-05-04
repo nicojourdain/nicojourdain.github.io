@@ -34,11 +34,11 @@ For publication metrics, see :
 
 42. Bull, C., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans, submitted_ 
 
-41. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics, under review_
-
 ## Peer reviewed publications
 
 # 2020
+
+41. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics_ [doi:10.1007/s00382-020-05266-7](https://doi.org/10.1007/s00382-020-05266-7)
 
 40. Hausmann, U., Sallée, J.-B., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Madec, G., Deshayes, J. and Hattermann, T. (2020). The role of tides in ocean-ice-shelf interactions in the southwestern Weddell Sea. _J. Geophys. Res. Oceans_. [doi:10.1029/2019JC015847](https://doi.org/10.1029/2019JC015847)
 
