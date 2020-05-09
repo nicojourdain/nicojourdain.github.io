@@ -10,11 +10,11 @@ permalink: /projects/
 
 <br>
 
-* WP4 co-leader in [**PROTECT**](https://protect-sealevelrise.osug.fr) - Cryosphere and Sea Level (H2020-LC-CLA-07-2019).
+* WP4 co-leader in [**PROTECT**](https://protect-sealevelrise.osug.fr) - Cryosphere and Sea Level (H2020-LC-CLA-07-2019, 2020-2024).
 
-* Partner in [**TiPACCs**](https://www.tipaccs.eu) - Tipping Points in Antarctic Climate Components (H2020-LC-CLA-2018-2, 820575).
+* Partner in [**TiPACCs**](https://www.tipaccs.eu) - Tipping Points in Antarctic Climate Components (H2020-LC-CLA-2018-2, 820575, 2019-2023).
 
-* PI of [**Ice shelf-ocean interactions in Antarctica**](/projects_dir/Thomas_Jefferson.md) (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative).
+* PI of [**Ice shelf-ocean interactions in Antarctica**](/projects_dir/Thomas_Jefferson.md) (Thomas Jefferson Fund / “Make Our Planet Great Again” Initiative, 2018-2020).
 
 * PI of [**TROIS AS**]({{site.url}}projects_dir/trois_as) (ANR-JCJC, 2015-2020).
 
