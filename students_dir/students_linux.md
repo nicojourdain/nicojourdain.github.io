@@ -107,6 +107,7 @@ ls -al dir1/*.f90 |wc -l  ## gives the number of fortran files located in direct
 
 To edit an ASCII file (e.g. any fortran, python, matlab script) there are several options (see online documentations), e.g. :
 ```shell
+nano file1
 gedit file1 &
 emacs file1 &
 vi file1  

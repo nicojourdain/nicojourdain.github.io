@@ -208,6 +208,7 @@ EOF
 
 cdo remapbil,mygrid file_in.nc file_out.nc  # bi-linear interpolation
 cdo remapbic,mygrid file_in.nc file_out.nc  # bi-cubic interpolation
+cdo remapnn,mygrid file_in.nc file_out.nc   # nearest neighbour interpolation
 ```
 
 It is also possible to define non-structured grids, e.g.:
