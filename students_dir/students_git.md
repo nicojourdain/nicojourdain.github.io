@@ -45,6 +45,12 @@ To see which files have been added to git and which ones have been modified:
 git status
 ```
 
+To ignore files in the git repository (e.g. large files, intermediate compilation files, batch outputs,...):
+```shell
+echo "*.nc" >> .gitignore
+echo "*.o"  >> .gitignore
+```
+
 To know what is the revision hash (ID) of previous commits on your machine, you can look at files in .git/logs or type:
 ```shell
 git log --oneline
