@@ -111,3 +111,9 @@ To create variables x and y corresponding to dimensions x and y knowing that xmi
 ```shell
 ncap2 -O -s 'x=array(-10000.0,500.0,$x)' -s 'y=array(20000.0-($y.size-1)*500.0,500.0,$y)'
 ```
+
+To print the **minimum or maximum** of a variable called 'radlw':
+```shell
+ncap2 -O -C -v -s "tmp=radlw.min();print(tmp)" filein.nc tmp.nc | cut -f 3- -d ' '
+ncap2 -O -C -v -s "tmp=radlw.max();print(tmp)" filein.nc tmp.nc | cut -f 3- -d ' '
+```
