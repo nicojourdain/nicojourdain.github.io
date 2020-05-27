@@ -30,7 +30,7 @@ France<br>
 </div>
 </div>
 <div style="clear:both"/>
-<br>
+{:/}
 
 
 ## Research Interests
