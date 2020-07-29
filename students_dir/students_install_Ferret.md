@@ -4,6 +4,54 @@ title: Installing Ferret
 date: 19-11-2018
 ---
 
+You can either install a pre-compiled version (example below for linux), or re-compile it yourself (example below for mac OSX).
+
+# Install a pre-compiled Ferret on linux
+
+Here is an example for Ferret v6.93, which works on GRICAD's **luke**:
+
+```shell
+mkdir /home/bob/ferret_v6.93
+cd /home/bob/ferret_v6.93
+wget ftp://ftp.pmel.noaa.gov/ferret/pub/rhel6_64/fer_executables.tar.gz
+wget ftp://ftp.pmel.noaa.gov/ferret/pub/rhel6_64/fer_environment.tar.gz
+tar xvzf fer_executables.tar.gz
+tar xvzf fer_environment.tar.gz
+./bin/Finstall
+     #
+     # (1, 2, 3, q, x) --> 1
+     #
+     # FER_DIR --> /home/bob/ferret_v6.93
+     #
+     # 'fer_executables.tar.gz' location --> /home/bob/ferret_v6.93
+     #
+```
+
+```shell
+mkdir fer_dsets
+cd fer_dsets
+wget wget ftp://ftp.pmel.noaa.gov/ferret/pub/data/fer_dsets.tar.gz
+tar xvzf fer_dsets.tar.gz
+cd ..
+./bin/Finstall
+     #
+     # (1, 2, 3, q, x) --> 2
+     #
+     # FER_DIR --> /home/bob/ferret_v6.93
+     #
+     # FER_DSETS --> /home/bob/ferret_v6.93/fer_dsets
+     #
+     # desired ferret_paths location --> /home/bob/ferret_v6.93
+     #
+     # ferret_paths link to create? (c/s/n) [n] --> s
+     #
+echo '                                                     ' >> ~/.bashrc
+echo '# Ferret                                             ' >> ~/.bashrc
+echo 'export PATH="/home/bob/ferret_v6.93/bin:$PATH" ' >> ~/.bashrc
+echo 'source /home/bob/ferret_v6.93/ferret_paths     ' >> ~/.bashrc
+rm -f *gz fer_dsets/*gz
+```
+
 # Install Ferret on mac OS-X
 
 See latest documentation on [https://github.com/NOAA-PMEL/Ferret/blob/master/README_ferret_mac_homebrew.md](https://github.com/NOAA-PMEL/Ferret/blob/master/README_ferret_mac_homebrew.md)

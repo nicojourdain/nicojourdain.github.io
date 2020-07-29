@@ -18,11 +18,13 @@ TROIS AS Publications <br>
 <div style="clear:both"/>
 {:/}
 
+* Gillet-Chaulet, F. (2020). Assimilation of surface observations in a transient marine ice sheet model using an ensemble Kalman filter. _The Cryosphere_. 14, 811-832. [doi:10.5194/tc-14-811-2020](https://doi.org/10.5194/tc-14-811-2020).
+
 * Jourdain, N. C., Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere Discuss., under review_, [doi:10.5194/tc-2019-277](https://doi.org/10.5194/tc-2019-277)
 
 * Donat-Magnin, M., Jourdain, N. C., Gallée, H., Amory, C., Kittel, C., Fettweis, X., Wille, J. D., Favier, V., Drira, A., and Agosta, C. (2020): Interannual Variability of Summer Surface Mass Balance and Surface Melting in the Amundsen Sector, West Antarctica. _The Cryosphere_, 14, 229-249. [doi:10.5194/tc-14-229-2020](https://doi.org/10.5194/tc-14-229-2020).
 
-* Barthel, A., Agosta, C., Little, C. M., Hatterman, T., Jourdain, N. C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2020). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere, accepted_, [doi:10.5194/tc-2019-191](https://doi.org/10.5194/tc-2019-191).
+* Barthel, A., Agosta, C., Little, C. M., Hatterman, T., Jourdain, N. C., Goelzer, H., Nowicki, S., Seroussi, H., Straneo, F., and Bracegirdle, T. J. (2020). CMIP5 model selection for ISMIP6 ice sheet model forcing: Greenland and Antarctica. _The Cryosphere_, 14, 855-879. [doi:10.5194/tc-14-855-2020](https://doi.org/10.5194/tc-14-855-2020). 
 
 * Favier, L., Jourdain, N. C., Jenkins, A., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., and Mathiot, P. (2019). Assessment of Sub-Shelf Melting Parameterisations Using the Ocean-Ice Sheet Coupled Model NEMO(v3.6)-Elmer/Ice(v8.3), _Geosci. Model Dev._, 12, 2255–2283. [doi:10.5194/gmd-12-2255-2019](https://doi.org/10.5194/gmd-12-2255-2019)
 

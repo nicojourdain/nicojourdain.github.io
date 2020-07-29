@@ -79,3 +79,17 @@ permalink: /communications/
 * **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2007 : Jourdain N. and Gallée H., *Atmosphere - sea ice - ocean interactions in the Ross Sea sector, Antarctica*, Geophys. Res. Abstracts, 9:1532. See [Abstract](http://www.cosis.net/abstracts/EGU2007/01532/EGU2007-J-01532.pdf)
 
 * **10th European Polar Lows Working Group Workshop, Tromsø, Norway**, September 2005 : Jourdain, N. and Gallée, H. : *Mesoscale simulations over the Ross Sea with the regional climate model MAR*.
+
+## Media
+
+* Les Idées Claires: a-t-il vraiment fait 20 degrés en Antarctique ? (produced by Nicolas Martin, February 2020). _France Culture_ [Video & podcast](https://www.franceculture.fr/environnement/a-t-il-vraiment-fait-20-degres-en-antarctique)
+
+* Maman j'ai raté l'actu (presented by Hélène Corbie and Marie-Caroline Cabut, 2019) [Podcast](https://podcast.ausha.co/maman-j-ai-rate-l-actu/maman-j-ai-rate-l-actu-episode)
+
+* Fonte des glaces et climat, que se trame-t-il en Antarctique ? (by  Nicolas Jourdain and Cécile Agosta, edited by Maylis Gaillard, 2019), _The Conversation - France_ [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
+
+* Comprendre la polynie, ce trou apparu dans la banquise de l’Antarctique (produced by Benoît Jourdain, 2017), _France Info_ [Video](https://www.francetvinfo.fr/choix/video-comprendre-la-polynie-ce-trou-apparu-dans-la-banquise-de-lantarctique_2427199.html)
+
+* On the rocks: The challenges of predicting sea level rise (by David & Denise Holland, 2015), _Eos_, 96. [See article](https://eos.org/features/on-the-rocks-the-challenges-of-predicting-sea-level-rise)
+
+* Where Asia’s monsoon go to die (by C. Larson, 2012). _Science_, 337(6102):1598-1599. [See article](http://science.sciencemag.org/content/337/6102/1598)
