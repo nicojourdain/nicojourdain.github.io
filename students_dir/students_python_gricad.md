@@ -195,10 +195,11 @@ In a second terminal:
 ```bash
 ssh -fNL 8888:luke62:8888 luke
 ```
+NB: if port 8888 is already being used, the ```jupyter notebook```command will give you another port number (e.g. 8889).
 
 Then, in a web browser (e.g. Firefox, Chrome...), copy/paste the aforementioned address starting as http://127.0.0.1. This should open Jupyter notebook.
 
-Once you are done, you need to free the port:
+Once you are done, you need to free the port (here 8888):
 ```bash
 lsof -ti:8888   # indicates a number
 kill -9 <number>
