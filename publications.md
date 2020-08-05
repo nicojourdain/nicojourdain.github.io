@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-50. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere Discuss., submitted_.
+50. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere Discuss._ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
 
 49. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
 

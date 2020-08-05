@@ -4,7 +4,9 @@ title: Work on netcdf files using the cdo operators
 date: 25-05-2020
 ---
 
-Many things (running means, EOF, conversions, etc) can now be done using the cdo operators. For a list of available operators and options, see [this PDF](https://code.zmaw.de/projects/cdo/embedded/cdo_refcard.pdf). A few examples are shown below.
+Many things (running means, EOF, conversions, etc) can now be done using the cdo operators. For a list of available operators, see [this PDF list](https://code.zmaw.de/projects/cdo/embedded/cdo_refcard.pdf), or [here for the full documentation](https://code.mpimet.mpg.de/projects/cdo/embedded/index.html). 
+
+A few examples are shown below.
 
 To create a variable from the **sum** (var_sum) of two existing variables (var1 & var2) :
 ```shell
@@ -105,8 +107,11 @@ EOF
 
 cdo remapcon,mygrid file_in.nc file_out.nc  # conservative 1st order interpolation
 ```
+In this example, the curvilinear grid type means that this is a 2d grid, which is not necessarily regular in longitude, latitude.
 
 It is also possible to specify which variables to interpolate, and to define the input grid in a file (input_grid) rather than interpretting it from the input netcdf file:
 ```shell
 cdo remapcon,mygrid -selname,var1,var2 -setgrid,input_grid file_in.nc file_out.nc
 ```
+
+See [this example](https://forge.ipsl.jussieu.fr/nemo/wiki/Users/SetupNewConfiguration/cdo-interpolation) for interpolation onto a NEMO grid.
