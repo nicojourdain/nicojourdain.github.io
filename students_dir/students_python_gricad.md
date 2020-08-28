@@ -138,20 +138,14 @@ sh Miniconda3-latest-Linux-x86_64.sh
 conda info
 conda create --name py37  python=3.7
 conda activate py37
-conda install numpy
-conda install ipython
-conda install netcdf4
-conda install xarray
-conda install matplotlib
-conda install scipy
-conda install pandas
+conda install numpy ipython netcdf4 xarray matplotlib scipy pandas pillow
 ```
 
 Other possibly useful libraries include:
 ```bash
 conda install dask 
 conda install zarr
-pip install watermark # load with 'load_ext watermark' # print versions with 'watermark -v -iv'
+pip install watermark # load with '%load_ext watermark' # print versions with '%watermark -v -iv'
 conda install cartopy
 conda install -c conda-forge cmocean # nice colors for ocean plots
 ```
