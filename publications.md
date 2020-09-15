@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+52. Bull, C. Y. S. et al. (2020). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Ocean, under review_.
+
 51. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2020). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
 
 50. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere Discuss._ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
@@ -32,13 +34,13 @@ For publication metrics, see :
 
 # 2020
 
-45. Seroussi, H., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. _The Cryosphere, accepted_. [doi:10.5194/tc-2019-324](https://doi.org/10.5194/tc-2019-324)
+45. Seroussi, H., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. _The Cryosphere_, 14, 3033–3070. [doi:10.5194/10.5194/tc-14-3033-2020](https://doi.org/10.5194/tc-14-3033-2020)
 
 44. Nowicki, S., Payne, A., Goelzer, H., Seroussi, H., Lipscomb, W., Abe-Ouchi, A., Agosta, C., Alexander, P., Asay-Davis, X. Barthel, A., Bracegirdle, T., Cullather, R., Felikson, D., Fettweis, X., Gregory, J., Hatterman, T., **Jourdain, N. C.**, Kuipers Munneke, P., Larour, E., Little, C., Morlinghem, M., Nias, I., Shepherd, A., Simon, E., Slater, D., Smith, R., Straneo, F., Trusel, L., van den Broeke, M. and van de Wal, R. (2020). Experimental protocol for sea level projections from ISMIP6 standalone ice sheet models. _The Cryosphere_, 14, 2331–2368. [doi:10.5194/tc-14-2331-2020](https://doi.org/10.5194/tc-14-2331-2020)
 
-43. **Jourdain, N. C.**, Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere, accepted_, [doi:10.5194/tc-2019-277](https://doi.org/10.5194/tc-2019-277)
+43. **Jourdain, N. C.**, Asay-Davis, X., Hattermann, T., Straneo, F., Seroussi, H., Little, C. M., and Nowicki, S. (2020). A protocol for calculating basal melt rates in the ISMIP6 Antarctic ice sheet projections. _The Cryosphere_, 14, 3111–3134. [doi:10.5194/tc-14-3111-2020](https://doi.org/10.5194/tc-14-3111-2020)
 
-42. Bull, C., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans_, 125(7), JC015889. [doi:10.1029/2019JC015889](https://doi.org/10.1029/2019JC015889) 
+42. Bull, C. Y. S., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans_, 125(7), JC015889. [doi:10.1029/2019JC015889](https://doi.org/10.1029/2019JC015889) 
 
 41. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics_, 54, 4935–4952. [doi:10.1007/s00382-020-05266-7](https://doi.org/10.1007/s00382-020-05266-7)
 
