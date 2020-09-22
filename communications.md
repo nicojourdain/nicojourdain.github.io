@@ -14,6 +14,10 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, online**, June 2020: Jourdain, N. *Ice-shelf melting projection in the Amundsen Sea, Antarctica*.
+
+* **European Geophysical Union (EGU) General Assembly, online**, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki. *Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica*. See [Abstract](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html) 
+
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK**, September 2019: Jourdain, N. C. *Uncertainty on future ice-shelf basal melt rates in Antarctica*. See [FRISP webpage](https://www.bas.ac.uk/event/frisp-2019/)
 
 * **International Union of Geodesy and Geophysics (IUGG), Montreal, Canada**, July 2019 : Jourdain, N. C. Asay-Davis, X., Seroussi, H., Hattermann, T., Little, C., Straneo, F., Favier, L. and Mouginot, J. *Huge uncertainty on future ice-shelf basal melt rates in West Antarctica*. See [Abstract](https://www.czech-in.org/cmPortalV15/CM_W3_Searchable/iugg19/normal#!abstractdetails/0000797630)
@@ -82,14 +86,22 @@ permalink: /communications/
 
 ## Media
 
-* Les Idées Claires: a-t-il vraiment fait 20 degrés en Antarctique ? (produced by Nicolas Martin, February 2020). _France Culture_ [Video & podcast](https://www.franceculture.fr/environnement/a-t-il-vraiment-fait-20-degres-en-antarctique)
+* **Futura-Sciences**: Calottes polaires et climat : « nous avons sous-estimé l’ampleur de notre manque de connaissance » (Nathalie Mayer, September 2020) [See article](https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-calottes-polaires-climat-nous-avons-sous-estime-ampleur-notre-manque-connaissance-83023/)
 
-* Maman j'ai raté l'actu (presented by Hélène Corbie and Marie-Caroline Cabut, 2019) [Podcast](https://podcast.ausha.co/maman-j-ai-rate-l-actu/maman-j-ai-rate-l-actu-episode)
+* **L'Express**: L'Antarctique pourrait contribuer jusqu'à 30 cm à la hausse du niveau de la mer en 2100 (Valentin Ehkirch, September 2020) [See article](https://www.lexpress.fr/actualite/societe/environnement/l-antarctique-pourrait-contribuer-jusqu-a-30-cm-a-la-hausse-du-niveau-de-la-mer-en-2100_2134738.html)
 
-* Fonte des glaces et climat, que se trame-t-il en Antarctique ? (by  Nicolas Jourdain and Cécile Agosta, edited by Maylis Gaillard, 2019), _The Conversation - France_ [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
+* **Ça M'intéresse**: Calottes polaires : à quel point montera la mer ? (Basile Perrin-Reymond, September 2020) [See article](https://www.caminteresse.fr/environnement/calottes-polaires-a-quel-point-montera-la-mer-11147942/)
 
-* Comprendre la polynie, ce trou apparu dans la banquise de l’Antarctique (produced by Benoît Jourdain, 2017), _France Info_ [Video](https://www.francetvinfo.fr/choix/video-comprendre-la-polynie-ce-trou-apparu-dans-la-banquise-de-lantarctique_2427199.html)
+* **Alerte presse CNRS**: Calottes polaires : à quel point montera la mer ? (Véronique Etienne, September 2020) [See article](https://www.cnrs.fr/fr/calottes-polaires-quel-point-montera-la-mer)
 
-* On the rocks: The challenges of predicting sea level rise (by David & Denise Holland, 2015), _Eos_, 96. [See article](https://eos.org/features/on-the-rocks-the-challenges-of-predicting-sea-level-rise)
+* **France Culture - Les Idées Claires**: a-t-il vraiment fait 20 degrés en Antarctique ? (produced by Nicolas Martin, February 2020) [Video & podcast](https://www.franceculture.fr/environnement/a-t-il-vraiment-fait-20-degres-en-antarctique)
 
-* Where Asia’s monsoon go to die (by C. Larson, 2012). _Science_, 337(6102):1598-1599. [See article](http://science.sciencemag.org/content/337/6102/1598)
+* **Maman j'ai raté l'actu** (presented by Hélène Corbie and Marie-Caroline Cabut, 2019) [Podcast](https://podcast.ausha.co/maman-j-ai-rate-l-actu/maman-j-ai-rate-l-actu-episode)
+
+* **The Conversation - France**: Fonte des glaces et climat, que se trame-t-il en Antarctique ? (by  Nicolas Jourdain and Cécile Agosta, edited by Maylis Gaillard, 2019) [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
+
+* **France Info**: Comprendre la polynie, ce trou apparu dans la banquise de l’Antarctique (produced by Benoît Jourdain, 2017) [Video](https://www.francetvinfo.fr/choix/video-comprendre-la-polynie-ce-trou-apparu-dans-la-banquise-de-lantarctique_2427199.html)
+
+* **Eos**: On the rocks: The challenges of predicting sea level rise (by David & Denise Holland, 2015) [See article](https://eos.org/features/on-the-rocks-the-challenges-of-predicting-sea-level-rise)
+
+* **Science**: Where Asia’s monsoon go to die (by C. Larson, 2012) [See article](http://science.sciencemag.org/content/337/6102/1598)
