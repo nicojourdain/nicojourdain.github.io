@@ -90,6 +90,8 @@ permalink: /communications/
 
 * **Les Échos**: Fonte des glaces : la grande débâcle (Paul Molga, September 2020) [See article](https://www.lesechos.fr/idees-debats/sciences-prospective/climat-la-grande-debacle-1243776)
 
+* **France3**: Sciences : un chercheur grenoblois a étudié l'impact de la fonte des glaces sur l'élévation du niveau des mers (F.C. avec Marie Michellier et Xavier Schmitt, September 2020) [See article](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/sciences-chercheur-grenoblois-etudie-impact-fonte-glaces-elevation-mers-1876306.html)
+
 * **L'Express**: L'Antarctique pourrait contribuer jusqu'à 30 cm à la hausse du niveau de la mer en 2100 (Valentin Ehkirch, September 2020) [See article](https://www.lexpress.fr/actualite/societe/environnement/l-antarctique-pourrait-contribuer-jusqu-a-30-cm-a-la-hausse-du-niveau-de-la-mer-en-2100_2134738.html)
 
 * **Ça M'intéresse**: Calottes polaires : à quel point montera la mer ? (Basile Perrin-Reymond, September 2020) [See article](https://www.caminteresse.fr/environnement/calottes-polaires-a-quel-point-montera-la-mer-11147942/)
