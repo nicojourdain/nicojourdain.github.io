@@ -98,6 +98,8 @@ permalink: /communications/
 
 * **Alerte presse CNRS**: Calottes polaires : à quel point montera la mer ? (Véronique Etienne, September 2020) [See article](https://www.cnrs.fr/fr/calottes-polaires-quel-point-montera-la-mer)
 
+* **UGA News**: How much will polar ice sheets add to sea level rise? (September 2020) [See article](https://www.univ-grenoble-alpes.fr/news/headlines/how-much-will-polar-ice-sheets-add-to-sea-level-rise--739813.kjsp)
+
 * **France Culture - Les Idées Claires**: a-t-il vraiment fait 20 degrés en Antarctique ? (produced by Nicolas Martin, February 2020) [Video & podcast](https://www.franceculture.fr/environnement/a-t-il-vraiment-fait-20-degres-en-antarctique)
 
 * **Maman j'ai raté l'actu** (presented by Hélène Corbie and Marie-Caroline Cabut, 2019) [Podcast](https://podcast.ausha.co/maman-j-ai-rate-l-actu/maman-j-ai-rate-l-actu-episode)
