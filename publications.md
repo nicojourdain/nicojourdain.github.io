@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+53. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
+
 52. Bull, C. Y. S. et al. (2020). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Ocean, under review_.
 
 51. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2020). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
