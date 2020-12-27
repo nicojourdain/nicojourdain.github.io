@@ -17,3 +17,5 @@ permalink: /students/
 * [Overview of basic **git** commands](/students_dir/students_git.md).
 
 * [Working with **Python on GRICAD**](/students_dir/students_python_gricad.md).
+
+* [Working with **Python on occigen (CINES)**](/students_dir/students_python_occigen.md).
