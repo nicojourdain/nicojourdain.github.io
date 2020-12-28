@@ -71,7 +71,7 @@ Occigen does not allow you to install packages through anaconda/miniconda. There
 conda activate py38 # if you have defined an environment, here 'py38'
 conda list # check that you have all you need
 pip install conda-pack
-conda update -n py3 --force-reinstall --update-all # may be needed to avoid errors due to pip overwritting conda stuff
+conda update -n py38 --force-reinstall --update-all # may be needed to avoid errors due to pip overwritting conda stuff
 conda pack -n py38 -o condapack_luke_py38.tar.gz
 scp -p condapack_luke_py38.tar.gz ${MYLOGIN}@occigen.cines.fr:/scratch/xxxx/${MYLOGIN} # directly to occigen's $SCRATCHDIR or through a third machine if no permission
 ```
