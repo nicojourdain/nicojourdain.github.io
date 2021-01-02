@@ -19,6 +19,17 @@ TROIS AS Results <br>
 {:/}
 
 ---
+**December 2020 - New accumulation and melt projections at the surface of the Amundsen ice shelves**
+TBC
+[Read more]({{site.url}}projects_dir/trois_as_results_11)
+
+---
+**September 2020 - Several papers published on the methods and projections of ISMIP6**
+
+The main results from the Ice Sheet Model intercomparison Project for CMIP6 (ISMIP6 ) have been published today. They include new sea-level projections to 2100 induced by mass changes of the Antarctic ice sheets...
+[Read more]({{site.url}}projects_dir/trois_as_results_10)
+
+---
 **March 2020 - New paper on data assimilation in a transient marine ice sheet model**
 
 Assimilation of surface observations in transient Elmer/Ice simulations using an ensemble Kalman filter...
