@@ -54,7 +54,7 @@ The Antartic ice sheet represents the world’s largest potential contributor to
 [[Read more]]({{site.url}}projects_dir/trois_as_results_7)
 
 ---
-**November 2018 - New paper on tide-indiced ice-shelf melting**
+**November 2018 - New paper on tide-induced ice-shelf melting**
 
 Tides influence the ocean temperature and salinity in many ways, in particular in Antarctic seas...
 [[Read more]]({{site.url}}projects_dir/trois_as_results_6)
