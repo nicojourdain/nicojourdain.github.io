@@ -11,7 +11,7 @@ Using a 10km MAR configuration that was thoroughly evaluated in [Donat et al. (2
 SMB over the grounded ice sheet in the sector between Getz and Abbot increases from 336 Gt/yr in 1989-2009 to 455 Gt/yr in 2080-2100, which would reduce the global sea level changing rate by 0.33 mm/yr. Snowfall indeed increases by 7.4 to 8.9% per °C of near-surface warming, due to increasing saturation water vapour pressure in warmer conditions, reduced sea-ice concentrations, and more marine air intrusion.
 
 <center><div>
-<img src="{{site.url}}projects_dir/img/paper_MAR_proj_Fig3.png" width="80%" height="80%"/>
+<img src="{{site.url}}projects_dir/img/paper_MAR_proj_Fig3.png" width="90%" height="90%"/>
 </div></center>
 
 Ice-shelf surface melt rates increase by an order of magnitude in the 21st century, mostly due to higher downward radiation from increased humidity, and to reduced albedo in the presence of melting. However, most melt water refreezes in the firn, even in the future run. Hence, significant amounts of surface liquid water (produced after warming of the snowpack and depletion of the firn air content by melt water) are only found over Abbot, Cosgrove and Pine Island ice shelves at the end of the 21st century. All the ice shelves from Thwaites to Getz are projected to remain nearly free of surface liquid water throughout the 21st century. The melt-to-snowfall ratio explains regional contrasts in our projections, and the net production of surface liquid water becomes significant if this ratio exceeds 0.60 to 0.85. 
@@ -25,7 +25,7 @@ Assuming that a net production of surface liquid water over a year is a necessar
 Based on the melt and snowfall dependencies to near-surface warming, we have extrapolated our projections further in time and for other scenarios. Although uncertain, this suggests that most ice shelves could remain free of surface liquid water by 2100 under RCP2.6 and RCP4.5, to the exception of Cosgrove. Under RCP8.5, the ice shelves from Thwaites to Getz may only experience net production of surface liquid water in the second half of the 22nd century, and possibly the 23rd century in the case of Crosson. These results suggest that for Getz, Dotson, Crosson and Thwaites, ice-shelf collapse is unlikely to be triggered by hydrofracturing before the 22nd century. Nonetheless, it does not mean that these ice shelves will not collapse through other mechanisms, in particular ocean-induced basal melting, as observed and projected for Thwaites (e.g. [Milillo et al., 2019][Milillo19]; [Yu et al., 2019][Yu19]), with positive feedbacks to ice damage and ice discharge ([Lhermitte et al., 2020][Lhermitte20]).
 
 <center><div>
-<img src="{{site.url}}projects_dir/img/paper_MAR_proj_Fig8.png" width="70%" height="70%"/>
+<img src="{{site.url}}projects_dir/img/paper_MAR_proj_Fig8.png" width="90%" height="90%"/>
 </div></center>
 
 # Methods
