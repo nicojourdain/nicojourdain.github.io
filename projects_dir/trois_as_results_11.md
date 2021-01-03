@@ -4,6 +4,8 @@ title: "New article on surface accumulation and surface melting"
 date: 2020-12-20
 ---
 
+New paper supported by [TROIS-AS](https://nicojourdain.github.io/projects_dir/trois_as/) and [PROTECT](https://protect-slr.eu): [Donat et al. (2021)](https://doi.org/10.5194/tc-2020-113).
+
 # Projections
 
 Using a 10km MAR configuration that was thoroughly evaluated in [Donat et al. (2020)][Donat20], we have built projections of surface mass balance (SMB) and surface melt of the Amundsen sector of West Antarctica, to 2080–2100, based on the CMIP5 multi-model mean under the RCP8.5 scenario.
@@ -34,7 +36,7 @@ The method used to build our projections consists of adding the seasonal climate
 
 To evaluate the ability of our projection method to capture the future climatology, we have run a perfect-model test (i.e. assuming that the future is perfectly known by considering that a given projection, here ACCESS-1.3 is true). This shows that our projection method may lead to a 16-17% underestimation of projected SMB and melt rates. Such errors should not strongly affect the melt to snowfall ratio, which gives confidence in our projections of potential hydrofracturing in the Amundsen sector.
 
-#Reference
+# Reference
 
 Donat-Magnin, M., Jourdain, N. C., Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., and Chekki, M.: Future surface mass balance and surface melt in the Amundsen sector of the West Antarctic Ice Sheet, _The Cryosphere_, [https://doi.org/10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113), in press, 2021.
 
