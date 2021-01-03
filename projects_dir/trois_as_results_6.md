@@ -20,7 +20,7 @@ Understanding the interplay between all these processes is important because it 
 In this paper, we show that diurnal tidal constituents generate strong tidal velocities over the continental shelf break. Steep topography indeed generates tidal waves that cannot propagate away from their generation site that are poleward of the critical latitude (where inertial frequency equals tidal frequency and beyond which tidal waves do not propagate freely). These strong currents enhance vertical mixing over the continental shelf break. We also bring evidence for a significant residual circulation that flows westward along the continental shelf break and southward in Dotson-Getz Trough (see figure below). 
 
 <center><div>
-<img src="{{site.url}}projects_dir/img/paper_TIDES_AMU12_Fig8.png" width="60%" height="60%"/>
+<img src="{{site.url}}projects_dir/img/paper_TIDES_AMU12_Fig5.png" width="60%" height="60%"/>
 </div></center>
 *Barotropic stream function of the tidal residual circulation in the absence of ocean stratification and ice shelf melting (the difference between 2 points on the map gives the ocean transport in millions of m3/s through the corresponding vertical section).*
 
