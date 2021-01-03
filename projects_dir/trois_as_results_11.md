@@ -4,11 +4,11 @@ title: "New article on surface accumulation and surface melting"
 date: 2020-12-20
 ---
 
-New paper supported by [TROIS-AS](https://nicojourdain.github.io/projects_dir/trois_as/) and [PROTECT](https://protect-slr.eu): [Donat et al. (2021)](https://doi.org/10.5194/tc-2020-113).
+New paper supported by [TROIS-AS](https://nicojourdain.github.io/projects_dir/trois_as/) and [PROTECT](https://protect-slr.eu): [Donat-Magnin et al. (2021)](https://doi.org/10.5194/tc-2020-113).
 
 # Projections
 
-Using a 10km MAR configuration that was thoroughly evaluated in [Donat et al. (2020)][Donat20], we have built projections of surface mass balance (SMB) and surface melt of the Amundsen sector of West Antarctica, to 2080–2100, based on the CMIP5 multi-model mean under the RCP8.5 scenario.
+Using a 10km MAR configuration that was thoroughly evaluated in [Donat-Magnin et al. (2020)][Donat20], we have built projections of surface mass balance (SMB) and surface melt of the Amundsen sector of West Antarctica, to 2080–2100, based on the CMIP5 multi-model mean under the RCP8.5 scenario.
 
 SMB over the grounded ice sheet in the sector between Getz and Abbot increases from 336 Gt/yr in 1989-2009 to 455 Gt/yr in 2080-2100, which would reduce the global sea level changing rate by 0.33 mm/yr. Snowfall indeed increases by 7.4 to 8.9% per °C of near-surface warming, due to increasing saturation water vapour pressure in warmer conditions, reduced sea-ice concentrations, and more marine air intrusion.
 
