@@ -20,7 +20,8 @@ TROIS AS Results <br>
 
 ---
 **December 2020 - New accumulation and melt projections at the surface of the Amundsen ice shelves**
-TBC
+
+We have built projections of surface mass balance (SMB) and surface melt of the Amundsen sector of West Antarctica, to 2080–2100, based on the CMIP5 multi-model mean under the RCP8.5 scenario...
 [Read more]({{site.url}}projects_dir/trois_as_results_11)
 
 ---
