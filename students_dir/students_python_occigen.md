@@ -95,7 +95,7 @@ ipython --version # for example, to check that it works
 which python # check this gives the correct path
 ```
 
-To make it work for every future session:
+To make it work for every future session (don't do it if you use jupyter notebook through the vizualization nodes, see below):
 ```bash
 cat << EOF >> ~/.bashrc
 
@@ -131,6 +131,7 @@ If you have an occigen account, you should be able to access the vizualization m
 ssh ${MYLOGIN}@visu.cines.fr
 vizalloc -m vnc -t 60 # here for 60 minutes (max allowed=360)
 ```
+Note that you should not source the path of you unpacked conda envoronment in your .bashrc, as it could prevent vizalloc to work properly.
 
 It should show something like this if a ressource is available:
 ```bash
@@ -150,11 +151,19 @@ Note the server on which the service started (```visu1.cines.fr``` in the previo
 ssh ${MYLOGIN}@visuX.cines.fr  # adapt X
 ```
 
-To set-up jupyter on the first use, do:
+```bash
+cat << EOF >> ~/.bashrc
+
+alias jup="export PATH="/scratch/xxxx/${MYLOGIN}/py38/bin:$PATH"; jupyter-notebook"
+alias ipyt="export PATH="/scratch/xxxx/${MYLOGIN}/py38/bin:$PATH"; ipython"
+alias pyt="export PATH="/scratch/xxxx/${MYLOGIN}/py38/bin:$PATH"; python"
+EOF
+```
+
+To set-up jupyter on the first use, do this or edit the file manually:
 ```bash
 jupyter notebook --generate-config
 echo "c.NotebookApp.open_browser = False" >> ~/.jupyter/jupyter_notebook_config.py
-echo "c.NotebookApp.ip = '0.0.0.0'" >> ~/.jupyter/jupyter_notebook_config.py
 exit
 ```
 NB: check ~/.jupyter/jupyter_notebook_config.py and comment lines that were previously uncommented or added (e.g. if you ran jupyter directly on occigen). Or just launch ``` jupyter notebook --no-browser```.
