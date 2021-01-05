@@ -10,13 +10,45 @@ date: 2017-03-25
 <div style="itext-align:center;float:right">
 <br> <br> <b>
 <font size="5">
-TROIS AS Communications <br>
+TROIS AS Communication and dissemination <br>
 </b> <br> <br>
 </font>
 </div>
 </div>
 <div style="clear:both"/>
 {:/}
+
+1. Media
+
+* **Pour la Science**: La fonte des calottes glaciaires réestimée (François Savatier, Décembre 2020) [see article](https://www.pourlascience.fr/sd/climatologie/la-fonte-des-calottes-glaciaires-reestimee-20637.php)
+
+* **Futura-Sciences**: Calottes polaires et climat : « nous avons sous-estimé l’ampleur de notre manque de connaissance » (Nathalie Mayer, September 2020) [See article](https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-calottes-polaires-climat-nous-avons-sous-estime-ampleur-notre-manque-connaissance-83023/)
+
+* **Les Échos**: Fonte des glaces : la grande débâcle (Paul Molga, September 2020) [See article](https://www.lesechos.fr/idees-debats/sciences-prospective/climat-la-grande-debacle-1243776)
+
+* **France3**: Sciences : un chercheur grenoblois a étudié l'impact de la fonte des glaces sur l'élévation du niveau des mers (F.C. avec Marie Michellier et Xavier Schmitt, September 2020) [See article](https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/isere/grenoble/sciences-chercheur-grenoblois-etudie-impact-fonte-glaces-elevation-mers-1876306.html)
+
+* **L'Express**: L'Antarctique pourrait contribuer jusqu'à 30 cm à la hausse du niveau de la mer en 2100 (Valentin Ehkirch, September 2020) [See article](https://www.lexpress.fr/actualite/societe/environnement/l-antarctique-pourrait-contribuer-jusqu-a-30-cm-a-la-hausse-du-niveau-de-la-mer-en-2100_2134738.html)
+
+* **Ça M'intéresse**: Calottes polaires : à quel point montera la mer ? (Basile Perrin-Reymond, September 2020) [See article](https://www.caminteresse.fr/environnement/calottes-polaires-a-quel-point-montera-la-mer-11147942/)
+
+* **Alerte presse CNRS**: Calottes polaires : à quel point montera la mer ? (Véronique Etienne, September 2020) [See article](https://www.cnrs.fr/fr/calottes-polaires-quel-point-montera-la-mer)
+
+* **UGA News**: How much will polar ice sheets add to sea level rise? (September 2020) [See article](https://www.univ-grenoble-alpes.fr/news/headlines/how-much-will-polar-ice-sheets-add-to-sea-level-rise--739813.kjsp)
+
+* **France Culture - Les Idées Claires**: a-t-il vraiment fait 20 degrés en Antarctique ? (produced by Nicolas Martin, February 2020) [Video & podcast](https://www.franceculture.fr/environnement/a-t-il-vraiment-fait-20-degres-en-antarctique)
+
+* **Maman j'ai raté l'actu** (presented by Hélène Corbie and Marie-Caroline Cabut, 2019) [Podcast](https://podcast.ausha.co/maman-j-ai-rate-l-actu/maman-j-ai-rate-l-actu-episode)
+
+* **The Conversation - France**: Fonte des glaces et climat, que se trame-t-il en Antarctique ? (by  Nicolas Jourdain and Cécile Agosta, edited by Maylis Gaillard, 2019) [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
+
+* **France Info**: Comprendre la polynie, ce trou apparu dans la banquise de l’Antarctique (produced by Benoît Jourdain, 2017) [Video](https://www.francetvinfo.fr/choix/video-comprendre-la-polynie-ce-trou-apparu-dans-la-banquise-de-lantarctique_2427199.html)
+
+2. Conferences
+
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, online**, June 2020: Jourdain, N. *Ice-shelf melting projection in the Amundsen Sea, Antarctica*.
+
+* **European Geophysical Union (EGU) General Assembly, online**, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki. *Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica*. See [Abstract](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html)
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK**, September 2019: Jourdain, N. C. *Uncertainty on future ice-shelf basal melt rates in Antarctica*. See [FRISP webpage](https://www.bas.ac.uk/event/frisp-2019/)
 

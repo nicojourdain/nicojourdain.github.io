@@ -18,6 +18,10 @@ TROIS AS Publications <br>
 <div style="clear:both"/>
 {:/}
 
+* Kittel, C., Amory, C., Agosta, C., Jourdain, N. C., Hofer, S., Delhasse, A., Doutreloup, S., Huot, P.-V., Lang, C., Fichefet, T., and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet, _The Cryosphere Discuss._ (in review) [doi:10.5194/tc-2020-291](https://doi.org/10.5194/tc-2020-291)
+
+* Huot, P.-V., Fichefet, T., Jourdain, N. C., Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
+
 * Donat-Magnin, M., Jourdain, N. C., Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere Discuss._ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
 
 * Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., Jourdain, N. C., Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_.
