@@ -10,7 +10,13 @@ permalink: /projects/
 
 <br>
 
-* WP4 co-leader in [**PROTECT**](https://protect-sealevelrise.osug.fr) - Cryosphere and Sea Level (H2020-LC-CLA-07-2019, 2020-2024).
+* WP3 and WP6 co-leader in **ESM2025** – Earth System Models for the future (H2020-LC-CLA-18-2020, 2021-2025).
+
+* Partner in **CRiceS** – Climate Relevant interactions and feedbacks: the key role of sea ice and Snow in the polar and global climate system (H2020- LC-CLA-17-2020, 2021-2025).
+
+* Partner in [**EIS**](https://elmer-ice-sheet.osug.fr/) – Elmer Ice Sheet (ANR, 2020-2023).
+
+* WP4 co-leader in [**PROTECT**](https://protect-slr.eu) - Projecting sea level rise : from ice sheets to local implications (H2020-LC-CLA-07-2019, 2020-2024).
 
 * Partner in [**TiPACCs**](https://www.tipaccs.eu) - Tipping Points in Antarctic Climate Components (H2020-LC-CLA-2018-2, 820575, 2019-2023).
 
