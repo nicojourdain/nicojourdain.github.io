@@ -18,7 +18,7 @@ TROIS AS Communication and dissemination <br>
 <div style="clear:both"/>
 {:/}
 
-1. Media
+# 1- Media
 
 * **Pour la Science**: La fonte des calottes glaciaires réestimée (François Savatier, Décembre 2020) [see article](https://www.pourlascience.fr/sd/climatologie/la-fonte-des-calottes-glaciaires-reestimee-20637.php)
 
@@ -44,7 +44,7 @@ TROIS AS Communication and dissemination <br>
 
 * **France Info**: Comprendre la polynie, ce trou apparu dans la banquise de l’Antarctique (produced by Benoît Jourdain, 2017) [Video](https://www.francetvinfo.fr/choix/video-comprendre-la-polynie-ce-trou-apparu-dans-la-banquise-de-lantarctique_2427199.html)
 
-2. Conferences
+# 2- Conferences
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, online**, June 2020: Jourdain, N. *Ice-shelf melting projection in the Amundsen Sea, Antarctica*.
 
@@ -66,7 +66,7 @@ TROIS AS Communication and dissemination <br>
 
 * **American Geophisical Union (AGU) Fall Meeting 2017, New Orleans, USA**, December 2017 : Jourdain, N., Molines, J. M., Le Sommer, J., Mathiot, P., de Lavergne, C., Gurvan, M., Durand, G., *Modelling and parameterizing the influence of tides on ice-shelf melt rates.* See [Abstract](http://adsabs.harvard.edu/abs/2017AGUFM.C13G..07J)
 
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Bergen, Norway**, June 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.*
+* **Forum for Research into Ice Shelf Processes (FRISP) workshop, Bergen, Norway**, June 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.*
 
 * **European Geophysical Union (EGU) General Assembly, Vienna**, Austria, April 2017 : N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.* See [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf)
 
@@ -76,7 +76,7 @@ TROIS AS Communication and dissemination <br>
 
 * **AGU Fall Meeting, San Francisco, USA**, December 2016 : Asay-Davis, X., Galton-Fenzi, B., Gwyther, D., Jourdain, N., Martin, D. F., Nakayama, Y., Seroussi, H. L. *Results from ISOMIP+ and MISOMIP1, two interrelated marine ice sheet and ocean model intercomparison projects*. See [Abstract](https://agu.confex.com/agu/fm16/meetingapp.cgi/Paper/117786) 
 
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden**, October 2106 : Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
+* **Forum for Research into Ice Shelf Processes (FRISP) workshop, Kristineberg, Sweden**, October 2106 : Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
 
 * **International Glaciological Society (IGS) Symposium, La Jolla, USA**, July 2016 : Jourdain, N. C., Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Proceedings](https://www.igsoc.org/symposia/2016/lajolla/proceedings/proceedings.html)
 
@@ -84,4 +84,4 @@ TROIS AS Communication and dissemination <br>
 
 * **Journées scientifiques du CNFRA, Lyon, France**, May 2016 : Jourdain, N. C., Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *Modélisation de l'interface océan/glace*.
 
-* **Rising coastal seas on a Warming Earth II, Abu Dhabi, United Arab Emirates**, May 2016 : Jourdain, N. C., Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Workshop website](http://nyuad.nyu.edu/en/news-events/abu-dhabi-events/2016/05/rising-coastal-seas-on-a-warming-earth-ii.html)
+* **Rising coastal seas on a Warming Earth II, Abu Dhabi, United Arab Emirates**, May 2016 : Jourdain, N. C., Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. 
