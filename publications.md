@@ -18,19 +18,19 @@ For publication metrics, see :
 
 53. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
 
-52. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2020). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
+52. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2021). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
 
-51. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
+51. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2021). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
 
-50. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
+50. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2021). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
 
-49. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2020). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere Discuss._. [doi:10.5194/tc-2019-334](https://doi.org/10.5194/tc-2019-334)
+49. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2021). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere Discuss._. [doi:10.5194/tc-2019-334](https://doi.org/10.5194/tc-2019-334)
 
 ## Peer reviewed publications
 
 # 2021
 
-48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere, in press_ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
+48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2021). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere, in press_ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
 
 47. Bull, C. Y. S., Jenkins, A., **Jourdain, N. C.**, Vankova, I., Holland, P., Mathiot, P., Hausmann, U., Sallée, J.-B. (2021). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Ocean, in press_.
 
@@ -46,7 +46,7 @@ For publication metrics, see :
 
 42. Bull, C. Y. S., Kiss, A., Sen Gupta, A., **Jourdain, N. C.**, Argüeso, D., Di Luca, A., Sérazin, G. (2020). Regional versus remote atmosphere-ocean drivers of the rapid projected intensification of the East Australian Current. _J. Geophys. Res. Oceans_, 125(7), JC015889. [doi:10.1029/2019JC015889](https://doi.org/10.1029/2019JC015889) 
 
-41. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2019). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics_, 54, 4935–4952. [doi:10.1007/s00382-020-05266-7](https://doi.org/10.1007/s00382-020-05266-7)
+41. Li, Y., Sen Gupta, A., Taschetto, A. S., **Jourdain, N. C.**, Di Luca, A., Done, J. M. (2020). Assessing the role of the ocean-atmosphere coupling frequency on the western Maritime Continent rainfall. _Climate Dynamics_, 54, 4935–4952. [doi:10.1007/s00382-020-05266-7](https://doi.org/10.1007/s00382-020-05266-7)
 
 40. Hausmann, U., Sallée, J.-B., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Madec, G., Deshayes, J. and Hattermann, T. (2020). The role of tides in ocean-ice-shelf interactions in the southwestern Weddell Sea. _J. Geophys. Res. Oceans_, 125(6), JC015847. [doi:10.1029/2019JC015847](https://doi.org/10.1029/2019JC015847)
 
