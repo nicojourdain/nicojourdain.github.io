@@ -18,23 +18,25 @@ For publication metrics, see :
 
 53. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
 
-52. Bull, C. Y. S. et al. (2020). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Ocean, under review_.
+52. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2020). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
 
-51. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2020). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
+51. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
 
-50. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere Discuss._ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
+50. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
 
-49. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2020). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
-
-48. Ménégoz, M., Valla, E., **Jourdain, N. C.**, Blanchet, J., Beaumet, J., Wilhelm, B., Gallée, H., Fettweis, X., Morin, S. and Anquetin, S. (2020). Contrasting seasonal changes in total and intense precipitation in the European Alps from 1903 to 2010. _Hydrology and Earth System Sciences Discussions_ [doi:10.5194/hess-2019-690](https://doi.org/10.5194/hess-2019-690) 
-
-47. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
-
-46. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2020). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere Discuss._. [doi:10.5194/tc-2019-334](https://doi.org/10.5194/tc-2019-334)
+49. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2020). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere Discuss._. [doi:10.5194/tc-2019-334](https://doi.org/10.5194/tc-2019-334)
 
 ## Peer reviewed publications
 
+# 2021
+
+48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2020). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere, in press_ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
+
+47. Bull, C. Y. S., Jenkins, A., **Jourdain, N. C.**, Vankova, I., Holland, P., Mathiot, P., Hausmann, U., Sallée, J.-B. (2021). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Ocean, in press_.
+
 # 2020
+
+46. Ménégoz, M., Valla, E., **Jourdain, N. C.**, Blanchet, J., Beaumet, J., Wilhelm, B., Gallée, H., Fettweis, X., Morin, S. and Anquetin, S. (2020). Contrasting seasonal changes in total and intense precipitation in the European Alps from 1903 to 2010. _Hydrology and Earth System Sciences_, 24, 5355–5377, [doi:10.5194/hess-24-5355-2020](https://doi.org/10.5194/hess-24-5355-2020) 
 
 45. Seroussi, H., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2020). ISMIP6 Antarctica: a multi-model ensemble of the Antarctic ice sheet evolution over the 21st century. _The Cryosphere_, 14, 3033–3070. [doi:10.5194/10.5194/tc-14-3033-2020](https://doi.org/10.5194/tc-14-3033-2020)
 
