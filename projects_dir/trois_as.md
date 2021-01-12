@@ -19,8 +19,9 @@ modelling System<br>
 </div>
 {:/}
 
-*[Final TROIS-AS report (in french)](https://cloud.univ-grenoble-alpes.fr/index.php/s/9rXmz2k5QyoxNKZ)*
-*[Slides on the main results from TROIS-AS (in english)](https://cloud.univ-grenoble-alpes.fr/index.php/s/W9kN97XBXpDa5KE)*
+**[Final TROIS-AS report (in french)](https://cloud.univ-grenoble-alpes.fr/index.php/s/9rXmz2k5QyoxNKZ)**
+
+**[Slides on the main results from TROIS-AS (in english)](https://cloud.univ-grenoble-alpes.fr/index.php/s/W9kN97XBXpDa5KE)**
 
 Any change in the mass of the Antarctic ice sheet is equivalent to a change in sea level: if the ice sheet loses mass, it contributes to raising sea level, while if it gains mass, it contributes to lowering or limiting sea level rise. Since at least the 1980s, it seems clear that it should snow more on the Antarctic ice sheet in a warmer climate, which would increase the ice sheet mass. However, the ice sheet has lost mass in recent decades as the ice flow towards the ocean has accelerated. This is related to the melting of the floating ice shelves by the ocean. In fact, these ice shelves partially hold back the entire ice sheet flow, and their thinning or collapse has strong consequences on the upstream ice flow. In addition, as observed in the Antarctic Peninsula region, atmospheric warming and subsequent melting at the surface of ice shelves can cause their collapse, in particular by enlarging the crevasses by filling them with water.
 
