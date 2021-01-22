@@ -30,7 +30,7 @@ If your netcdf does not follow the CF conventions, you need to open the file as 
 ```python
 nc1 = xr.open_dataset(file_in,decode_cf=False)
 ```
-Alternatively, you can just set ```decode_coords=False``` or ```decode_times=False```.
+You can also set ```decode_coords=False``` or ```decode_times=False``` if you don't want to interpret coordinates or the time axis but still want to interpret other attributes (e.g. _FillValue).
 
 To open multiple files as a single dataset, e.g.:
 ```python
