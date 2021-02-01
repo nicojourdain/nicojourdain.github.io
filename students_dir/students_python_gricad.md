@@ -10,7 +10,7 @@ Register on [https://perseus.univ-grenoble-alpes.fr](https://perseus.univ-grenob
 
 # Preliminary steps for Windows10 users (last updated May 2020)
 
-If you use Linux of Mac OSX, skip this section. For Windows10, you will need to activate OpenSSH ("Settings", then "Apps and features", then "Manage optional features", then "Add a feature" and look for "OpenSSH Client", then install it). Then, install Ubuntu20 from the Windows Store ([see this page](https://www.zebulon.fr/astuces/divers/executer-linux-sous-windows-10.html)). Then, launch the Ubuntu app in Windows. 
+If you use Linux or Mac OSX, skip this section. For Windows10, you will need to activate OpenSSH ("Settings", then "Apps and features", then "Manage optional features", then "Add a feature" and look for "OpenSSH Client", then install it). Then, install Ubuntu20 from the Windows Store ([see this page](https://www.zebulon.fr/astuces/divers/executer-linux-sous-windows-10.html)). Then, launch the Ubuntu app in Windows. 
 
 You can enable copy/paste through Ctrl+Maj+C/v somewhere in the menu.
 
