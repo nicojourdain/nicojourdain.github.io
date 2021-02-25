@@ -37,7 +37,7 @@ To open multiple files as a single dataset, e.g.:
 files1 = ['seaice_conc_monthly_20050'+month.astype('str')+'_v02r00.nc' for month in np.arange(1,10)]
 files2 = ['seaice_conc_monthly_2005'+month.astype('str')+'_v02r00.nc' for month in np.arange(10,13)]       
 files = files1+files2
-nc1 = = xr.open_mfdataset(files)
+nc1 = xr.open_mfdataset(files)
 ```
 
 # Basic operations on variables
