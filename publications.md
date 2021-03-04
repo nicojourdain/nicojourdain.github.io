@@ -30,9 +30,9 @@ For publication metrics, see :
 
 # 2021
 
-48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2021). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere, in press_ [doi:10.5194/tc-2020-113](https://doi.org/10.5194/tc-2020-113)
+48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2021). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere, in press_ [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021)
 
-47. Bull, C. Y. S., Jenkins, A., **Jourdain, N. C.**, Vankova, I., Holland, P., Mathiot, P., Hausmann, U., Sallée, J.-B. (2021). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Ocean, in press_.
+47. Bull, C. Y. S., Jenkins, A., **Jourdain, N. C.**, Vankova, I., Holland, P., Mathiot, P., Hausmann, U., Sallée, J.-B. (2021). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Oceans_, 126, e2020JC016550, [doi:10.1029/2020JC016550](http://doi.org/10.1029/2020JC016550)
 
 # 2020
 

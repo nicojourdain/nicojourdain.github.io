@@ -23,7 +23,7 @@ print(nc1)
 
 If several files are used with the same grid but different dimension names (e.g. 'z' and 'deptht'), it can be convenient to rename dimensions:
 ```python
-nc1=nc1.rename_dims({'z':'deptht'})
+nc1=nc1.rename({'z':'deptht'})
 ```
 
 If your netcdf does not follow the CF conventions, you need to open the file as follows:
