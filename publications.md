@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+54. Huot, P.-V., Kittel, C., Fichefet, T., **Jourdain, N. C.**, Sterlin, J., Fettweis, X. (2021). Effects of the atmospheric forcing resolution on simulated sea ice and polynyas off Adelie Land, East Antarctica. _Ocean Modelling, submitted_
+
 53. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
 
 52. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2021). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
@@ -24,13 +26,13 @@ For publication metrics, see :
 
 50. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2021). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
 
-49. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2021). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere Discuss._. [doi:10.5194/tc-2019-334](https://doi.org/10.5194/tc-2019-334)
-
 ## Peer reviewed publications
 
 # 2021
 
-48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2021). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere, in press_ [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021)
+49. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2021). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere_, 15, 633–661, [doi:10.5194/tc-15-633-2021](https://doi.org/10.5194/tc-15-633-2021)
+
+48. Donat-Magnin, M., **Jourdain, N. C.**, Kittel, C., Agosta, C., Amory, C., Gallée, H., Krinner, G., Chekki, M. (2021). Future ice-sheet surface mass balance and melting in the Amundsen region, West Antarctica. _The Cryosphere_, 15, 571–593, [doi:10.5194/tc-15-571-2021](https://doi.org/10.5194/tc-15-571-2021)
 
 47. Bull, C. Y. S., Jenkins, A., **Jourdain, N. C.**, Vankova, I., Holland, P., Mathiot, P., Hausmann, U., Sallée, J.-B. (2021). Remote control of Filchner-Ronne Ice Shelf melt rates by the Antarctic Slope Current. _J. Geophys. Res. Oceans_, 126, e2020JC016550, [doi:10.1029/2020JC016550](http://doi.org/10.1029/2020JC016550)
 
