@@ -33,7 +33,19 @@ ferret
 
 Ferret is also useful for more complicated things, like regridding, see [Ferret Documentation](http://ferret.pmel.noaa.gov/Ferret/documentation/users-guide) to explore possibilities.
 
-It is also possible to use [PyFerret](https://ferret.pmel.noaa.gov/Ferret/documentation/pyferret), which is Ferret encapsulated in Python.
+It is also possible to use [PyFerret](https://ferret.pmel.noaa.gov/Ferret/documentation/pyferret), which works as the standard Ferret but is encapsulated in Python. This can be installed through anaconda as:
+```shell
+conda create -n FERRET -c conda-forge pyferret ferret_datasets --yes
+```
+Then, to use it:
+```shell
+conda activate FERRET
+ferret
+```
+When exiting, you'll need to leave the environment:
+```shell
+conda deactivate
+```
 
 See [this page]({{site.url}}students_dir/students_install_Ferret) to install Ferret on your computer.
 
