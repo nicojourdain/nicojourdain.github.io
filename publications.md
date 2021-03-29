@@ -20,15 +20,15 @@ For publication metrics, see :
 
 53. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
 
-52. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2021). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., submitted_.
-
-51. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2021). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling, submitted_.
-
-50. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2021). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
+52. Payne, A., Nowicki, S., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Chambers, C., Cullather, R., Cuzzone, J., Dumas, C., Edwards, T., Felikson, D., Fettweis, X., Goezler, H., Gladstone, R., Golledge, N., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Le clec'h, S., Lee, V., Leguy, G. R., Lowry, D. P., Lipscomb, W., Little, C. M., Morlighem, M., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Rückamp, M., Schlegel, N.-J., Seroussi, H., Shepherd, A., Simon, E., Smith, R. S., Slater, D., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R. S. W., van den Broeke, M., Winkelmann, R., Zhao, C., Zhang, T. and Zwinger, T. (2021). Contrasting contributions to future sea level under CMIP5 and CMIP6 scenarios from the Greenland and Antarctic ice sheets. _Geophysical Research Letter, submitted_. 
 
 ## Peer reviewed publications
 
 # 2021
+
+51. Wille, J. D., Favier, V., Gorodetskaya, I. V., Agosta, C., Kittel, C., Beeman, J. C., **Jourdain, N. C.**, Lenaerts, J. T. M. and Codron, F. (2021). Antarctic atmospheric river climatology and precipitation impacts. _J. Geophys. Res. Atm., accepted_.
+
+50. Huot, P.-V., Fichefet, T., **Jourdain, N. C.**, Mathiot, P., Rousset, C., Kittel, C., Fettweis, X. (2021). Influence of ocean tides and ice shelves on ocean-ice interactions and dense shelf water formation in the D’Urville Sea, Antarctica. _Ocean Modelling_, 101794, [doi:10.1016/j.ocemod.2021.101794](https://doi.org/10.1016/j.ocemod.2021.101794)
 
 49. Lipscomb, W. H., Leguy, G. R., **Jourdain, N. C.**, Asay-Davis, X. S., Seroussi, H. and Nowicki, S. (2021). ISMIP6 projections of ocean-forced Antarctic Ice Sheet evolution using the Community Ice Sheet Model. _The Cryosphere_, 15, 633–661, [doi:10.5194/tc-15-633-2021](https://doi.org/10.5194/tc-15-633-2021)
 
