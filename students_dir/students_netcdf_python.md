@@ -123,6 +123,11 @@ ds = xr.Dataset(
     },
 )
 
+# attributes/encoding for coordinate time:
+ds.time.encoding['units'] = 'days since 1900-01-01'
+ds.time.encoding['_FillValue'] = None
+ds.time.attrs['standard_name'] = 'time'
+
 # attributes for variable thetao:
 ds.thetao.attrs['_FillValue'] = 1.e20
 ds.thetao.attrs['units'] = 'degC'
