@@ -113,7 +113,7 @@ ds = xr.Dataset(
     {
     "thetao":    (["time", "depth", "latitude", "longitude"], np.float32(THETAO_var)),
     "zos":       (["time", "latitude", "longitude"], np.float32(ZOS_var)),
-    "deptho":    (["latitude", "longitude"], np.float32(DEPTHO_var)),
+    "deptho":    (["latitude", "longitude"], np.float32(DEPTHO_var))
     },
     coords={
     "longitude":np.float32(lon),
