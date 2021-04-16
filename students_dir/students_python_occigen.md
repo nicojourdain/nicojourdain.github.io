@@ -64,9 +64,34 @@ module avail
 module list
 ```
 
+# Use the conda environment on occigen (from a provided module):
+
+This is one way to use python and install the modules you need on occigen (the standard way to use anaconda is not permitted). Another method is described in the following section. 
+
+Do not load any of the existing python modules, but instead, follow this:
+
+```bash
+module load /opt/software/alfred/spack-dev/modules/tools/linux-rhel7-x86_64/miniconda3/4.7.12.1-gcc-4.8.5
+mkdir ${SCRATCHDIR}/MY_CONDA
+conda install ipython xarray -p ${SCRATCHDIR}/MY_CONDA
+conda install scipy dask pyproj -p ${SCRATCHDIR}/MY_CONDA
+conda install -c conda-forge gsw -p ${SCRATCHDIR}/MY_CONDA
+```
+
+Then, add the following lines to your ~/.bashrc:
+```bash
+export PATH="${SCRATCHDIR}/MY_CONDA/bin:$PATH"
+```
+
+Then re-source the .bashrc and check that the python path is correct:
+```bash
+. ~/.bashrc
+which python
+```
+
 # Pack a complete conda environment from another linux system:
 
-Occigen does not allow you to install packages through anaconda/miniconda. Therefore, you need to copy it from another linux system, for example, GRICAD's luke. See [this page](https://nicojourdain.github.io/students_dir/students_python_gricad/) to install a working conda environment on luke. Then, on luke:
+This alternative method consists of copying the conda environment from another linux system, for example, GRICAD's luke. See [this page](https://nicojourdain.github.io/students_dir/students_python_gricad/) to install a working conda environment on luke. Then, on luke:
 ```bash
 conda activate py38 # if you have defined an environment, here 'py38'
 conda list # check that you have all you need
@@ -122,7 +147,7 @@ exit
 
 At this stage, you should be able to run ``` jupyter notebook```on occigen and work in the mozilla X-window.
 
-# Run Jupyter Notebook on the vizualization machine
+# Run Jupyter Notebook on the vizualization machine (DOES NOT SEEM TO WORK...)
 
 The following was inspired by [this CINES page](https://www.cines.fr/calcul/materiels/visualisation/sessions-interactives-vnc/) and [this tuto by the MEOM team](https://github.com/meom-group/tutos/blob/master/occigen/jupyter-notebook-on-occigen.md).
 
