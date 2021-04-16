@@ -73,7 +73,7 @@ Do not load any of the existing python modules, but instead, follow this:
 ```bash
 module load /opt/software/alfred/spack-dev/modules/tools/linux-rhel7-x86_64/miniconda3/4.7.12.1-gcc-4.8.5
 mkdir ${SCRATCHDIR}/MY_CONDA
-conda install ipython xarray -p ${SCRATCHDIR}/MY_CONDA
+conda install ipython xarray netcdf4 -p ${SCRATCHDIR}/MY_CONDA
 conda install scipy dask pyproj -p ${SCRATCHDIR}/MY_CONDA
 conda install -c conda-forge gsw -p ${SCRATCHDIR}/MY_CONDA
 ```
