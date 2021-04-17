@@ -78,6 +78,13 @@ conda install scipy dask pyproj -p ${SCRATCHDIR}/MY_CONDA
 conda install -c conda-forge gsw -p ${SCRATCHDIR}/MY_CONDA
 ```
 
+To avoid home quota issues:
+```bash
+cd ~
+mv .conda ${SCRATCHDIR}/MY_CONDA
+ln -s -v ${SCRATCHDIR}/MY_CONDA/.conda
+```
+
 Then, add the following lines to your ~/.bashrc:
 ```bash
 export PATH="${SCRATCHDIR}/MY_CONDA/bin:$PATH"
