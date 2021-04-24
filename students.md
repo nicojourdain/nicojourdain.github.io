@@ -19,3 +19,5 @@ permalink: /students/
 * [Working with **Python on GRICAD**](/students_dir/students_python_gricad.md).
 
 * [Working with **Python on occigen (CINES)**](/students_dir/students_python_occigen.md).
+
+* [Running **NEMO4 on occigen (CINES)**](/students_dir/students_nemo4_occigen.md).
