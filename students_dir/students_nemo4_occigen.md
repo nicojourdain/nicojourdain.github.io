@@ -21,7 +21,12 @@ module load netcdf/4.6.3-intel-19.0.4-intelmpi-2019.4.243
 module load hdf5/1.10.5-intel-19.0.4-intelmpi-2019.4.243
 ```
 
-# Get the NEMO and xios sources
+Note that if you change these modules, the netcdf paths can be found from:
+```bash
+nc-config --libs
+```
+
+# Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
 
 ```bash
 cd $SCRATCHDIR
@@ -36,7 +41,7 @@ To get the trunk (version under development) instead of a specific revision:
 svn co http://forge.ipsl.jussieu.fr/nemo/svn/NEMO/trunk nemo_v4_trunk
 ```
 
-# Compile xios
+# Compile XIOS
 
 ```bash
 cd xios-2.5
@@ -109,3 +114,90 @@ Then compile xios:
 ```bash
 ./make_xios --prod --full --arch X64_OCCIGENbis --job 8
 ```
+
+Once completed, check that you have the executable:
+```bash
+ls bin/xios_server.exe
+```
+
+# Compile NEMO
+
+```bash
+cd $SCRATCHDIR/models/nemo_v4_trunk # or any other release
+```
+
+```bash
+cat << EOF > arch/arch-X64_OCCIGENbis.fcm
+# NCDF_HOME   root directory containing lib and include subdirectories for netcdf4
+# HDF5_HOME   root directory containing lib and include subdirectories for HDF5
+# XIOS_HOME   root directory containing lib for XIOS
+# OASIS_HOME  root directory containing lib for OASIS
+#
+# NCDF_INC    netcdf4 include file
+# NCDF_LIB    netcdf4 library
+# XIOS_INC    xios include file    (taken into accound only if key_iomput is activated)
+# XIOS_LIB    xios library         (taken into accound only if key_iomput is activated)
+# OASIS_INC   oasis include file   (taken into accound only if key_oasis3 is activated)
+# OASIS_LIB   oasis library        (taken into accound only if key_oasis3 is activated)
+#
+# FC          Fortran compiler command
+# FCFLAGS     Fortran compiler flags
+# FFLAGS      Fortran 77 compiler flags
+# LD          linker
+# LDFLAGS     linker flags, e.g. -L<lib dir> if you have libraries
+# FPPFLAGS    pre-processing flags
+# AR          assembler
+# ARFLAGS     assembler flags
+# MK          make
+# USER_INC    complete list of include files
+# USER_LIB    complete list of libraries to pass to the linker
+# CC          C compiler used to compile conv for AGRIF
+# CFLAGS      compiler flags used with CC
+#
+# Note that:
+#  - unix variables "$..." are accpeted and will be evaluated before calling fcm.
+#  - fcm variables are starting with a % (and not a $)
+#
+%NCDF_HOME           /opt/software/occigen/spack/linux-rhel7-x86_64/intel-19.0.4/netcdf-4.6.3-ilty/
+%NCDF_HOME_FORTRAN   /opt/software/occigen/spack/linux-rhel7-x86_64/intel-19.0.4/netcdf-fortran-4.4.4-hnmh/
+%HDF5_HOME           /opt/software/occigen/spack/linux-rhel7-x86_64/intel-19.0.4/netcdf-fortran-4.4.4-hnmh/
+%XIOS_HOME           $SCRATCHDIR/models/xios-2.5
+%OASIS_HOME          $SCRATCHDIR/models/oa3mct
+
+%NCDF_INC            -I%NCDF_HOME/inc -I%NCDF_HOME_FORTRAN/inc
+%NCDF_LIB            -L%NCDF_HOME/lib -lnetcdf -L%NCDF_HOME_FORTRAN/lib -lnetcdff
+%XIOS_INC            -I%XIOS_HOME/inc
+%XIOS_LIB            -L%XIOS_HOME/lib -lxios -lstdc++
+%OASIS_INC           -I%OASIS_HOME/build/lib/mct -I%OASIS_HOME/build/lib/psmile.MPI1
+%OASIS_LIB           -L%OASIS_HOME/lib -lpsmile.MPI1 -lmct -lmpeu -lscrip
+
+%CPP                 cpp
+%FC                  mpif90 -c -cpp
+%FCFLAGS             -i4 -r8 -O3 -fp-model precise -xAVX -fno-alias -traceback
+%FFLAGS              %FCFLAGS
+%LD                  mpif90
+%FPPFLAGS            -P  -traditional
+%LDFLAGS             -lstdc++
+%AR                  ar
+%ARFLAGS             rs
+%MK                  gmake
+%USER_INC            %XIOS_INC %OASIS_INC %NCDF_INC
+%USER_LIB            %XIOS_LIB %OASIS_LIB %NCDF_LIB
+
+%CC                  cc
+%CFLAGS              -O0
+EOF
+
+To know the options of makenemo (the NEMO compiler):
+```bash
+makenemo -h
+```
+
+You can try to compile one of the provided configuration to check that everything is well set up, e.g.:
+```bash
+makenemo -r WED025 -m X64_OCCIGENbis -j 8
+ls cfgs/WED025/BLD/bin/nemo.exe # to check that compilation worked
+```
+
+
+
