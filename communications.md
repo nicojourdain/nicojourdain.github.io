@@ -86,6 +86,8 @@ permalink: /communications/
 
 ## Media
 
+* **Le Monde**: Fonte des glaciers : l’Antarctique va-t-il atteindre un point de non-retour ? (Audrey Garric, Mai 202) [see article](https://www.lemonde.fr/planete/article/2021/05/05/fonte-des-glaciers-en-antarctique-le-point-de-non-retour-pourrait-etre-atteint-d-ici-a-2060_6079264_3244.html)
+
 * **Pour la Science**: La fonte des calottes glaciaires réestimée (François Savatier, Décembre 2020) [see article](https://www.pourlascience.fr/sd/climatologie/la-fonte-des-calottes-glaciaires-reestimee-20637.php)
 
 * **Futura-Sciences**: Calottes polaires et climat : « nous avons sous-estimé l’ampleur de notre manque de connaissance » (Nathalie Mayer, September 2020) [See article](https://www.futura-sciences.com/planete/actualites/rechauffement-climatique-calottes-polaires-climat-nous-avons-sous-estime-ampleur-notre-manque-connaissance-83023/)
