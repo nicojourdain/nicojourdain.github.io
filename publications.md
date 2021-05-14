@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science, submitted_
+
 55. Huot, P.-V., Kittel, C., Fichefet, T., **Jourdain, N. C.**, Sterlin, J., Fettweis, X. (2021). Effects of the atmospheric forcing resolution on simulated sea ice and polynyas off Adelie Land, East Antarctica. _Ocean Modelling, submitted_
 
 54. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
