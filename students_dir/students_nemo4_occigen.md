@@ -1,16 +1,31 @@
 ---
 layout: post
-title: Running NEMO4 on occigen
-date: 20-04-2021
+title: Preparing and running NEMO4 on occigen
+date: 25-05-2021
 ---
 
 **Contributors:** Nicolas Jourdain, Pierre Mathiot.
+
+**Content:**
+1. Module environment
+2. Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
+3. Compile XIOS
+4. Compile NEMO
+5. Create inputs for the new NEMO configuration
+   1. Create coordinate and bathymetry files
+   2. Create the DOMAINcfg and mesh\_mask files
+   3. Create initial state file
+   4. Create files for lateral boundary conditions
+   5. Create files for runoff and sea surface salinity restoring
+   6. Create weights for on-the-fly interpolation of atmospheric forcing
+6. Running NEMO
 
 If you are new to occigen, see [this page](https://nicojourdain.github.io/students_dir/students_python_occigen/) for information on how to get an account and connect.
 
 The official documentation on downloading and installing the NEMO code can be found [on the NEMO website](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/install.html).
 
-# Module environment
+
+# 1. Module environment
 
 The steps below can work with several modules, but here is the recommended list:
 ```bash
@@ -28,7 +43,8 @@ Note that if you change these modules, the netcdf paths can be found from:
 nc-config --libs
 ```
 
-# Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
+
+# 2. Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
 
 ```bash
 cd $SCRATCHDIR
@@ -43,7 +59,8 @@ To get the trunk (version under development) instead of a specific revision:
 svn co http://forge.ipsl.jussieu.fr/nemo/svn/NEMO/trunk nemo_v4_trunk
 ```
 
-# Compile XIOS
+
+# 3. Compile XIOS
 
 ```bash
 cd xios-2.5
@@ -122,7 +139,8 @@ Once completed, check that you have the executable:
 ls bin/xios_server.exe
 ```
 
-# Compile NEMO
+
+# 4. Compile NEMO
 
 ```bash
 cd $SCRATCHDIR/models/nemo_v4_trunk # or any other release
@@ -213,7 +231,8 @@ ls cfgs/${CONFEXE}/BLD/bin/nemo.exe
 ```
 To modify some routines, copy them from ```cfgs/${CONFEXE}/WORK``` to ```cfgs/${CONFEXE}/MY_SRC```, modify them and recompile (the files in ```MY_SRC``` will be compiled instead of those in ```WORK```).
 
-# Create inputs for the new NEMO configuration
+
+# 5. Create inputs for the new NEMO configuration
 
 Choose a configuration name (typically <region><horizontal\_resolution>.L<vertical_resolution>) and create the input directory:
 ```bash
@@ -221,6 +240,9 @@ export CONFIG='AMUXL025.L75' # adapt
 mkdir -pv ${SCRATCHDIR}/input
 mkdir -pv ${SCRATCHDIR}/input/${CONFIG}
 ``` 
+
+
+## 5.1. Create coordinate and bathymetry files
 
 Now we are going to use Nico's pre-processing toolbox to create new NEMO regional configurations (child domain) from parent configurations (global or regional). The following steps are to be done only once (not each time you create a configuration). 
 ```bash
@@ -260,10 +282,13 @@ Then, if the dataset is on a lon/lat grid :
 ```bash
 ./submit.sh extract_bathy_special_lonlat 03 30
 ```      
-or if the dataset is on a stereographic grid (use 60Gb instead of 30 for BedMachine):
+or if the dataset is on a stereographic grid (you may need to use 60Gb instead of 30 for BedMachine):
 ```bash
 ./submit.sh extract_bathy_special_stereo 03 30
 ```
+
+
+## 5.2. Create the DOMAINcfg and mesh\_mask files
 
 To make the following description qui general, we define ```$MY_NEMO``` as:
 ```bash
@@ -322,9 +347,88 @@ mv mesh_mask.nc ../mesh_mask_${CONFIG}.nc
 mv domain_cfg.nc ../domain_cfg_${CONFIG}.nc
 rm -f mesh_mask_00??.nc domain_cfg_00??.nc
 ```
-Note that the namelist_cfg can be re-extracted from domain_cfg_${CONFIG}.nc as follows:
+Note that the namelist\_cfg can be re-extracted from domain\_cfg\_${CONFIG}.nc as follows:
 ```bash
 ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
 ./xtrac_namelist.bash domain_cfg_${CONFIG}.nc restored_namelist_cfg
 ```
+
+
+## 5.3. Create initial state file
+
+```bash
+cd ${SCRATCHDIR}/input/BUILD_CONFIG_NEMO
+vi namelist_pre  # fill &init section
+./submit.sh extract_istate 01
+ls ../nemo_${CONFIG}/dta_temp_${CONFIG}.nc
+ls ../nemo_${CONFIG}/dta_sal_${CONFIG}.nc  
+```
+You can control smoothing and nearest-neighbour interpolation through the namelist options.
+
+
+## 5.4. Create files for lateral boundary conditions
+
+First, create the file containing the coordinates of boundaries:
+```bash
+vi namelist_pre # fill &bdy, &bdy_east, &bdy_west, &bdy_north, &bdy_south 
+./submit.sh build_coordinates_bdy 01
+ls ../nemo_${CONFIG}/coordinates_bdy_${CONFIG}.nc
+```
+Note that you can define several segments for each boundary (staircases).
+
+Then put data on these points to create the boundary conditions:
+```bash
+vi namelist_pre # fill &bdy_data section 
+./submit.sh extract_bdy_gridT 04 15
+./submit.sh extract_bdy_gridU 05 15
+./submit.sh extract_bdy_gridV 05 15
+./submit.sh extract_bdy_icemod 01
+./submit.sh extract_bdy_ssh 01
+ls -lrt ../nemo_${CONFIG}/BDY
+squeue
+# once all these jobs have completed:
+vi concatenate_yearly_BDY.sh  # adapt CONFIG, BDY_DIR, YEARi, YEARf
+./concatenate_yearly_BDY.sh # to get yearly files
+ls ../nemo_${CONFIG}/BDY
+```
+
+If you want to prescribe barotropic tides at the boundaries:
+```bash
+vi namelist_pre # fill &bdy_tide section
+./submit.sh extract_bdy_tides 01
+ls ../nemo_${CONFIG}/BDY
+```
+
+
+## 5.5. Create files for runoff and sea surface salinity restoring
+
+If you want to use sea surface salinity restoring:
+```bash
+vi namelist_pre # fill &sss_resto section
+./submit.sh extract_SSS_restoring 03 15
+ls -lrt ../nemo_${CONFIG}/SSS
+squeue
+# once the job has completed:
+vi concatenate_yearly_SSS.sh # adapt CONFIG, SSS_DIR, YEARi, YEARf
+./concatenate_yearly_SSS.sh
+ls ../nemo_${CONFIG}/SSS
+```
+
+If you want to prescribe runoff (e.g. iceberg):
+```bash
+vi namelist_pre # fill &runoff section
+./submit.sh extract_runoff 03
+ls -lrt ../nemo_${CONFIG}/RNF
+squeue
+# once the job has completed:
+vi concatenate_yearly_runoff.sh # adapt CONFIG, RNF_DIR, YEARi, YEARf
+./concatenate_yearly_runoff.sh
+ls ../nemo_${CONFIG}/RNF
+```
+
+
+## 5.6. Create weights for on-the-fly interpolation of atmospheric forcing
+
+
+# 6. Running NEMO
 
