@@ -271,126 +271,60 @@ export MY_NEMO='nemo_v4_trunk' # adapt to the one you compiled
 cd ${SCRATCHDIR}/models/${MY_NEMO}
 ```
 
-Then, compile the NEMO tools called DOMAINcfg (do not forget to re-load modules if necessary):
+Then, compile the NEMO tools called DOMAINcfg and REBUILD_NEMO (do not forget to re-load modules if necessary):
 ```bash
 cd tools
 ./maketools -m X64_OCCIGENbis -n DOMAINcfg
 ls -al DOMAINcfg/BLD/bin/make_domain_cfg.exe
+ls -al DOMAINcfg/BLD/bin/dom_doc.exe
+./maketools -m X64_OCCIGENbis -n REBUILD_NEMO
+ls -al REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
 ```
 
+Then, create mesh_mask_${CONFIG}.nc and domain_cfg_${CONFIG}.nc as follows:
 ```bash
 cd ${SCRATCHDIR}/input/nemo_${CONFIG}
 mkdir DOMAINcfg
 cd DOMAINcfg
 ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/BLD/bin/make_domain_cfg.exe
+ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/BLD/bin/dom_doc.exe
 cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_ref .
 cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_cfg .
 vi namelist_ref # default values for all namelist parameters (keep unchanged)
-vi namelist_cfg # set values that differ from namelist_ref
-mpirun -np 1 ./make_domain_cfg.exe
-```
-Note that for large files, you may need to put the mpirun command in a script and use more memory and/or several CPUs. If so, the output files will be domain\_cfg\_00xx.nc and you may have to rebuild domain\_cfg.nc using tools/REBUILD\_NEMO.
+vi namelist_cfg # set values that should differ from namelist_ref
+                # set nn_msh=1 to obtain a mesh_mask file
+                # and put the seeds in the oceanic part of the domain (namzgr_isf and namclo)
 
-Below is an example of namelist_cfg:
+cat <<EOF > run.sh
+#!/bin/bash
+#SBATCH -C HSW24
+#SBATCH --nodes=1
+#SBATCH --ntasks=8
+#SBATCH --ntasks-per-node=8
+#SBATCH --threads-per-core=1
+#SBATCH -J run_DOMAINcfg
+#SBATCH -e run_DOMAINcfg.e%j
+#SBATCH -o run_DOMAINcfg.o%j
+#SBATCH --time=00:09:00
+mpirun -np 8 ./make_domain_cfg.exe
+EOF
+
+chmod +x run.sh
+sbatch ./run.sh
+ls -al mesh_mask_00??.nc
+ls -al domain_cfg_00??.nc
+ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
+ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/rebuild_nemo
+rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 mesh_mask 8 
+rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 domain_cfg 8 
+dom_doc.exe -n namelist_cfg -d domain_cfg.nc # to save namelist in domain_cfg.nc
+mv mesh_mask.nc ../mesh_mask_${CONFIG}.nc
+mv domain_cfg.nc ../domain_cfg_${CONFIG}.nc
+rm -f mesh_mask_00??.nc domain_cfg_00??.nc
+```
+Note that the namelist_cfg can be re-extracted from domain_cfg_${CONFIG}.nc as follows:
 ```bash
-&namdom        !   space and time domain (bathymetry, mesh, timestep)
-!-----------------------------------------------------------------------
-   nn_bathy    =    1      !  compute analyticaly (=0) or read (=1) the bathymetry file
-                           !  or compute (2) from external bathymetry
-   cn_fcoord   =  '../coordinates_AMUXL025.L75.nc'  ! external coordinates file (jphgr_msh = 0)
-   cn_topo     =  '../bathy_meter_AMUXL025.L75.nc'  ! external topo file (nn_bathy =1/2)
-   cn_fisfd    =  '../bathy_meter_AMUXL025.L75.nc'  ! external isf draft (nn_bathy =1 and ln_isfcav = .true.)
-   cn_bath     =  'Bathymetry_isf'                  ! topo name in file  (nn_bathy =1/2)
-   cn_visfd    =  'isf_draft'                       ! isf draft variable (nn_bathy =1 and ln_isfcav = .true.)
-   rn_bathy    =    0.     !  value of the bathymetry. if (=0) bottom flat at jpkm1
-   nn_msh      =    1      !  create (=1) a mesh file or not (=0)
-   rn_hmin     =   10.     !  min depth of the ocean (>0) or min number of ocean level (<0)
-   rn_e3zps_min=   25.     !  partial step thickness is set larger than the minimum of
-   rn_e3zps_rat=    0.2    !  rn_e3zps_min and rn_e3zps_rat*e3t, with 0<rn_e3zps_rat<1
-   jphgr_msh   =       0               !  type of horizontal mesh
-                                       !  = 0 curvilinear coordinate on the sphere read in coordinate.nc
-                                       !  = 1 geographical mesh on the sphere with regular grid-spacing
-                                       !  = 2 f-plane with regular grid-spacing
-                                       !  = 3 beta-plane with regular grid-spacing
-                                       !  = 4 Mercator grid with T/U point at the equator
-   ppglam0     = 999999.               !  longitude of first raw and column T-point (jphgr_msh = 1)
-   ppgphi0     = 999999.               ! latitude  of first raw and column T-point (jphgr_msh = 1)
-   ppe1_deg    = 999999.               !  zonal      grid-spacing (degrees)
-   ppe2_deg    = 999999.               !  meridional grid-spacing (degrees)
-   ppe1_m      = 999999.               !  zonal      grid-spacing (degrees)
-   ppe2_m      = 999999.               !  meridional grid-spacing (degrees)
-   ppsur       =  -3958.951371276829   !  ORCA r4, r2 and r05 coefficients
-   ppa0        =    103.9530096000000  ! (default coefficients)
-   ppa1        =      2.415951269000000!
-   ppkth       =     15.35101370000000 !
-   ppacr       =      7.0              !
-   ppdzmin     = 999999.               !  Minimum vertical spacing
-   pphmax      = 999999.               !  Maximum depth
-   ldbletanh   =    .TRUE.             !  Use/do not use double tanf function for vertical coordinates
-   ppa2        =    100.7609285000000  !  Double tanh function parameters
-   ppkth2      =     48.029893720000   !
-   ppacr2      =     13.000000000000   !
-/
-!-----------------------------------------------------------------------
-&namcfg        !   parameters of the configuration
-!-----------------------------------------------------------------------
-   !
-   ln_e3_dep   = .true.    ! =T : e3=dk[depth] in discret sens.
-   !                       !      ===>>> will become the only possibility in v4.0
-   !                       ! =F : e3 analytical derivative of depth function
-   !                       !      only there for backward compatibility test with v3.6
-   !                       !
-
-   cp_cfg      =  "AMUXL"   !  name of the configuration
-   jp_cfg      =     025   !  resolution of the configuration
-   jpidta      =     231   !  1st lateral dimension ( >= jpi )
-   jpjdta      =     190   !  2nd    "         "    ( >= jpj )
-   jpkdta      =      75   !  number of levels      ( >= jpk )
-   Ni0glo      =     231   !  1st dimension of global domain --> i =jpidta
-   Nj0glo      =     190   !  2nd    -                  -    --> j  =jpjdta
-   jperio      =       0   !  lateral cond. type (between 0 and 6)
-                           !  = 0 closed                 ;   = 1 cyclic East-West
-                           !  = 2 equatorial symmetric   ;   = 3 North fold T-point pivot
-                           !  = 4 cyclic East-West AND North fold T-point pivot
-                           !  = 5 North fold F-point pivot
-                           !  = 6 cyclic East-West AND North fold F-point pivot
-   ln_use_jattr = .false.  !  use (T) the file attribute: open_ocean_jstart, if present
-                           !  in netcdf input files, as the start j-row for reading
-   ln_domclo = .true.      ! computation of closed sea masks (see namclo)
-/
-!-----------------------------------------------------------------------
-&namzgr        !   vertical coordinate                                  (default: NO selection)
-!-----------------------------------------------------------------------
-!-----------------------------------------------------------------------
-   ln_zco      = .false.   !  z-coordinate - full    steps
-   ln_zps      = .true.    !  z-coordinate - partial steps
-   ln_sco      = .false.   !  s- or hybrid z-s-coordinate
-   ln_isfcav   = .true.    !  ice shelf cavity             (T: see namzgr_isf)
-/
-!-----------------------------------------------------------------------
-&namzgr_isf    !   isf cavity geometry definition
-!-----------------------------------------------------------------------
-   rn_isfdep_min    = 10.         ! minimum isf draft tickness (if lower, isf draft set to this value)
-   rn_glhw_min      = 1.e-3       ! minimum water column thickness to define the grounding line
-   rn_isfhw_min     = 10          ! minimum water column thickness in the cavity once the grounding line defined.
-   ln_isfchannel    = .false.     ! remove channel (based on 2d mask build from isfdraft-bathy)
-   ln_isfconnect    = .true.      ! force connection under the ice shelf (based on 2d mask build from isfdraft-bathy)
-      nn_kisfmax       =    3        ! limiter in level on the previous condition. (if change larger than this number, get back to value before we enforce the connection)
-      rn_zisfmax       =   50.       ! limiter in m     on the previous condition. (if change larger than this number, get back to value before we enforce the connection)
-   ln_isfcheminey   = .true.      ! close cheminey
-   ln_isfsubgl      = .true.      ! remove subglacial lake created by the remapping process
-      rn_isfsubgllon   =    0.0      !  longitude of the seed to determine the open ocean
-      rn_isfsubgllat   =    0.0      !  latitude  of the seed to determine the open ocean
-/
-!-----------------------------------------------------------------------
-&namzgr_sco    !   s-coordinate or hybrid z-s-coordinate                (default F)
-!-----------------------------------------------------------------------
-/
-!-----------------------------------------------------------------------
-&namclo ! (closed sea : need ln_domclo = .true. in namcfg)              (default: OFF)
-!-----------------------------------------------------------------------
-   rn_lon_opnsea =  -100.0  ! longitude seed of open ocean
-   rn_lat_opnsea =   -70.0  ! latitude  seed of open ocean
-   nn_closea = 0            ! number of closed seas ( = 0; only the open_sea mask will be computed)
-/
+ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
+./xtrac_namelist.bash domain_cfg_${CONFIG}.nc restored_namelist_cfg
 ```
+
