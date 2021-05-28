@@ -25,7 +25,7 @@ If you are new to occigen, see [this page](https://nicojourdain.github.io/studen
 The official documentation on downloading and installing the NEMO code can be found [on the NEMO website](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/install.html).
 
 
-# 1. Module environment
+## 1. Module environment
 
 The steps below can work with several modules, but here is the recommended list:
 ```bash
@@ -44,7 +44,7 @@ nc-config --libs
 ```
 
 
-# 2. Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
+## 2. Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
 
 ```bash
 cd $SCRATCHDIR
@@ -60,7 +60,7 @@ svn co http://forge.ipsl.jussieu.fr/nemo/svn/NEMO/trunk nemo_v4_trunk
 ```
 
 
-# 3. Compile XIOS
+## 3. Compile XIOS
 
 ```bash
 cd xios-2.5
@@ -140,7 +140,7 @@ ls bin/xios_server.exe
 ```
 
 
-# 4. Compile NEMO
+## 4. Compile NEMO
 
 ```bash
 cd $SCRATCHDIR/models/nemo_v4_trunk # or any other release
@@ -232,7 +232,7 @@ ls cfgs/${CONFEXE}/BLD/bin/nemo.exe
 To modify some routines, copy them from ```cfgs/${CONFEXE}/WORK``` to ```cfgs/${CONFEXE}/MY_SRC```, modify them and recompile (the files in ```MY_SRC``` will be compiled instead of those in ```WORK```).
 
 
-# 5. Create inputs for the new NEMO configuration
+## 5. Create inputs for the new NEMO configuration
 
 Choose a configuration name (typically <region><horizontal\_resolution>.L<vertical_resolution>) and create the input directory:
 ```bash
@@ -242,7 +242,7 @@ mkdir -pv ${SCRATCHDIR}/input/${CONFIG}
 ``` 
 
 
-## 5.1. Create coordinate and bathymetry files
+# 5.1. Create coordinate and bathymetry files
 
 Now we are going to use Nico's pre-processing toolbox to create new NEMO regional configurations (child domain) from parent configurations (global or regional). The following steps are to be done only once (not each time you create a configuration). 
 ```bash
@@ -288,7 +288,7 @@ or if the dataset is on a stereographic grid (you may need to use 60Gb instead o
 ```
 
 
-## 5.2. Create the DOMAINcfg and mesh\_mask files
+# 5.2. Create the DOMAINcfg and mesh\_mask files
 
 To make the following description qui general, we define ```$MY_NEMO``` as:
 ```bash
@@ -354,7 +354,7 @@ ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
 ```
 
 
-## 5.3. Create initial state file
+# 5.3. Create initial state file
 
 ```bash
 cd ${SCRATCHDIR}/input/BUILD_CONFIG_NEMO
@@ -366,7 +366,7 @@ ls ../nemo_${CONFIG}/dta_sal_${CONFIG}.nc
 You can control smoothing and nearest-neighbour interpolation through the namelist options.
 
 
-## 5.4. Create files for lateral boundary conditions
+# 5.4. Create files for lateral boundary conditions
 
 First, create the file containing the coordinates of boundaries:
 ```bash
@@ -400,7 +400,7 @@ ls ../nemo_${CONFIG}/BDY
 ```
 
 
-## 5.5. Create files for runoff and sea surface salinity restoring
+# 5.5. Create files for runoff and sea surface salinity restoring
 
 If you want to use sea surface salinity restoring:
 ```bash
@@ -426,9 +426,91 @@ vi concatenate_yearly_runoff.sh # adapt CONFIG, RNF_DIR, YEARi, YEARf
 ls ../nemo_${CONFIG}/RNF
 ```
 
+If you need a chlorophyll file (for solar absorption):
+```bash
+vi namelist_pre # fill &chloro
+./submit.sh extract_chloro 01
+ls ../nemo_${CONFIG}/chlorophyll_${CONFIG}.nc
+```
 
-## 5.6. Create weights for on-the-fly interpolation of atmospheric forcing
 
+# 5.6. Create weights for on-the-fly interpolation of atmospheric forcing
 
-# 6. Running NEMO
+First compile the WEIGHTS tool:
+```bash
+cd ${SCRATCHDIR}/models/${MY_NEMO}/tools
+./maketools -m X64_OCCIGENbis -n WEIGHTS
+ls -al WEIGHTS/BLD/bin/*.exe
+cd ${SCRATCHDIR}/input/nemo_${CONFIG}
+mkdir WEIGHTS
+cd WEIGHTS
+for file in ${SCRATCHDIR}/models/${MY_NEMO}/tools/WEIGHTS/BLD/bin/*.exe ; do ln -s -v $file ; done
+```
+
+Then, prepare the namelist for the bilinear interpolation:
+```bash
+export REANALYSIS="ERA5" # or any other one
+cp -p $[SCRATCHDIR}/models/${MY_NEMO}/tools/WEIGHTS/namelist_bilin namelist_bilin_${REANALYSIS}_${CONFIG}
+# link one of your forcing files, e.g.:
+ln -s -v $[SCRATCHDIR}/FORCING_SETS/${REANALYSIS}/t2m_${REANALYSIS}_drowned_y2010.nc
+ncdump -h t2m_${REANALYSIS}_drowned_y2010.nc # check longitude & latitude names
+vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill &grid_inputs section
+# Example:
+#   input_file = 't2m_${REANALYSIS}_y2010.nc'
+#   nemo_file = '../coordinates_${CONFIG}.nc'
+#   datagrid_file = 'remap_${REANALYSIS}_grid.nc'
+#   nemogrid_file = 'remap_${CONFIG}_grid.nc'
+#   method = 'regular'
+#   input_lon = 'longitude'
+#   input_lat = 'latitude'
+#   nemo_lon = 'glamt'
+#   nemo_lat = 'gphit'
+./scripgrid.exe namelist_bilin_${REANALYSIS}_${CONFIG}
+ls -al remap_${REANALYSIS}_grid.nc
+ls -al remap_${CONFIG}_grid.nc
+vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill &remap_inputs 
+# Example:
+#   num_maps = 1
+#   grid1_file = 'remap_${REANALYSIS}_grid.nc'
+#   grid2_file = 'remap_${CONFIG}_grid.nc'
+#   interp_file1 = '${REANALYSIS}_${CONFIG}_bilin.nc'
+#   interp_file2 = '${CONFIG}_${REANALYSIS}_bilin.nc'
+#   map1_name = '${REANALYSIS} to ${CONFIG} bilin Mapping'
+#   map2_name = '${CONFIG} to ${REANALYSIS} bilin Mapping'
+#   map_method = 'bilinear'
+./scrip.exe namelist_bilin_${REANALYSIS}_${CONFIG}
+ls -al ${REANALYSIS}_${CONFIG}_bilin.nc
+vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill &shape_inputs 
+# Example:
+#   interp_file = "${REANALYSIS}_${CONFIG}_bilin.nc"
+#   output_file = 'weights_bilin_${REANALYSIS}_${CONFIG}.nc'
+#   ew_wrap     = 0
+./scripshape.exe namelist_bilin_${REANALYSIS}_${CONFIG}
+ls -al weights_bilin_${REANALYSIS}_${CONFIG}.nc
+```
+
+Then you can procede similarly with namelist\_bicub instead of namelist\_bilin:
+```bash
+sed -e "s/bilin/bicub/g ; s/bicubear/bicubic/g" namelist_bilin_${REANALYSIS}_${CONFIG} > namelist_bicub_${REANALYSIS}_${CONFIG}
+./scripgrid.exe namelist_bicub_${REANALYSIS}_${CONFIG}
+./scrip.exe namelist_bicub_${REANALYSIS}_${CONFIG}
+./scripshape.exe namelist_bicub_${REANALYSIS}_${CONFIG}
+ls -al weights_bicub_${REANALYSIS}_${CONFIG}.nc
+```
+
+Then to prepare the next steps:
+```bash
+cd ..
+ln -s -v WEIGHTS/weights_bilin_${REANALYSIS}_${CONFIG}.nc 
+ln -s -v WEIGHTS/weights_bicub_${REANALYSIS}_${CONFIG}.nc 
+```
+
+## 6. Running NEMO
+
+Note that all the namelist and xml files related to the version of NEMO you are using can be found here:
+```bash
+ls -al ${SCRATCHDIR}/models/${MY_NEMO}/cfgs/WED025/EXP00/*.xml
+ls -al ${SCRATCHDIR}/models/${MY_NEMO}/cfgs/WED025/EXP00/namelist*
+```
+
 
