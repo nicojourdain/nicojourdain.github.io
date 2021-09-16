@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, submitted_
+
 57. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
 
 56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science, submitted_
