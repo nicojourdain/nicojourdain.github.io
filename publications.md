@@ -16,6 +16,10 @@ For publication metrics, see :
 
 ## Submitted papers
 
+60. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2021). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
+
+59. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2021). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
+
 58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, submitted_
 
 57. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
@@ -24,11 +28,11 @@ For publication metrics, see :
 
 55. Huot, P.-V., Kittel, C., Fichefet, T., **Jourdain, N. C.**, Sterlin, J., Fettweis, X. (2021). Effects of the atmospheric forcing resolution on simulated sea ice and polynyas off Adelie Land, East Antarctica. _Ocean Modelling, submitted_
 
-54. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., submitted_ 
-
 ## Peer reviewed publications
 
 # 2021
+
+54. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm., accepted_ 
 
 53. Edwards, T. L., Nowicki, S., Marzeion, B., Hock, R., Goelzer, H., Seroussi, N., **Jourdain, N. C.**, Slater, D. A., Turner, F., Smith, C. J., McKenna, C. M., Simon, E., Abe-Ouchi, A., Gregory, J. M., Larour, E., Lipscomb, W. H., Payne, A. J., Shepherd, A., Agosta, C., Alexander, P., Albrecht, T., Anderson, B., Asay-Davis, X., Aschwanden, A., Barthel, A., Bliss, A., Calov, R., Chambers, C., Champollion, N., Choi, Y., Cullather, R., Cuzzone, J., Dumas, C., Felikson, D., Fettweis, X., Fujita, K., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Greve, R., Hattermann, T., Hoffman, M. J., Humbert, A., Huss, M., Huybrechts, P., Immerzeel, W., Kleiner, T., Kraaijenbrink, P., Le clec’h, S., Lee, V., Leguy, G. R., Little, C. M., Lowry, D. P., Malles, J.-H., Martin, D. F., Maussion, F., Morlighem, M., O’Neill, J. F., Nias, I., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Radić, V., Reese, R., Rounce, D. R., Rückamp, M., Sakai, A., Shafer, C., Schlegel, N.-J., Shannon, S., Smith, R.. S., Straneo, F., Sun, S., Tarasov, L., Trusel, L. D., Van Breedam, J., van de Wal, R., van den Broeke, M., Winkelmann, R., Zekollari, H., Zhao, C., Zhang, T., Zwinger, T. (2021). Projected land ice contributions to
 twenty-first-century sea level rise. _Nature_, 593, 74–82. [doi:10.1038/s41586-021-03302-y](https://doi.org/10.1038/s41586-021-03302-y)
