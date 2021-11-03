@@ -6,6 +6,8 @@ date: 25-05-2021
 
 **Contributors:** Nicolas Jourdain, Pierre Mathiot.
 
+**NB:** the content of this page has been tested with NEMO's trunk at revision 15469 ("NEMO-4.2 candidate release") and XIOS's trunk at revision 2251.
+
 **Content:**
 1. Module environment
 2. Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
@@ -48,22 +50,23 @@ nc-config --libs
 
 ```bash
 cd $SCRATCHDIR
-mkdir models
+mkdir -pv models
 cd models
-svn co https://forge.ipsl.jussieu.fr/nemo/svn/NEMO/releases/r4.0/r4.0.6 nemo_r4.0.6
-svn co https://forge.ipsl.jussieu.fr/ioserver/svn/XIOS/branchs/xios-2.5
+svn co http://forge.ipsl.jussieu.fr/nemo/svn/NEMO/trunk nemo_v4_trunk
+svn co https://forge.ipsl.jussieu.fr/ioserver/svn/XIOS/trunk xios_trunk
 ```
 
-To get the trunk (version under development) instead of a specific revision:
+To get specific versions instead of the trunks (versions under development):
 ```bash
-svn co http://forge.ipsl.jussieu.fr/nemo/svn/NEMO/trunk nemo_v4_trunk
+svn co https://forge.ipsl.jussieu.fr/nemo/svn/NEMO/releases/r4.0/r4.0.6 nemo_r4.0.6
+svn co https://forge.ipsl.jussieu.fr/ioserver/svn/XIOS/branchs/xios-2.5
 ```
 
 
 ## 3. Compile XIOS
 
 ```bash
-cd xios-2.5
+cd xios_trunk
 ```
 
 We create three files in the ```arch``` directory to set up the pathways, compilation options and environment:
@@ -90,7 +93,7 @@ cat << EOF > arch/arch-X64_OCCIGENbis.fcm
 %FCOMPILER      mpiifort
 %LINKER         mpiifort    -nofor-main
 
-%BASE_CFLAGS    -diag-disable 1125 -diag-disable 279 -std=gnu++98
+%BASE_CFLAGS    -std=c++11 -diag-disable 1125 -diag-disable 279
 %PROD_CFLAGS    -O3 -D BOOST_DISABLE_ASSERTS
 %DEV_CFLAGS     -g -traceback
 %DEBUG_CFLAGS   -DBZ_DEBUG -g -traceback -fno-inline
@@ -103,7 +106,7 @@ cat << EOF > arch/arch-X64_OCCIGENbis.fcm
 %BASE_INC       -D__NONE__
 %BASE_LD        -lstdc++
 
-%CPP            mpiicc -EP
+%CPP            mpicc -EP
 %FPP            cpp -P
 %MAKE           gmake
 EOF
@@ -181,7 +184,7 @@ cat << EOF > arch/arch-X64_OCCIGENbis.fcm
 %NCDF_HOME           /opt/software/occigen/spack/linux-rhel7-x86_64/intel-19.0.4/netcdf-4.6.3-ilty/
 %NCDF_HOME_FORTRAN   /opt/software/occigen/spack/linux-rhel7-x86_64/intel-19.0.4/netcdf-fortran-4.4.4-hnmh/
 %HDF5_HOME           /opt/software/occigen/spack/linux-rhel7-x86_64/intel-19.0.4/netcdf-fortran-4.4.4-hnmh/
-%XIOS_HOME           $SCRATCHDIR/models/xios-2.5
+%XIOS_HOME           $SCRATCHDIR/models/xios_trunk
 %OASIS_HOME          $SCRATCHDIR/models/oa3mct
 
 %NCDF_INC            -I%NCDF_HOME/inc -I%NCDF_HOME_FORTRAN/inc
@@ -258,7 +261,7 @@ vi compile_ALL.sh # check FC
 ./compile_ALL.sh
 ```
 
-The following steps rely on a preprocessing namelist. You can either use an existing one adapt one of the provided ones:
+The following steps rely on a preprocessing namelist. You can either use an existing one or create a new one:
 ```bash
 vi namelist_${CONFIG}
 ln -s -v namelist_${CONFIG} namelist_pre
@@ -315,9 +318,13 @@ ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/BLD/bin/make_domain_cfg
 ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/BLD/bin/dom_doc.exe
 cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_ref .
 cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_cfg .
-vi namelist_ref # default values for all namelist parameters (keep unchanged)
-vi namelist_cfg # set values that should differ from namelist_ref
-                # set nn_msh=1 to obtain a mesh_mask file
+vi namelist_ref # Look at default values for all namelist parameters (keep unchanged!).
+vi namelist_cfg # Set values that should differ from namelist_ref.
+                # Fill &namdom : very important to keep ln_read_cfg = .false. and set nn_msh = 1
+                #                and fill cn_fcoord, cn_topo, cn_fisfd, cn_bath, cn_visfd, ... (see variables in namelist_ref)
+                # Fill &namcfg : set domain size in 3 dimensions, config name, etc.
+                # Fill entire &namzgr_isf section when using ice shelves (see namelist_ref).
+                # Set nn_msh=1 in &namdom section to obtain a mesh_mask file
                 # and put the seeds in the oceanic part of the domain (namzgr_isf and namclo)
 
 cat <<EOF > run.sh
@@ -335,7 +342,7 @@ mpirun -np 8 ./make_domain_cfg.exe
 EOF
 
 chmod +x run.sh
-sbatch ./run.sh
+sbatch ./run.sh # then wait for the job completion
 ls -al mesh_mask_00??.nc
 ls -al domain_cfg_00??.nc
 ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
@@ -370,18 +377,19 @@ You can control smoothing and nearest-neighbour interpolation through the nameli
 
 First, create the file containing the coordinates of boundaries:
 ```bash
-vi namelist_pre # fill &bdy, &bdy_east, &bdy_west, &bdy_north, &bdy_south 
+vi namelist_pre # check domain (x,y) size in ../nemo_${CONFIG}/mesh_mask_${CONFIG}.nc
+                # and fill &bdy, &bdy_east, &bdy_west, &bdy_north, &bdy_south (mind the fortran indexing).
 ./submit.sh build_coordinates_bdy 01
 ls ../nemo_${CONFIG}/coordinates_bdy_${CONFIG}.nc
 ```
-Note that you can define several segments for each boundary (staircases).
+Note that you can define several segments for each boundary (staircases, see, e.g., namelist\_WED12).
 
 Then put data on these points to create the boundary conditions:
 ```bash
 vi namelist_pre # fill &bdy_data section 
-./submit.sh extract_bdy_gridT 04 15
-./submit.sh extract_bdy_gridU 05 15
-./submit.sh extract_bdy_gridV 05 15
+./submit.sh extract_bdy_gridT 04 15 # adapt duration and memory requirements (typ. 5 min./yr for AMUXL025.L75 from ORCA025)
+./submit.sh extract_bdy_gridU 05 15 # adapt duration and memory requirements (typ. 6 min./yr for AMUXL025.L75 from ORCA025)
+./submit.sh extract_bdy_gridV 05 15 # adapt duration and memory requirements (typ. 7 min./yr for AMUXL025.L75 from ORCA025)
 ./submit.sh extract_bdy_icemod 01
 ./submit.sh extract_bdy_ssh 01
 ls -lrt ../nemo_${CONFIG}/BDY
@@ -405,7 +413,7 @@ ls ../nemo_${CONFIG}/BDY
 If you want to use sea surface salinity restoring:
 ```bash
 vi namelist_pre # fill &sss_resto section
-./submit.sh extract_SSS_restoring 03 15
+./submit.sh extract_SSS_restoring 03 15 # adapt duration and memory requirements
 ls -lrt ../nemo_${CONFIG}/SSS
 squeue
 # once the job has completed:
@@ -417,7 +425,7 @@ ls ../nemo_${CONFIG}/SSS
 If you want to prescribe runoff (e.g. iceberg):
 ```bash
 vi namelist_pre # fill &runoff section
-./submit.sh extract_runoff 03
+./submit.sh extract_runoff 03 # adapt duration (and memory) requirements
 ls -lrt ../nemo_${CONFIG}/RNF
 squeue
 # once the job has completed:
