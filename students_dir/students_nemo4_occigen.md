@@ -321,7 +321,8 @@ cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_cfg .
 vi namelist_ref # Look at default values for all namelist parameters (keep unchanged!).
 vi namelist_cfg # Set values that should differ from namelist_ref.
                 # Fill &namdom : very important to keep ln_read_cfg = .false. and set nn_msh = 1
-                #                and fill cn_fcoord, cn_topo, cn_fisfd, cn_bath, cn_visfd, ... (see variables in namelist_ref)
+                #                fill cn_fcoord, cn_topo, cn_fisfd, cn_bath, cn_visfd, ... (see variables in namelist_ref)
+                #                and put same value as BDY conditions for ppsur, ppa0, ppa1, ppkth, ...
                 # Fill &namcfg : set domain size in 3 dimensions, config name, etc.
                 # Fill entire &namzgr_isf section when using ice shelves (see namelist_ref).
                 # Set nn_msh=1 in &namdom section to obtain a mesh_mask file
@@ -514,6 +515,16 @@ ln -s -v WEIGHTS/weights_bicub_${REANALYSIS}_${CONFIG}.nc
 ```
 
 ## 6. Running NEMO
+
+The following makes use of Nico's toolbox to run NEMO on occigen, which you can get as follows:
+```bash
+cd ~
+# if you work with NEMO4:
+git clone git@github.com:nicojourdain/run_nemo.git
+# or if you work with NEMO3.6:
+git clone --depth 1 --branch r3.6 git@github.com:nicojourdain/run_nemo.git
+```
+
 
 Note that all the namelist and xml files related to the version of NEMO you are using can be found here:
 ```bash

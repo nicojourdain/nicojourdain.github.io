@@ -26,11 +26,11 @@ For publication metrics, see :
 
 56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science, submitted_
 
-55. Huot, P.-V., Kittel, C., Fichefet, T., **Jourdain, N. C.**, Sterlin, J., Fettweis, X. (2021). Effects of the atmospheric forcing resolution on simulated sea ice and polynyas off Adelie Land, East Antarctica. _Ocean Modelling, submitted_
-
 ## Peer reviewed publications
 
 # 2021
+
+55. Huot, P.-V., Kittel, C., Fichefet, T., **Jourdain, N. C.**, Sterlin, J., Fettweis, X. (2021). Effects of the atmospheric forcing resolution on simulated sea ice and polynyas off Adelie Land, East Antarctica. _Ocean Modelling_, 168, 101901. [doi:10.1016/j.ocemod.2021.101901](https://doi.org/10.1016/j.ocemod.2021.101901)
 
 54. Sérazin, G., Di Luca, A., Sen Gupta, A., Rogé, M., **Jourdain, N. C.**, Argüeso, D. and Bull, C. (2021). East Australian cyclones and air-sea feedbacks. _J. Geophys. Res. Atm._, 126(20), e2020JD034391 [doi:10.1029/2020JD034391](http://doi.org/10.1029/2020JD034391)
 
