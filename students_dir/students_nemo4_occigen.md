@@ -516,13 +516,13 @@ ln -s -v WEIGHTS/weights_bicub_${REANALYSIS}_${CONFIG}.nc
 
 ## 6. Running NEMO
 
-NB: Examples of namelists and xml files are provided with NEMO and can be found here:
+Note that examples of namelists and xml files are provided with NEMO and can be found here:
 ```bash
 ls -al ${SCRATCHDIR}/models/${MY_NEMO}/cfgs/WED025/EXP00/*.xml
 ls -al ${SCRATCHDIR}/models/${MY_NEMO}/cfgs/WED025/EXP00/namelist*
 ```
-
 To run long jobs, you can use Nico's toolbox (so far only implemented for occigen), which you can get as follows:
+
 ```bash
 cd ~
 # if you work with NEMO4:
@@ -530,4 +530,4 @@ git clone git@github.com:nicojourdain/run_nemo.git
 # or if you work with NEMO3.6:
 git clone --depth 1 --branch r3.6 git@github.com:nicojourdain/run_nemo.git
 ```
-Then, follow indications on (https://github.com/nicojourdain/run_nemo)[https://github.com/nicojourdain/run_nemo].
+Then, follow indications on [https://github.com/nicojourdain/run_nemo](https://github.com/nicojourdain/run_nemo).
