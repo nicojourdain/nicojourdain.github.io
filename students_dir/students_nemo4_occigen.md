@@ -295,8 +295,8 @@ or if the dataset is on a stereographic grid (you may need to use 60Gb instead o
 
 To make the following description qui general, we define ```$MY_NEMO``` as:
 ```bash
-export MY_NEMO='nemo_v4_trunk' # adapt to the one you compiled
-cd ${SCRATCHDIR}/models/${MY_NEMO}
+export MY_NEMO="${SCRATCHDIR}/models/nemo_v4_trunk" # adapt to the one you compiled
+cd ${MY_NEMO}
 ```
 
 Then, compile the NEMO tools called DOMAINcfg and REBUILD_NEMO (do not forget to re-load modules if necessary):
@@ -314,10 +314,10 @@ Then, create mesh_mask_${CONFIG}.nc and domain_cfg_${CONFIG}.nc as follows:
 cd ${SCRATCHDIR}/input/nemo_${CONFIG}
 mkdir DOMAINcfg
 cd DOMAINcfg
-ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/BLD/bin/make_domain_cfg.exe
-ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/BLD/bin/dom_doc.exe
-cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_ref .
-cp -p ${SCRATCHDIR}/models/${MY_NEMO}/tools/DOMAINcfg/namelist_cfg .
+ln -s -v ${MY_NEMO}/tools/DOMAINcfg/BLD/bin/make_domain_cfg.exe
+ln -s -v ${MY_NEMO}/tools/DOMAINcfg/BLD/bin/dom_doc.exe
+cp -p ${MY_NEMO}/tools/DOMAINcfg/namelist_ref .
+cp -p ${MY_NEMO}/tools/DOMAINcfg/namelist_cfg .
 vi namelist_ref # Look at default values for all namelist parameters (keep unchanged!).
 vi namelist_cfg # Set values that should differ from namelist_ref.
                 # Fill &namdom : very important to keep ln_read_cfg = .false. and set nn_msh = 1
@@ -330,7 +330,7 @@ vi namelist_cfg # Set values that should differ from namelist_ref.
 
 cat <<EOF > run.sh
 #!/bin/bash
-#SBATCH -C HSW24
+#SBATCH -C BDW28
 #SBATCH --nodes=1
 #SBATCH --ntasks=8
 #SBATCH --ntasks-per-node=8
@@ -346,8 +346,8 @@ chmod +x run.sh
 sbatch ./run.sh # then wait for the job completion
 ls -al mesh_mask_00??.nc
 ls -al domain_cfg_00??.nc
-ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
-ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/rebuild_nemo
+ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
+ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/rebuild_nemo
 rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 mesh_mask 8 
 rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 domain_cfg 8 
 dom_doc.exe -n namelist_cfg -d domain_cfg.nc # to save namelist in domain_cfg.nc
@@ -357,7 +357,7 @@ rm -f mesh_mask_00??.nc domain_cfg_00??.nc
 ```
 Note that the namelist\_cfg can be re-extracted from domain\_cfg\_${CONFIG}.nc as follows:
 ```bash
-ln -s -v ${SCRATCHDIR}/models/${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
+ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
 ./xtrac_namelist.bash domain_cfg_${CONFIG}.nc restored_namelist_cfg
 ```
 
@@ -447,13 +447,13 @@ ls ../nemo_${CONFIG}/chlorophyll_${CONFIG}.nc
 
 First compile the WEIGHTS tool:
 ```bash
-cd ${SCRATCHDIR}/models/${MY_NEMO}/tools
+cd ${MY_NEMO}/tools
 ./maketools -m X64_OCCIGENbis -n WEIGHTS
 ls -al WEIGHTS/BLD/bin/*.exe
 cd ${SCRATCHDIR}/input/nemo_${CONFIG}
 mkdir WEIGHTS
 cd WEIGHTS
-for file in ${SCRATCHDIR}/models/${MY_NEMO}/tools/WEIGHTS/BLD/bin/*.exe ; do ln -s -v $file ; done
+for file in ${MY_NEMO}/tools/WEIGHTS/BLD/bin/*.exe ; do ln -s -v $file ; done
 ```
 
 Then, prepare the namelist for the bilinear interpolation:
@@ -518,8 +518,8 @@ ln -s -v WEIGHTS/weights_bicub_${REANALYSIS}_${CONFIG}.nc
 
 Note that examples of namelists and xml files are provided with NEMO and can be found here:
 ```bash
-ls -al ${SCRATCHDIR}/models/${MY_NEMO}/cfgs/WED025/EXP00/*.xml
-ls -al ${SCRATCHDIR}/models/${MY_NEMO}/cfgs/WED025/EXP00/namelist*
+ls -al ${MY_NEMO}/cfgs/WED025/EXP00/*.xml
+ls -al ${MY_NEMO}/cfgs/WED025/EXP00/namelist*
 ```
 To run long jobs, you can use Nico's toolbox (so far only implemented for occigen), which you can get as follows:
 
