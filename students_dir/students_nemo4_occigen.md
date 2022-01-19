@@ -328,6 +328,7 @@ vi namelist_cfg # Set values that should differ from namelist_ref.
                 # Set nn_msh=1 in &namdom section to obtain a mesh_mask file
                 # and put the seeds in the oceanic part of the domain (namzgr_isf and namclo)
 
+# Adapt the number of nodes/tasks below (e.g. 112 tasks for eAMUXL12.L121 on BDW28 nodes):
 cat <<EOF > run.sh
 #!/bin/bash
 #SBATCH -C BDW28
@@ -348,6 +349,7 @@ ls -al mesh_mask_00??.nc
 ls -al domain_cfg_00??.nc
 ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
 ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/rebuild_nemo
+# change the 8 in the two lines below if you did not use 8 tasks in run.sh :
 rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 mesh_mask 8 
 rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 domain_cfg 8 
 dom_doc.exe -n namelist_cfg -d domain_cfg.nc # to save namelist in domain_cfg.nc
@@ -364,13 +366,18 @@ ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
 
 # 5.3. Create initial state file
 
+To exctract the CHILD initial state (temperature and salinity) from the PARENT simulation, fill the ```&init``` section of the namelist:
 ```bash
-cd ${SCRATCHDIR}/input/BUILD_CONFIG_NEMO
-vi namelist_pre  # fill &init section
-./submit.sh extract_istate 01
-ls ../nemo_${CONFIG}/dta_temp_${CONFIG}.nc
-ls ../nemo_${CONFIG}/dta_sal_${CONFIG}.nc  
+./submit.sh extract_istate_TS 01 16
+ls -al ../nemo_${CONFIG}/istate_TS_${CONFIG}.nc  # check after completion of extract_istate_TS
 ```
+
+If you also need an initial state for sea ice (concentration, ice thickness, snow thickness):
+```bash
+./submit.sh extract_istate_sea_ice 01 8
+ls -al ../nemo_${CONFIG}/istate_sea_ice_${CONFIG}.nc  # check after completion of extract_istate_sea_ice
+```
+
 You can control smoothing and nearest-neighbour interpolation through the namelist options.
 
 
