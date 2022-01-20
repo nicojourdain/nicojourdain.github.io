@@ -20,13 +20,15 @@ For publication metrics, see :
 
 59. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2021). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
 
-58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, submitted_
-
-57. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
-
-56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science, submitted_
+58. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
 
 ## Peer reviewed publications
+
+# 2022
+
+57. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, accepted_
+
+56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science_. [doi:10.3389/fmars.2021.709595](https://doi.org/10.3389/fmars.2021.709595)
 
 # 2021
 
