@@ -398,8 +398,8 @@ vi namelist_pre # fill &bdy_data section
 ./submit.sh extract_bdy_gridT 04 15 # adapt duration and memory requirements (typ. 5 min./yr for AMUXL025.L75 from ORCA025)
 ./submit.sh extract_bdy_gridU 05 15 # adapt duration and memory requirements (typ. 6 min./yr for AMUXL025.L75 from ORCA025)
 ./submit.sh extract_bdy_gridV 05 15 # adapt duration and memory requirements (typ. 7 min./yr for AMUXL025.L75 from ORCA025)
-./submit.sh extract_bdy_icemod 01
-./submit.sh extract_bdy_ssh 01
+./submit.sh extract_bdy_icemod 01 8
+./submit.sh extract_bdy_ssh 01 8
 ls -lrt ../nemo_${CONFIG}/BDY
 squeue
 # once all these jobs have completed:
@@ -411,7 +411,7 @@ ls ../nemo_${CONFIG}/BDY
 If you want to prescribe barotropic tides at the boundaries:
 ```bash
 vi namelist_pre # fill &bdy_tide section
-./submit.sh extract_bdy_tides 01
+./submit.sh extract_bdy_tides 01 8
 ls ../nemo_${CONFIG}/BDY
 ```
 
@@ -430,10 +430,14 @@ vi concatenate_yearly_SSS.sh # adapt CONFIG, SSS_DIR, YEARi, YEARf
 ls ../nemo_${CONFIG}/SSS
 ```
 
-If you want to prescribe runoff (e.g. iceberg):
+If you want to prescribe runoff (from rivers and/or iceberg):
 ```bash
 vi namelist_pre # fill &runoff section
-./submit.sh extract_runoff 03 # adapt duration (and memory) requirements
+# if you only have liquid runoff:
+./submit.sh extract_runoff 03 8 # adapt duration (and memory) requirements
+# if instead, you have iceberg runoff (possibly also liquid runoff):
+./submit.sh extract_runoff_icb 03 8 # adapt duration (and memory) requirements
+#
 ls -lrt ../nemo_${CONFIG}/RNF
 squeue
 # once the job has completed:
