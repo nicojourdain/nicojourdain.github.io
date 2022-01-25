@@ -416,7 +416,7 @@ ls ../nemo_${CONFIG}/BDY
 ```
 
 
-# 5.5. Create files for runoff and sea surface salinity restoring
+# 5.5. Create files for runoff, SSS restoring, chlorophyll, tidal mixing
 
 If you want to use sea surface salinity restoring:
 ```bash
@@ -446,11 +446,20 @@ vi concatenate_yearly_runoff.sh # adapt CONFIG, RNF_DIR, YEARi, YEARf
 ls ../nemo_${CONFIG}/RNF
 ```
 
-If you need a chlorophyll file (for solar absorption):
+If you need a chlorophyll file (for solar absorption), you can either extract it from the parent grid or from a regular lon-lat grid:
 ```bash
 vi namelist_pre # fill &chloro
-./submit.sh extract_chloro 01
+# to extract from parent grid:
+./submit.sh extract_chloro 01 8
+# to extract from a regular lon-lat grid:
+./submit.sh extract_chloro_from_lonlat 01 8
 ls ../nemo_${CONFIG}/chlorophyll_${CONFIG}.nc
+```
+
+If you use the internal wave mixing parameterisation (De Lavergne et al.), you can either extract it from the parent grid as follows:
+```bash
+vi namelist_pre # fill &zdfiwm
+ls ../nemo_${CONFIG}/zdfiwm_${CONFIG}.nc
 ```
 
 
@@ -467,10 +476,12 @@ cd WEIGHTS
 for file in ${MY_NEMO}/tools/WEIGHTS/BLD/bin/*.exe ; do ln -s -v $file ; done
 ```
 
+**NB:** The following steps may be problematic for large domains (e.g. eAMUXL12) so you may need to try on other machines or with more memory. 
+
 Then, prepare the namelist for the bilinear interpolation:
 ```bash
 export REANALYSIS="ERA5" # or any other one
-cp -p $[SCRATCHDIR}/models/${MY_NEMO}/tools/WEIGHTS/namelist_bilin namelist_bilin_${REANALYSIS}_${CONFIG}
+cp -p ${MY_NEMO}/tools/WEIGHTS/namelist_bilin namelist_bilin_${REANALYSIS}_${CONFIG}
 # link one of your forcing files, e.g.:
 ln -s -v $[SCRATCHDIR}/FORCING_SETS/${REANALYSIS}/t2m_${REANALYSIS}_drowned_y2010.nc
 ncdump -h t2m_${REANALYSIS}_drowned_y2010.nc # check longitude & latitude names
