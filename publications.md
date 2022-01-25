@@ -26,7 +26,7 @@ For publication metrics, see :
 
 # 2022
 
-57. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, accepted_
+57. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, in press_. [doi:10.1007/s00382-021-06115-x](https://doi.org/10.1007/s00382-021-06115-x)
 
 56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science_. [doi:10.3389/fmars.2021.709595](https://doi.org/10.3389/fmars.2021.709595)
 
