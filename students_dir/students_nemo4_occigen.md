@@ -548,7 +548,8 @@ To run long jobs, you can use Nico's toolbox (so far only implemented for occige
 ```bash
 cd ~
 # if you work with NEMO4:
-git clone git@github.com:nicojourdain/run_nemo.git
+git clone git@github.com:nicojourdain/run_nemo.git # if you use github with SSH key
+git clone https://github.com/nicojourdain/run_nemo.git # otherwise
 # or if you work with NEMO3.6:
 git clone --depth 1 --branch r3.6 git@github.com:nicojourdain/run_nemo.git
 ```
