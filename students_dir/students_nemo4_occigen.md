@@ -477,56 +477,83 @@ cd WEIGHTS
 for file in ${MY_NEMO}/tools/WEIGHTS/BLD/bin/*.exe ; do ln -s -v $file ; done
 ```
 
-**NB:** The following steps may be problematic for large domains (e.g. eAMUXL12) so you may need to try on other machines or with more memory. 
-
 Then, prepare the namelist for the bilinear interpolation:
 ```bash
-export REANALYSIS="ERA5" # or any other one
+export REANALYSIS="JRA55" # or any other one, e.g. ERA5
 cp -p ${MY_NEMO}/tools/WEIGHTS/namelist_bilin namelist_bilin_${REANALYSIS}_${CONFIG}
 # link one of your forcing files, e.g.:
-ln -s -v $[SCRATCHDIR}/FORCING_SETS/${REANALYSIS}/t2m_${REANALYSIS}_drowned_y2010.nc
+ln -s -v $[SCRATCHDIR}/FORCING_SETS/${REANALYSIS}/drowned_tas_${REANALYSIS}_y2005.nc
 ncdump -h t2m_${REANALYSIS}_drowned_y2010.nc # check longitude & latitude names
-vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill &grid_inputs section
-# Example:
-#   input_file = 't2m_${REANALYSIS}_y2010.nc'
-#   nemo_file = '../coordinates_${CONFIG}.nc'
-#   datagrid_file = 'remap_${REANALYSIS}_grid.nc'
-#   nemogrid_file = 'remap_${CONFIG}_grid.nc'
-#   method = 'regular'
-#   input_lon = 'longitude'
-#   input_lat = 'latitude'
-#   nemo_lon = 'glamt'
-#   nemo_lat = 'gphit'
+vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill the 3 sections as in the example below
+#&grid_inputs
+#    input_file = "drowned_tas_${REANALYSIS}_y2005.nc"
+#    nemo_file = "../coordinates_${CONFIG}.nc"
+#    datagrid_file = "remap_${REANALYSIS}_grid.nc"
+#    nemogrid_file = "remap_${CONFIG}_grid.nc"
+#    method = 'regular'
+#    input_lon = 'lon'
+#    input_lat = 'lat'
+#    nemo_lon = 'glamt'
+#    nemo_lat = 'gphit'
+#    nemo_mask = 'none'
+#    nemo_mask_value = 10
+#    input_mask = 'none'
+#    input_mask_value = 10
+#/
+#&remap_inputs
+#    num_maps = 1
+#    grid1_file = "remap_${REANALYSIS}_grid.nc"
+#    grid2_file = "remap_${CONFIG}_grid.nc"
+#    interp_file1 = "${REANALYSIS}_${CONFIG}_bilin.nc"
+#    interp_file2 = "${CONFIG}_${REANALYSIS}_bilin.nc"
+#    map1_name = "${REANALYSIS} to ${CONFIG} bilin Mapping"
+#    map2_name = "${CONFIG} to ${REANALYSIS} bilin Mapping"
+#    map_method = 'bilinear'
+#    normalize_opt = 'frac'
+#    output_opt = 'scrip'
+#    restrict_type = 'latitude'
+#    num_srch_bins = 90
+#    luse_grid1_area = .false.
+#    luse_grid2_area = .false.
+#/
+#&shape_inputs
+#    interp_file = "${REANALYSIS}_${CONFIG}_bilin.nc"
+#    output_file = "weights_bilin_${REANALYSIS}_${CONFIG}.nc"
+#    ew_wrap     = 0
+#/
+```
+
+Then:
+```bash
+cat <<EOF > run_bilin.sh
+#!/bin/bash
+#SBATCH -C BDW28
+#SBATCH --ntasks=1
+#SBATCH --mem=55000
+#SBATCH --threads-per-core=1
+#SBATCH -J run_WEIGHT
+#SBATCH -e run_WEIGHT.e%j
+#SBATCH -o run_WEIGHT.o%j
+#SBATCH --time=00:09:00
+ulimit -s unlimited
 ./scripgrid.exe namelist_bilin_${REANALYSIS}_${CONFIG}
-ls -al remap_${REANALYSIS}_grid.nc
-ls -al remap_${CONFIG}_grid.nc
-vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill &remap_inputs 
-# Example:
-#   num_maps = 1
-#   grid1_file = 'remap_${REANALYSIS}_grid.nc'
-#   grid2_file = 'remap_${CONFIG}_grid.nc'
-#   interp_file1 = '${REANALYSIS}_${CONFIG}_bilin.nc'
-#   interp_file2 = '${CONFIG}_${REANALYSIS}_bilin.nc'
-#   map1_name = '${REANALYSIS} to ${CONFIG} bilin Mapping'
-#   map2_name = '${CONFIG} to ${REANALYSIS} bilin Mapping'
-#   map_method = 'bilinear'
 ./scrip.exe namelist_bilin_${REANALYSIS}_${CONFIG}
-ls -al ${REANALYSIS}_${CONFIG}_bilin.nc
-vi namelist_bilin_${REANALYSIS}_${CONFIG} # fill &shape_inputs 
-# Example:
-#   interp_file = "${REANALYSIS}_${CONFIG}_bilin.nc"
-#   output_file = 'weights_bilin_${REANALYSIS}_${CONFIG}.nc'
-#   ew_wrap     = 0
 ./scripshape.exe namelist_bilin_${REANALYSIS}_${CONFIG}
+EOF
+
+chmod +x run_bilin.sh
+sbatch run_bilin.sh
+# when job has completed:
 ls -al weights_bilin_${REANALYSIS}_${CONFIG}.nc
 ```
 
 Then you can procede similarly with namelist\_bicub instead of namelist\_bilin:
 ```bash
 sed -e "s/bilin/bicub/g ; s/bicubear/bicubic/g" namelist_bilin_${REANALYSIS}_${CONFIG} > namelist_bicub_${REANALYSIS}_${CONFIG}
-./scripgrid.exe namelist_bicub_${REANALYSIS}_${CONFIG}
-./scrip.exe namelist_bicub_${REANALYSIS}_${CONFIG}
-./scripshape.exe namelist_bicub_${REANALYSIS}_${CONFIG}
+sed -e "s/bilin/bicub/g" run_bilin.sh > run_bicub.sh
+chmod +x run_bicub.sh
+sbatch run_bicub.sh
+# when job has completed:
 ls -al weights_bicub_${REANALYSIS}_${CONFIG}.nc
 ```
 
