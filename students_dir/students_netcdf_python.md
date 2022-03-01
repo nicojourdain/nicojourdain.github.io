@@ -27,6 +27,11 @@ if ( "depth" in ds.dims ):
   nc1=nc1.rename({'depth':'z'})
 ```
 
+If a dimension has only one value and is not used, you can remove it directly, e.g. for dimension 'z'::
+```python
+nc1 = nc1.squeeze('z')
+```
+
 If your netcdf does not follow the CF conventions, you need to open the file as follows:
 ```python
 nc1 = xr.open_dataset(file_in,decode_cf=False)
