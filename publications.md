@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+61. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere Discussion, submitted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
+
 60. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2021). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
 
 59. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2021). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
