@@ -28,11 +28,13 @@ For publication metrics, see :
 
 # 2022
 
-57. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, in press_. [doi:10.1007/s00382-021-06115-x](https://doi.org/10.1007/s00382-021-06115-x)
+58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, in press_. [doi:10.1007/s00382-021-06115-x](https://doi.org/10.1007/s00382-021-06115-x)
 
-56. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science_. [doi:10.3389/fmars.2021.709595](https://doi.org/10.3389/fmars.2021.709595)
+57. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science_. [doi:10.3389/fmars.2021.709595](https://doi.org/10.3389/fmars.2021.709595)
 
 # 2021
+
+56. Kittel C., Amory C., Agosta C., Jourdain N.C., Hofer S., Delhasse A., Doutreloup S., Huot P.-V., Lang C., Fichefet, T. and Fettweis, X. (2021). Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet. _The Cryosphere_, 15, 1215–1236. [doi:10.5194/tc-15-1215-2021](https://doi.org/10.5194/tc-15-1215-2021)
 
 55. Huot, P.-V., Kittel, C., Fichefet, T., **Jourdain, N. C.**, Sterlin, J., Fettweis, X. (2021). Effects of the atmospheric forcing resolution on simulated sea ice and polynyas off Adelie Land, East Antarctica. _Ocean Modelling_, 168, 101901. [doi:10.1016/j.ocemod.2021.101901](https://doi.org/10.1016/j.ocemod.2021.101901)
 
