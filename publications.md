@@ -16,21 +16,23 @@ For publication metrics, see :
 
 ## Submitted papers
 
-61. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere Discussion, submitted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
+63. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere Discussion, submitted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
 
-60. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2021). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
+62. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2021). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
 
-59. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2021). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
+61. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2021). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
 
-58. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
+60. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
 
 ## Peer reviewed publications
 
 # 2022
 
-58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2021). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, in press_. [doi:10.1007/s00382-021-06115-x](https://doi.org/10.1007/s00382-021-06115-x)
+59. Wille, J., Favier, V., **Jourdain, N. C.**, Kittel, C., Turton, J., Agosta, C., Gorodetskaya, I., Picard, G., Codron, F., Santos, C., Amory, C., Fettweis, X., Blanchet, J., Jomelli, V. and Berchet, A. (2022). Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications Earth & Environment, accepted_
 
-57. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2021). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science_. [doi:10.3389/fmars.2021.709595](https://doi.org/10.3389/fmars.2021.709595)
+58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2022). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, in press_. [doi:10.1007/s00382-021-06115-x](https://doi.org/10.1007/s00382-021-06115-x)
+
+57. Durand, G., van den Broeke, M., Le Cozannet, G., Edwards, T., Holland, P. R., **Jourdain, N. C.**, Marzeion, B., Mottram, R., Nicholls,, R. J., Pattyn, F., Paul, F., Slangen, A., Winkelmann, R., Burgard, C., van Calcar, C., Barré, J.-B., Bataille, A. and Chapuis, A. (2022). Sea-level rise is a global issue with major local impacts. _Frontiers in Marine Science_. [doi:10.3389/fmars.2021.709595](https://doi.org/10.3389/fmars.2021.709595)
 
 # 2021
 
