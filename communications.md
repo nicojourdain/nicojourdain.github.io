@@ -14,6 +14,8 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **Ocean Science Meeting, online**, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica* [Abstract](https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228). [See recorded presentation](https://www.youtube.com/watch?v=df1IVYY4y2s)
+
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, online**, June 2020: Jourdain, N. *Ice-shelf melting projection in the Amundsen Sea, Antarctica*.
 
 * **European Geophysical Union (EGU) General Assembly, online**, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki. *Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica*. See [Abstract](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html) 
@@ -86,7 +88,9 @@ permalink: /communications/
 
 ## Media
 
-* **Le Monde**: Fonte des glaciers : l’Antarctique va-t-il atteindre un point de non-retour ? (Audrey Garric, Mai 202) [see article](https://www.lemonde.fr/planete/article/2021/05/05/fonte-des-glaciers-en-antarctique-le-point-de-non-retour-pourrait-etre-atteint-d-ici-a-2060_6079264_3244.html)
+* **The Conversation - France**: Alec et Eloa : « Pourquoi est-ce que quand on monte en haut d’une montagne il fait plus froid alors qu’on se rapproche du Soleil ? » (by Nicolas Jourdain, edited by Benoît Tonson, April 2022) [see article](https://theconversation.com/alec-et-eloa-pourquoi-est-ce-que-quand-on-monte-en-haut-dune-montagne-il-fait-plus-froid-alors-quon-se-rapproche-du-soleil-181091)
+
+* **Le Monde**: Fonte des glaciers : l’Antarctique va-t-il atteindre un point de non-retour ? (Audrey Garric, Mai 2021) [see article](https://www.lemonde.fr/planete/article/2021/05/05/fonte-des-glaciers-en-antarctique-le-point-de-non-retour-pourrait-etre-atteint-d-ici-a-2060_6079264_3244.html)
 
 * **Pour la Science**: La fonte des calottes glaciaires réestimée (François Savatier, Décembre 2020) [see article](https://www.pourlascience.fr/sd/climatologie/la-fonte-des-calottes-glaciaires-reestimee-20637.php)
 
