@@ -16,19 +16,21 @@ For publication metrics, see :
 
 ## Submitted papers
 
+64. Verfaillie, D., Pelletier, C., Goosse, H., **Jourdain, N. C.**, Bull, C. Y. S., Dalaiden, Q., Favier, V., Fichefet, T. and Wille, J. (2022). How does the Southern Annular Mode impact ice-shelf basal melt in Antarctica? _Communications Earth & Environment, under review_.
+
 63. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere Discussion, submitted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
 
-62. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2021). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
+62. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2022). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
 
-61. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2021). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
-
-60. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2021). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere Discussion, submitted_.
+61. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2022). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, submitted_.
 
 ## Peer reviewed publications
 
 # 2022
 
-59. Wille, J., Favier, V., **Jourdain, N. C.**, Kittel, C., Turton, J., Agosta, C., Gorodetskaya, I., Picard, G., Codron, F., Santos, C., Amory, C., Fettweis, X., Blanchet, J., Jomelli, V. and Berchet, A. (2022). Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications Earth & Environment, accepted_
+60. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2022). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere, accepted_. [doi:10.5194/tc-2021-263](https://doi.org/10.5194/tc-2021-263)
+
+59. Wille, J., Favier, V., **Jourdain, N. C.**, Kittel, C., Turton, J., Agosta, C., Gorodetskaya, I., Picard, G., Codron, F., Santos, C., Amory, C., Fettweis, X., Blanchet, J., Jomelli, V. and Berchet, A. (2022). Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications Earth & Environment_, 3, 28. [doi:10.1038/s43247-022-00422-9](https://doi.org/10.1038/s43247-022-00422-9)
 
 58. Huot, P.-V., Kittel, C., Fichefet, T. **Jourdain, N. C.**, Fettweis, X. (2022). Effects of ocean mesoscale eddies on atmosphere–sea ice–ocean interactions off Adélie Land, East Antarctica. _Climate Dynamics, in press_. [doi:10.1007/s00382-021-06115-x](https://doi.org/10.1007/s00382-021-06115-x)
 
