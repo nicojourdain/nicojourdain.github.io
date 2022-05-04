@@ -27,9 +27,14 @@ if ( "depth" in ds.dims ):
   nc1=nc1.rename({'depth':'z'})
 ```
 
-If a dimension has only one value and is not used, you can remove it directly, e.g. for dimension 'z'::
+If a dimension has only one value and is not used, you can remove it directly, e.g. for dimension 'z':
 ```python
 nc1 = nc1.squeeze('z')
+```
+
+If some variables are not well defined (e.g. conflict with dimension names), you can drop them:
+```python
+nc1 = xr.open_dataset(file_in,drop_variables={'x','y'})
 ```
 
 If your netcdf does not follow the CF conventions, you need to open the file as follows:
