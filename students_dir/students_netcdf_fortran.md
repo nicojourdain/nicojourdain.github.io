@@ -6,7 +6,7 @@ date: 25-05-2020
 
 It can be convenient to read netcdf files in your fortran scripts, or to create fortran scripts to treat large netcdf files. For this, you can use the netcdf-fortran library.
 
-Here is an example of very basic fortran program that can be used to read a netcdf file, create or modify a variable and create a new netcdf file that is similar to the first one: [example.f90]({{site.url}}students_dir/example.f90).
+Here is an example of very basic fortran program that can be used to read a netcdf file, create or modify a variable and create a new netcdf file that is similar to the first one: [example.f90]({{site.url}}students_dir/example.f90). And here is the corresponding netcdf file: [test.nc]({{site.url}}students_dir/test.nc)
 
 A way to compile and execute it (e.g. with the ifort compiler) is :
 ```shell
