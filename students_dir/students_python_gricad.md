@@ -43,8 +43,7 @@ Do this on your computer (provide a relatively complex pass phrase):
 ```bash
 ssh-keygen
 export MYLOGIN='munkw'  ## replace munkw your GRICAD login
-cat ~/.ssh/id_rsa.pub | ssh ${MYLOGIN}@access-ciment.imag.fr 'cat >> .ssh/authorized_keys'
-cat ~/.ssh/id_rsa.pub | ssh ${MYLOGIN}@access-ciment.ujf-grenoble.fr 'cat >> .ssh/authorized_keys'
+cat ~/.ssh/id_rsa.pub | ssh ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr 'cat >> .ssh/authorized_keys'
 ```
 
 If you want to enter the pass phrase only once per session on your computer:
@@ -66,13 +65,17 @@ Now, to set up a tunel connection:
 cat << EOF >> ~/.ssh/config
 Host luke*
   User ${MYLOGIN}
-  ProxyCommand ssh -X ${MYLOGIN}@access-rr-ciment.imag.fr exec netcat -w 2- %h %p
+  ProxyCommand ssh -X ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr exec netcat -w 2- %h %p
   GatewayPorts yes
 
 Host dahu*
   User ${MYLOGIN}
-  ProxyCommand ssh -X ${MYLOGIN}@access-rr-ciment.imag.fr exec netcat -w 2- %h %p
+  ProxyCommand ssh -X ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr exec netcat -w 2- %h %p
   GatewayPorts yes
+
+Host cargo*
+  User ${MYLOGIN}
+  ProxyCommand ssh -X ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr exec netcat -w 20 %h %p
 
 Host *
   ServerAliveInterval 60
@@ -154,6 +157,7 @@ If you use Jupyter (inspired by the [MEOM page](https://github.com/meom-group/tu
 ```bash
 conda install jupyter jupyterlab numba ipykernel nodejs
 conda install -c conda-forge papermill # to run notebooks like scripts
+conda install -c conda-forge gsw
 python -m ipykernel install --user --name py37 --display-name py37
 ```
 
