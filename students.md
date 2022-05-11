@@ -20,4 +20,6 @@ permalink: /students/
 
 * [Working with **Python on occigen (CINES)**](/students_dir/students_python_occigen.md).
 
+* [Running **NEMO4.2 on Irene-Rome (TGCC)**](/students_dir/students_nemo4.2_tgcc.md).
+
 * [Running **NEMO4 on occigen (CINES)**](/students_dir/students_nemo4_occigen.md).
