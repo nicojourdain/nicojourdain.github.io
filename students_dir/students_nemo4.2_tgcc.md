@@ -208,6 +208,23 @@ ls cfgs/${CONFEXE}/BLD/bin/nemo.exe
 ```
 To modify some routines, copy them from ```cfgs/${CONFEXE}/WORK``` to ```cfgs/${CONFEXE}/MY_SRC```, modify them and recompile (the files in ```MY_SRC``` will be compiled instead of those in ```WORK```).
 
+While we are here, let's also compile some useful NEMO tools:
+```bash
+cd tools
+# tools to rebuild mpi domains into a single netcdf:
+./maketools -m X64_IRENEige -n REBUILD_NEMO
+ls -al REBUILD_NEMO/BLD/bin/rebuild_nemo.exe  # check
+# tools to prepare the DOMAINcfg netcdf file:
+./maketools -m X64_IRENEige -n DOMAINcfg
+ls -al DOMAINcfg/BLD/bin/make_domain_cfg.exe  # check
+# tools to prepare the WEIGHT netcdf files (for NEMO online interpolations):
+./maketools -m X64_IRENEige -n WEIGHTS
+ls -al WEIGHTS/BLD/bin/scrip.exe  # check
+# tools to prepare NESTING tools (may be used for AGRIF):
+./maketools -m X64_IRENEige -n NESTING
+ls -al NESTING/BLD/bin/agrif_create_bathy.exe  # check
+```
+
 
 ## 4. Create inputs for the new NEMO configuration
 
@@ -219,7 +236,7 @@ mkdir -pv ${SCRATCHDIR}/input/${CONFIG}
 ``` 
 
 
-# 5.1. Create coordinate and bathymetry files
+# 4.1. Create coordinate and bathymetry files
 
 Now we are going to use Nico's pre-processing toolbox to create new NEMO regional configurations (child domain) from parent configurations (global or regional). The following steps are to be done only once (not each time you create a configuration). 
 ```bash
@@ -265,7 +282,7 @@ or if the dataset is on a stereographic grid (you may need to use 60Gb instead o
 ```
 
 
-# 5.2. Create the DOMAINcfg and mesh\_mask files
+# 4.2. Create the DOMAINcfg and mesh\_mask files
 
 To make the following description qui general, we define ```$MY_NEMO``` as:
 ```bash
