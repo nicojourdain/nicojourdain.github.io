@@ -331,7 +331,7 @@ cat <<EOF > run.sh
 #MSUB -A gen6035
 #MSUB -q rome
 #MSUB -m work,scratch
-ulimit -s
+ulimit -s unlimited
 mpirun -np 24 ./make_domain_cfg.exe
 EOF
 
