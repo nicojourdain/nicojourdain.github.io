@@ -10,17 +10,16 @@ date: 11-05-2022
 
 **Content:**
 1. Module environment
-2. Get the NEMO (ocean/sea-ice model) and XIOS (IO server) sources
-3. Compile XIOS
-4. Compile NEMO
-5. Create inputs for the new NEMO configuration
+3. Get and compile XIOS
+3. Get and compile NEMO
+4. Create inputs for the new NEMO configuration
    1. Create coordinate and bathymetry files
    2. Create the DOMAINcfg and mesh\_mask files
    3. Create initial state file
    4. Create files for lateral boundary conditions
    5. Create files for runoff and sea surface salinity restoring
    6. Create weights for on-the-fly interpolation of atmospheric forcing
-6. Running NEMO
+5. Running NEMO
 
 If you are new to TGCC, see [this page](http://www-hpc.cea.fr/en/complexe/tgcc.htm) for information on how to get an account.
 
@@ -39,6 +38,7 @@ module load hdf5/1.8.20
 module load boost
 module load blitz
 module load feature/bridge/heterogenous_mpmd
+module load gnu
 ```
 
 To access to all the project directories of your group, you need to do this (replace gen6035 by your project ID):
@@ -78,6 +78,7 @@ module load hdf5/1.8.20
 module load boost
 module load blitz
 module load feature/bridge/heterogenous_mpmd
+module load gnu
 EOF
 ```
 
@@ -319,19 +320,19 @@ vi namelist_cfg # Set values that should differ from namelist_ref.
                 # Set nn_msh=1 in &namdom section to obtain a mesh_mask file
                 # and put the seeds in the oceanic part of the domain (namzgr_isf and namclo)
 
-# Adapt the number of nodes/tasks below (e.g. 112 tasks for eAMUXL12.L121 on BDW28 nodes):
 cat <<EOF > run.sh
 #!/bin/bash
-#SBATCH -C BDW28
-#SBATCH --nodes=1
-#SBATCH --ntasks=8
-#SBATCH --ntasks-per-node=8
-#SBATCH --threads-per-core=1
-#SBATCH -J run_DOMAINcfg
-#SBATCH -e run_DOMAINcfg.e%j
-#SBATCH -o run_DOMAINcfg.o%j
-#SBATCH --time=00:09:00
-mpirun -np 8 ./make_domain_cfg.exe
+#MSUB -r run_DOMAINcfg
+#MSUB -o run.o%j
+#MSUB -e run.e%j
+#MSUB -n 24
+#MSUB -x
+#MSUB -T 600 
+#MSUB -A gen6035
+#MSUB -q rome
+#MSUB -m work,scratch
+ulimit -s
+mpirun -np 24 ./make_domain_cfg.exe
 EOF
 
 chmod +x run.sh
@@ -340,13 +341,13 @@ ls -al mesh_mask_00??.nc
 ls -al domain_cfg_00??.nc
 ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
 ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/rebuild_nemo
-# change the 8 in the two lines below if you did not use 8 tasks in run.sh :
-rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 mesh_mask 8 
-rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 domain_cfg 8 
-dom_doc.exe -n namelist_cfg -d domain_cfg.nc # to save namelist in domain_cfg.nc
+# change the 24 in the two lines below if you did not use 24 tasks in run.sh :
+./rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 mesh_mask 24 
+./rebuild_nemo -d 1 -x 200 -y 200 -z 1 -t 1 domain_cfg 24 
+./dom_doc.exe -n namelist_cfg -d domain_cfg.nc # to save namelist in domain_cfg.nc
 mv mesh_mask.nc ../mesh_mask_${CONFIG}.nc
 mv domain_cfg.nc ../domain_cfg_${CONFIG}.nc
-rm -f mesh_mask_00??.nc domain_cfg_00??.nc
+rm -f mesh_mask_00??.nc domain_cfg_00??.nc nam_rebuild_?????
 ```
 Note that the namelist\_cfg can be re-extracted from domain\_cfg\_${CONFIG}.nc as follows:
 ```bash
@@ -355,7 +356,7 @@ ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
 ```
 
 
-# 5.3. Create initial state file
+# 4.3. Create initial state file
 
 To exctract the CHILD initial state (temperature and salinity) from the PARENT simulation, fill the ```&init``` section of the namelist:
 ```bash
@@ -372,7 +373,7 @@ ls -al ../nemo_${CONFIG}/istate_sea_ice_${CONFIG}.nc  # check after completion o
 You can control smoothing and nearest-neighbour interpolation through the namelist options.
 
 
-# 5.4. Create files for lateral boundary conditions
+# 4.4. Create files for lateral boundary conditions
 
 First, create the file containing the coordinates of boundaries:
 ```bash
@@ -407,7 +408,7 @@ ls ../nemo_${CONFIG}/BDY
 ```
 
 
-# 5.5. Create files for runoff, SSS restoring, chlorophyll, tidal mixing
+# 4.5. Create files for runoff, SSS restoring, chlorophyll, tidal mixing
 
 If you want to use sea surface salinity restoring:
 ```bash
@@ -455,7 +456,7 @@ ls ../nemo_${CONFIG}/zdfiwm_${CONFIG}.nc
 ```
 
 
-# 5.6. Create weights for on-the-fly interpolation of atmospheric forcing
+# 4.6. Create weights for on-the-fly interpolation of atmospheric forcing
 
 First compile the WEIGHTS tool:
 ```bash
@@ -555,14 +556,14 @@ ln -s -v WEIGHTS/weights_bilin_${REANALYSIS}_${CONFIG}.nc
 ln -s -v WEIGHTS/weights_bicub_${REANALYSIS}_${CONFIG}.nc 
 ```
 
-## 6. Running NEMO
+## 5. Running NEMO
 
 Note that examples of namelists and xml files are provided with NEMO and can be found here:
 ```bash
 ls -al ${MY_NEMO}/cfgs/WED025/EXP00/*.xml
 ls -al ${MY_NEMO}/cfgs/WED025/EXP00/namelist*
 ```
-To run long jobs, you can use Nico's toolbox (so far only implemented for occigen), which you can get as follows:
+To run long jobs, you can use Nico's toolbox, which you can get as follows:
 
 ```bash
 cd ~
