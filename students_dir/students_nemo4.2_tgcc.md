@@ -204,7 +204,7 @@ export CONFEXE='AMU'
 echo "$CONFEXE  OCE ICE" >> cfgs/ref_cfgs.txt
 mkdir cfgs/$CONFEXE
 echo " bld::tool::fppkeys key_xios key_si3" > cfgs/${CONFEXE}/cpp_${CONFEXE}.fcm
-makenemo -r ${CONFEXE} -m X64_OCCIGENbis -j 8
+makenemo -r ${CONFEXE} -m X64_IRENEige -j 8
 ls cfgs/${CONFEXE}/BLD/bin/nemo.exe
 ```
 To modify some routines, copy them from ```cfgs/${CONFEXE}/WORK``` to ```cfgs/${CONFEXE}/MY_SRC```, modify them and recompile (the files in ```MY_SRC``` will be compiled instead of those in ```WORK```).
@@ -294,10 +294,10 @@ cd ${MY_NEMO}
 Then, compile the NEMO tools called DOMAINcfg and REBUILD_NEMO (do not forget to re-load modules if necessary):
 ```bash
 cd tools
-./maketools -m X64_OCCIGENbis -n DOMAINcfg
+./maketools -m X64_IRENEige -n DOMAINcfg
 ls -al DOMAINcfg/BLD/bin/make_domain_cfg.exe
 ls -al DOMAINcfg/BLD/bin/dom_doc.exe
-./maketools -m X64_OCCIGENbis -n REBUILD_NEMO
+./maketools -m X64_IRENEige -n REBUILD_NEMO
 ls -al REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
 ```
 
@@ -461,7 +461,7 @@ ls ../nemo_${CONFIG}/zdfiwm_${CONFIG}.nc
 First compile the WEIGHTS tool:
 ```bash
 cd ${MY_NEMO}/tools
-./maketools -m X64_OCCIGENbis -n WEIGHTS
+./maketools -m X64_IRENEige -n WEIGHTS
 ls -al WEIGHTS/BLD/bin/*.exe
 cd ${SCRATCHDIR}/input/nemo_${CONFIG}
 mkdir WEIGHTS
