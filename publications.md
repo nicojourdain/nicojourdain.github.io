@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-65. **Jourdain, N. C.**, Mathiot, P., Burgard, C., Caillet, J., Kittel, C. (2022). Ice shelf basal melt rates in the Amundsen Sea at the end of the 21st century. _Submitted to Geophysical Research Letter_. [see draft](http://www.essoar.org/doi/pdf/10.1002/essoar.10511482.1)
+65. **Jourdain, N. C.**, Mathiot, P., Burgard, C., Caillet, J., Kittel, C. (2022). Ice shelf basal melt rates in the Amundsen Sea at the end of the 21st century. _Submitted to Geophysical Research Letter_. [see draft](http://www.essoar.org/doi/abs/10.1002/essoar.10511482.2)
 
 64. Verfaillie, D., Pelletier, C., Goosse, H., **Jourdain, N. C.**, Bull, C. Y. S., Dalaiden, Q., Favier, V., Fichefet, T. and Wille, J. (2022). How does the Southern Annular Mode impact ice-shelf basal melt in Antarctica? _Communications Earth & Environment, accepted_.
 
