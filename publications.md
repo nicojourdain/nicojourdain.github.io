@@ -30,9 +30,9 @@ For publication metrics, see :
 
 62. Verfaillie, D., Pelletier, C., Goosse, H., **Jourdain, N. C.**, Bull, C. Y. S., Dalaiden, Q., Favier, V., Fichefet, T. and Wille, J. (2022). The circum-Antarctic ice-shelves respond to a more positive Southern Annular Mode with regionally varied melting. _Communications Earth & Environment_, 3, 1, [doi:10.1038/s43247-022-00458-x](https://doi.org/10.1038/s43247-022-00458-x).
 
-61. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2022). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate, in press_.
+61. Argüeso, D., Di Luca, A., **Jourdain, N. C.**, Romero, R., Homar, V. (2022). Spatial differential heating and extreme precipitation changes in a tropical archipelago. _J. Climate_, 35(17), 5519–5536. [doi:10.1175/JCLI-D-21-0224.1](https://doi.org/10.1175/JCLI-D-21-0224.1)
 
-60. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2022). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere, accepted_. [doi:10.5194/tc-2021-263](https://doi.org/10.5194/tc-2021-263)
+60. Kittel, C., Amory, C., Hofer, S., Agosta, C., **Jourdain, N. C.**, Gilbert, E., Le Toumelin, L., Gallée, H., and Fettweis, X. (2022). Clouds drive differences in future surface melt over the Antarctic ice shelves. _The Cryosphere_, 16, 2655–2669. [doi:10.5194/tc-16-2655-2022](https://doi.org/10.5194/tc-16-2655-2022)
 
 59. Wille, J., Favier, V., **Jourdain, N. C.**, Kittel, C., Turton, J., Agosta, C., Gorodetskaya, I., Picard, G., Codron, F., Santos, C., Amory, C., Fettweis, X., Blanchet, J., Jomelli, V. and Berchet, A. (2022). Intense atmospheric rivers can weaken ice shelf stability at the Antarctic Peninsula. _Communications Earth & Environment_, 3, 28. [doi:10.1038/s43247-022-00422-9](https://doi.org/10.1038/s43247-022-00422-9)
 
