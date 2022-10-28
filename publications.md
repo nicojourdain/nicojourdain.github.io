@@ -16,17 +16,17 @@ For publication metrics, see :
 
 ## Submitted papers
 
-65. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Hellmer, H. H., Mouginot, J. (2022). Drivers and reversibility of abrupt ocean state transitions in the Amundsen Sea, Antarctica. _Journal of Geophysical Research - Oceans, submitted_ [see draft](https://doi.org/10.1002/essoar.10511518.1)
+66. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Hellmer, H. H., Mouginot, J. (2022). Drivers and reversibility of abrupt ocean state transitions in the Amundsen Sea, Antarctica. _Journal of Geophysical Research - Oceans, submitted_ [see draft](https://doi.org/10.1002/essoar.10511518.1)
 
-64. **Jourdain, N. C.**, Mathiot, P., Burgard, C., Caillet, J., Kittel, C. (2022). Ice shelf basal melt rates in the Amundsen Sea at the end of the 21st century. _Submitted to Geophysical Research Letter_. [see draft](https://www.essoar.org/doi/10.1002/essoar.10511482.3)
+65. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere Discussion, submitted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
 
-63. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere Discussion, submitted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
-
-62. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2022). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
+64. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2022). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
 
 ## Peer reviewed publications
 
 # 2022
+
+63. **Jourdain, N. C.**, Mathiot, P., Burgard, C., Caillet, J., Kittel, C. (2022). Ice shelf basal melt rates in the Amundsen Sea at the end of the 21st century. _Geophysical Research Letter, in production_. [see draft](https://www.essoar.org/doi/10.1002/essoar.10511482.3)
 
 62. Verfaillie, D., Pelletier, C., Goosse, H., **Jourdain, N. C.**, Bull, C. Y. S., Dalaiden, Q., Favier, V., Fichefet, T. and Wille, J. (2022). The circum-Antarctic ice-shelves respond to a more positive Southern Annular Mode with regionally varied melting. _Communications Earth & Environment_, 3, 1, [doi:10.1038/s43247-022-00458-x](https://doi.org/10.1038/s43247-022-00458-x).
 
