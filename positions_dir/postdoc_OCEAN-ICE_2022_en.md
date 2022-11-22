@@ -15,7 +15,7 @@ title: CNRS Scientific Researcher (postdoc)
 The general mission is to develop research work based on the development and use of the Lagrangian iceberg module implemented in the [NEMO ocean model](https://www.nemo-ocean.eu). The selected candidate will contribute to the [OCEAN:ICE Horizon Europe project](https://ocean-ice.eu).
 
 # Working context
-The selected candidate will be affected at the [Institute for Environmental Geosciences (IGE)](https://www.ige-grenoble.fr/?lang=en). This is a public research institute under the affiliation of [CNRS](https://www.cnrs.fr/en), [IRD](https://en.ird.fr/), [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), and [Grenoble-INP](https://www.grenoble-inp.fr/en). It brings together about 250 people, including 150 permanent members (researchers, teacher-researchers, engineers) and about a hundred contractual agents (doctoral students, postdocs, engineers and technicians). The institute also welcomes several dozen trainees and scientific visitors every year. It is spread over two sites of the Grenoble University Campus that are 5 minutes away from each other. IGE is one of the main institutes within the _Observatoire des Sciences de l'Univers de Grenoble_ ([OSUG](https://www.osug.fr/?lang=en)) which is a federative structure of [INSU](https://www.insu.cnrs.fr/en).
+The selected candidate will be affected at the [Institute for Environmental Geosciences (IGE)](https://www.ige-grenoble.fr/?lang=en), in Grenoble, in the French Alps. This is a public research institute under the affiliation of [CNRS](https://www.cnrs.fr/en), [IRD](https://en.ird.fr/), [University Grenoble Alpes](https://www.univ-grenoble-alpes.fr/english/), and [Grenoble-INP](https://www.grenoble-inp.fr/en). It brings together about 250 people, including 150 permanent members (researchers, teacher-researchers, engineers) and about a hundred contractual agents (doctoral students, postdocs, engineers and technicians). The institute also welcomes several dozen trainees and scientific visitors every year. It is spread over two sites of the Grenoble University Campus that are 5 minutes away from each other. IGE is one of the main institutes within the _Observatoire des Sciences de l'Univers de Grenoble_ ([OSUG](https://www.osug.fr/?lang=en)) which is a federative structure of [INSU](https://www.insu.cnrs.fr/en).
 
 The selected candidate will join the [CryoDyn team](https://www.ige-grenoble.fr/-CryoDyn-Glaciers-and-ice-sheets-), which has a focus on ice dynamics and connections to the climate system, and will be supervised by [Nicolas Jourdain](https://nicojourdain.github.io) and Pierre Mathiot.
 
@@ -41,12 +41,12 @@ The selection panel will also consider the gender balance of the entire research
 * CNRS Section: 19.
 * Duration of contract: 18 months (renewable for another 18-month period).
 * Expected date of hire: March to June 2023. 
-* Work quota: Full time (38h45 hours per week).
+* Work quota: Full time.
 * Required level of studies: PhD.
 * Required experience: No postdoctoral experience required.
 * Gross salary: from 2800€/month to 4100€/month (depending on experience).
 * Paid leave: approximately 45 days per year.
-* Health care: France runs a statutory health insurance system providing universal coverage for its residents (Sécurité Sociale). Most residents additionally pay for a complementary private health insurance for expenses not covered by the statutory health insurance (Mutuelle).
+* Health care: France runs a statutory health insurance system providing universal coverage for its residents (_Sécurité Sociale_). Most residents additionally pay for a complementary private health insurance for expenses not covered by the statutory health insurance (_Mutuelle_).
 
 
 **If you are interested, contact:** <nicolas.jourdain@univ-grenoble-alpes.fr> 

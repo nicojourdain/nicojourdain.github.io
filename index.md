@@ -17,8 +17,9 @@ CNRS Research Fellow<br>
 <a href="mailto:nicolas.jourdain@univ-grenoble-alpes.fr">nicolas.jourdain@univ-grenoble-alpes.fr</a><br>
 <hr>
 <b>Office:</b><br>
-IGE (Institut des Géosciences de l'Environnement, ex-LGGE)<br>
-54 rue Molière<br>
+IGE (Institut des Géosciences de l'Environnement)<br>
+Maison Climat Planète, Bureau 101<br>
+Domaine Universitaire, 70 rue de la Physique<br>
 Saint-Martin d’Hères, France<br>
 <hr>
 <b>Postal address:</b><br>
