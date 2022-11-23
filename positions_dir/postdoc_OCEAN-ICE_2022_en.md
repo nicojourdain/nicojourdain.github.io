@@ -19,6 +19,8 @@ The selected candidate will be affected at the [Institute for Environmental Geos
 
 The selected candidate will join the [CryoDyn team](https://www.ige-grenoble.fr/-CryoDyn-Glaciers-and-ice-sheets-), which has a focus on ice dynamics and connections to the climate system, and will be supervised by [Nicolas Jourdain](https://nicojourdain.github.io) and Pierre Mathiot.
 
+There will be strong interactions with [Paul Holland](https://www.bas.ac.uk/profile/pahol/) (British Antarctic Survey) and [Thierry Fichefet](https://www.elic.ucl.ac.be/modx/index.php?id=49) (UC Louvain).
+
 # Scientific context
 Ice sheet acceleration has increased the flux of icebergs over the last 30 years, which will accelerate further in the future. Icebergs significantly impact the intrusions of warm water towards ice shelves and the Southern Ocean in general. When drifting away from their calving site, icebergs can ground on relatively shallow bathymetric ridges. This induces large areas of multi-year sea ice fastened to these icebergs, as well as subsequent polynyas which may impact dense water formation or ice-shelf melt ([Bett et al. 2020]( https://doi.org/10.1029/2020JC016305)). However, the influence of these changes cannot be assessed because current iceberg models are based on overly simple physics, with little consideration of links between icebergs and ice-shelf thickness, bathymetry or sea-ice stress.
 

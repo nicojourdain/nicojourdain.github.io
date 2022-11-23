@@ -4,7 +4,7 @@ title: "Two new positions at IGE on ocean--icebergs and climate--ice-sheet inter
 date: 2022-11-22
 ---
 
-The [Institute of Geosciences and Environment](http://www.ige-grenoble.fr/?lang=en), Grenoble, France, is advertising two new positions:
+The [Institute of Geosciences and Environment](http://www.ige-grenoble.fr/?lang=en), Grenoble, France, is advertising two positions:
 
 * [2x18-month postdoc on ocean--iceberg modelling](https://nicojourdain.github.io/positions_dir/postdoc_OCEAN-ICE_2022_en/)
 
