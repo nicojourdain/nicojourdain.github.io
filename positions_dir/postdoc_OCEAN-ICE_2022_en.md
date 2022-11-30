@@ -51,6 +51,8 @@ The selection panel will also consider the gender balance of the entire research
 * Health care: France runs a statutory health insurance system providing universal coverage for its residents (_Sécurité Sociale_). Most residents additionally pay for a complementary private health insurance for expenses not covered by the statutory health insurance (_Mutuelle_).
 
 
-**If you are interested, contact:** <nicolas.jourdain@univ-grenoble-alpes.fr> and <pierre.mathiot@univ-grenoble-alpes.fr>
+**If you are interested:** 
 
-**and [apply on the CNRS website](https://emploi.cnrs.fr/Offres/CDD/UMR5001-BERBOE-021/Default.aspx?lang=EN) before 20-DEC-2022.**
+* **contact:** <nicolas.jourdain@univ-grenoble-alpes.fr> and <pierre.mathiot@univ-grenoble-alpes.fr>
+
+* **[apply on the CNRS website](https://emploi.cnrs.fr/Offres/CDD/UMR5001-BERBOE-021/Default.aspx?lang=EN) before 20-DEC-2022.**
