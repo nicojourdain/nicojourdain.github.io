@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Two new positions at IGE on ocean--icebergs and climate--ice-sheet interactions"
+title: "Two positions on ocean--icebergs and climate--ice-sheet interactions"
 date: 2022-11-30
 ---
 
