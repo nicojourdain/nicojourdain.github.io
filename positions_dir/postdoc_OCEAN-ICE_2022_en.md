@@ -57,13 +57,4 @@ The selection panel will also consider the gender balance of the entire research
 
 * **[apply on the CNRS website](https://emploi.cnrs.fr/Offres/CDD/UMR5001-BERBOE-021/Default.aspx?lang=EN) before 20-DEC-2022.**
 
-{::nomarkdown}
-<TABLE WIDTH=100%>
-  <TR VALIGN=TOP>
-    <TD WIDTH=30% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none"><P> </P> </TD>
-    <TD WIDTH=70% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none">
-       <P ALIGN=JUSTIFY><sub><sup>CNRS ensures compliance with the Commission Recommendation 2005/251/EC of 11 March 2005 on the European Charter for Researchers and on a Code of Conduct for the Recruitment of Researchers (OJ L 75, 22.3.2005, p. 67). OCEAN:ICE is co-funded by the European Union, Horizon Europe Funding Programme for research and innovation under grant agreement Nr. 101060452 and by UK Research and Innovation.</sup></sub></br></P>
-    </TD>>
-   </TR>
-</TABLE>
-{:/}
+<sub><sup>CNRS ensures compliance with the Commission Recommendation 2005/251/EC of 11 March 2005 on the European Charter for Researchers and on a Code of Conduct for the Recruitment of Researchers (OJ L 75, 22.3.2005, p. 67). OCEAN:ICE is co-funded by the European Union, Horizon Europe Funding Programme for research and innovation under grant agreement Nr. 101060452 and by UK Research and Innovation.</sup></sub>
