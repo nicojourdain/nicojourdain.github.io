@@ -22,9 +22,9 @@ For publication metrics, see :
 
 # 2022
 
-65. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Hellmer, H. H., Mouginot, J. (2022). Drivers and reversibility of abrupt ocean state transitions in the Amundsen Sea, Antarctica. _Journal of Geophysical Research - Oceans, accepted_ [see draft](https://doi.org/10.1002/essoar.10511518.1)
+65. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Hellmer, H. H., Mouginot, J. (2022). Drivers and reversibility of abrupt ocean state transitions in the Amundsen Sea, Antarctica. _Journal of Geophysical Research - Oceans_, 128, e2022JC018929, [doi:10.1029/2022JC018929](https://doi.org/10.1029/2022JC018929).
 
-64. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere, accepted_, [doi:10.5194/tc-2022-32](https://doi.org/10.5194/tc-2022-32).
+64. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere_, 16, 4931–4975, [doi:10.5194/tc-16-4931-2022](https://doi.org/10.5194/tc-16-4931-2022).
 
 63. **Jourdain, N. C.**, Mathiot, P., Burgard, C., Caillet, J., Kittel, C. (2022). Ice shelf basal melt rates in the Amundsen Sea at the end of the 21st century. _Geophysical Research Letter_, 49(22), e2022GL100629, [doi:10.1029/2022GL100629](https://doi.org/10.1029/2022GL100629).
 
