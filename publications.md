@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-64. Planchat, A., **Jourdain, N. C.**, Dutrieux, P. (2022). Spatio-temporal variability of ocean currents at the Amundsen Sea shelf break and their link to CDW inflow and ice-shelf melt. _Journal of Geophysical Research - Oceans, submitted_.
+66. Hutchinson, K., Deshayes, J., Ethé, C., Rousset, C., de Lavergne, C., Vancoppenolle, M., **Jourdain, N. C.** and Mathiot, P. (2023). Improving Antarctic Bottom Water precursors in NEMO for climate applications. _Geoscientific Model Development_.
 
 ## Peer reviewed publications
 
