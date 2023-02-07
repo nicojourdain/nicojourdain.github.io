@@ -42,7 +42,7 @@ The selection panel will also consider the gender balance of the entire research
 * Type of contract: fixed-term.  
 * CNRS Section: 19.
 * Duration of contract: 18 months (renewable for another 18-month period).
-* Expected date of hire: March to June 2023. 
+* Expected date of hire: April to September 2023. 
 * Work quota: Full time.
 * Required level of studies: PhD.
 * Required experience: No postdoctoral experience required.
