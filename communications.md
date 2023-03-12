@@ -90,6 +90,12 @@ permalink: /communications/
 
 ## Media
 
+* **Libération**: Record de fonte en Antarctique : «Sans banquise, beaucoup de zones ne sont plus protégées» (Sasha Garcia, March 2023) [see article](https://www.liberation.fr/environnement/climat/record-de-fonte-en-antarctique-sans-banquise-beaucoup-de-zones-ne-sont-plus-protegees-20230310_2QRY5W6RYRDQ7PGPPVESQ7VOUI/)
+
+* **Le Monde**: La banquise antarctique bat un record de fonte, exposant le continent blanc au réchauffement (Audrey Garric, February 2023) [see article](https://www.lemonde.fr/planete/article/2023/02/17/la-banquise-antarctique-bat-un-record-de-fonte-exposant-le-continent-blanc-au-rechauffement_6162307_3244.html)
+
+* **Pour la Science**: « Les glaciers antarctiques s’écoulent vers la mer comme du miel d’un pot renversé » (Olivier Voizeux, October 2022) [see article](https://www.pourlascience.fr/sd/geosciences/les-glaciers-antarctiques-s-ecoulent-vers-la-mer-comme-du-miel-d-un-pot-renverse-24291.php)
+
 * **The Conversation - France**: Alec et Eloa : « Pourquoi est-ce que quand on monte en haut d’une montagne il fait plus froid alors qu’on se rapproche du Soleil ? » (by Nicolas Jourdain, edited by Benoît Tonson, April 2022) [see article](https://theconversation.com/alec-et-eloa-pourquoi-est-ce-que-quand-on-monte-en-haut-dune-montagne-il-fait-plus-froid-alors-quon-se-rapproche-du-soleil-181091)
 
 * **Le Monde**: Fonte des glaciers : l’Antarctique va-t-il atteindre un point de non-retour ? (Audrey Garric, Mai 2021) [see article](https://www.lemonde.fr/planete/article/2021/05/05/fonte-des-glaciers-en-antarctique-le-point-de-non-retour-pourrait-etre-atteint-d-ici-a-2060_6079264_3244.html)
