@@ -90,6 +90,8 @@ permalink: /communications/
 
 ## Media
 
+* **Réunion la 1ère**: Record de fonte de la glace de mer en Antarctique (Sophie Person, March 2023). [Listen to mp3]({{site.url}}img/radio_Reunion_record_fonte.MP3).
+
 * **Libération**: Record de fonte en Antarctique : «Sans banquise, beaucoup de zones ne sont plus protégées» (Sasha Garcia, March 2023) [see article](https://www.liberation.fr/environnement/climat/record-de-fonte-en-antarctique-sans-banquise-beaucoup-de-zones-ne-sont-plus-protegees-20230310_2QRY5W6RYRDQ7PGPPVESQ7VOUI/)
 
 * **Le Monde**: La banquise antarctique bat un record de fonte, exposant le continent blanc au réchauffement (Audrey Garric, February 2023) [see article](https://www.lemonde.fr/planete/article/2023/02/17/la-banquise-antarctique-bat-un-record-de-fonte-exposant-le-continent-blanc-au-rechauffement_6162307_3244.html)
