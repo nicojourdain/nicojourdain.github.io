@@ -59,6 +59,11 @@ ncra -F -d time,1,1872,12 tos_monthly_1850-2005.nc tos_mean_JAN.nc
 ncra -F -d time,2,1872,12 tos_monthly_1850-2005.nc tos_mean_FEB.nc
 ncra -F -d time,3,1872,12 tos_monthly_1850-2005.nc tos_mean_MAR.nc
 ```
+which can also be used over several months or a year with the --mro option:
+```shell
+ncra -F --mro -d time,,,12,3 tos_monthly_1850-2005.nc tos_mean_JFM.nc
+ncra -F --mro -d time,,,12,12 tos_monthly_1850-2005.nc tos_mean_yearly.nc
+``` 
 
 To average over an ensemble of files of same structure, e.g. to calculate the monthly-mean diurnal cycle from hourly outputs in daily files:
 ```shell
