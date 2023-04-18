@@ -31,10 +31,9 @@ The official documentation on downloading and installing the NEMO code can be fo
 Load the apropriate environment:
 ```bash
 module unload netcdf-c netcdf-fortran hdf5 flavor perl hdf5 boost blitz mpi
-module load mpi/openmpi/4.0.2
+module load mpi/openmpi/4.1.4
 module load flavor/hdf5/parallel
-module load netcdf-fortran/4.4.4
-module load hdf5/1.8.20
+module load netcdf-fortran/4.5.3
 module load boost
 module load blitz
 module load feature/bridge/heterogenous_mpmd
@@ -71,10 +70,9 @@ cd xios_trunk
 cat << EOF > arch/arch-X64_IRENEige.env
 #!/bin/bash
 module unload netcdf-c netcdf-fortran hdf5 flavor perl hdf5 boost blitz mpi
-module load mpi/openmpi/4.0.2
+module load mpi/openmpi/4.1.4
 module load flavor/hdf5/parallel
-module load netcdf-fortran/4.4.4
-module load hdf5/1.8.20
+module load netcdf-fortran/4.5.3
 module load boost
 module load blitz
 module load feature/bridge/heterogenous_mpmd
@@ -204,7 +202,7 @@ export CONFEXE='AMU'
 echo "$CONFEXE  OCE ICE" >> cfgs/ref_cfgs.txt
 mkdir cfgs/$CONFEXE
 echo " bld::tool::fppkeys key_xios key_si3" > cfgs/${CONFEXE}/cpp_${CONFEXE}.fcm
-makenemo -r ${CONFEXE} -m X64_IRENEige -j 8
+./makenemo -r ${CONFEXE} -m X64_IRENEige -j 8
 ls cfgs/${CONFEXE}/BLD/bin/nemo.exe
 ```
 To modify some routines, copy them from ```cfgs/${CONFEXE}/WORK``` to ```cfgs/${CONFEXE}/MY_SRC```, modify them and recompile (the files in ```MY_SRC``` will be compiled instead of those in ```WORK```).
