@@ -31,13 +31,12 @@ The official documentation on downloading and installing the NEMO code can be fo
 Load the apropriate environment:
 ```bash
 module unload netcdf-c netcdf-fortran hdf5 flavor perl hdf5 boost blitz mpi
-module load mpi/openmpi/4.1.4
-module load flavor/hdf5/parallel
-module load netcdf-fortran/4.5.3
+module load intel/20.0.0 mpi/openmpi/4.0.5
+module load flavor/hdf5/parallel hdf5/1.8.20 netcdf-c/4.6.0 netcdf-fortran/4.4.4
+module load gnu
 module load boost
 module load blitz
 module load feature/bridge/heterogenous_mpmd
-module load gnu
 ```
 
 To access to all the project directories of your group, you need to do this (replace gen6035 by your project ID):
@@ -69,21 +68,20 @@ cd xios_trunk
 ```bash
 cat << EOF > arch/arch-X64_IRENEige.env
 #!/bin/bash
-module unload netcdf-c netcdf-fortran hdf5 flavor perl hdf5 boost blitz mpi
-module load mpi/openmpi/4.1.4
-module load flavor/hdf5/parallel
-module load netcdf-fortran/4.5.3
+module purge
+module load intel/20.0.0 mpi/openmpi/4.0.5
+module load flavor/hdf5/parallel hdf5/1.8.20 netcdf-c/4.6.0 netcdf-fortran/4.4.4
+module load gnu
 module load boost
 module load blitz
 module load feature/bridge/heterogenous_mpmd
-module load gnu
 EOF
 ```
 
 ```bash
 cat << EOF > arch/arch-X64_IRENEige.path
-NETCDF_INCDIR="-I \$NETCDFC_INCDIR -I \$NETCDFFORTRAN_INCDIR"
-NETCDF_LIBDIR="-L \$NETCDFC_LIBDIR -L \$NETCDFFORTRAN_LIBDIR"
+NETCDF_INCDIR="-I/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-fortran-4.4.4/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/include -I/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-c-4.6.0/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/include"
+NETCDF_LIBDIR="-L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-fortran-4.4.4/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/lib -lnetcdff -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-c-4.6.0/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/lib -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/hdf5-1.8.20/intel--20.0.0__openmpi--4.0.1/parallel/lib -lnetcdf -lnetcdf -liomp5 -lpthread -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/hdf5-1.8.20/intel--20.0.2__openmpi--4.0.1/parallel/lib"
 NETCDF_LIB="-lnetcdf -lnetcdff"
 
 MPI_INCDIR=""
@@ -163,8 +161,8 @@ cat << EOF > arch/arch-X64_IRENEige.fcm
 %XIOS_HOME           $WORKDIR/models/xios_trunk
 %OASIS_HOME          $WORKDIR/models/oa3mct
 
-%NCDF_INC            -I\$NETCDFFORTRAN_INCDIR -I\$NETCDF_INCDIR
-%NCDF_LIB            -L\$NETCDFFORTRAN_LIBDIR -lnetcdff -L\$NETCDF_LIBDIR -lnetcdf -L\$HDF5_LIBDIR -lhdf5_hl -lhdf5 -lz -lcurl
+%NCDF_INC            -I/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-fortran-4.4.4/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/include -I/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-c-4.6.0/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/include
+%NCDF_LIB            -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-fortran-4.4.4/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/lib -lnetcdff -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/netcdf-c-4.6.0/intel--20.0.0__openmpi--4.0.1/hdf5__parallel/lib -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/hdf5-1.8.20/intel--20.0.0__openmpi--4.0.1/parallel/lib -lnetcdf -lnetcdf -liomp5 -lpthread -L/ccc/products/ccc_users_env/compil/Rhel_8__x86_64/hdf5-1.8.20/intel--20.0.2__openmpi--4.0.1/parallel/lib -lhdf5_hl -lhdf5 -lz -lcurl
 
 %XIOS_INC            -I%XIOS_HOME/inc 
 %XIOS_LIB            -L%XIOS_HOME/lib -lxios -lstdc++
