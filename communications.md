@@ -14,6 +14,8 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M. *Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)*. See [Abstract](https://doi.org/10.5194/egusphere-egu23-4042).
+
 * **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, May 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica*. See [Abstract](https://doi.org/10.5194/egusphere-egu22-10311).
 
 * **Ocean Science Meeting, online**, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica* [Abstract](https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228). [See recorded presentation](https://www.youtube.com/watch?v=df1IVYY4y2s)
