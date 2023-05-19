@@ -16,13 +16,17 @@ For publication metrics, see :
 
 ## Submitted papers
 
-66. Hutchinson, K., Deshayes, J., Ethé, C., Rousset, C., de Lavergne, C., Vancoppenolle, M., **Jourdain, N. C.** and Mathiot, P. (2023). Improving Antarctic Bottom Water precursors in NEMO for climate applications. _Geoscientific Model Development_.
+67. Burgard, C., **Jourdain, N. C.**, Mathiot, P., Smith, R., Schäfer, R., Caillet, J., Finn, T. and Johnson, J. (2023). Emulating present and future simulations of melt rates at the base of Antarctic ice shelves with neural networks. _Journal of Advances in Modeling Earth Systems_, submitted.
 
 ## Peer reviewed publications
 
-# 2022
+# 2023
 
-65. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Hellmer, H. H., Mouginot, J. (2022). Drivers and reversibility of abrupt ocean state transitions in the Amundsen Sea, Antarctica. _Journal of Geophysical Research - Oceans_, 128, e2022JC018929, [doi:10.1029/2022JC018929](https://doi.org/10.1029/2022JC018929).
+66. Hutchinson, K., Deshayes, J., Ethé, C., Rousset, C., de Lavergne, C., Vancoppenolle, M., **Jourdain, N. C.** and Mathiot, P. (2023). Improving Antarctic Bottom Water precursors in NEMO for climate applications. _Geoscientific Model Development_, accepted. [doi:10.5194/egusphere-2023-99](https://doi.org/10.5194/egusphere-2023-99).
+
+65. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Hellmer, H. H., Mouginot, J. (2023). Drivers and reversibility of abrupt ocean state transitions in the Amundsen Sea, Antarctica. _Journal of Geophysical Research - Oceans_, 128, e2022JC018929, [doi:10.1029/2022JC018929](https://doi.org/10.1029/2022JC018929).
+
+# 2022
 
 64. Burgard, C., **Jourdain, N. C.**, Reese, R., Jenkins, A., and Mathiot, P. (2022). An assessment of basal melt parameterisations for Antarctic ice shelves, _The Cryosphere_, 16, 4931–4975, [doi:10.5194/tc-16-4931-2022](https://doi.org/10.5194/tc-16-4931-2022).
 
