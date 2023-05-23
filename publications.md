@@ -183,13 +183,13 @@ For publication metrics, see :
 
 ## Conference papers
 
+* McCormack, F., Cook, S., Phillips, S., Adusumilli, S., Hattermann, T., Nakayama, Y., Nias, I., Seroussi, H., Slater, D., Begeman, C., Goldberg, D., Jackson, R., Jenkins, A., Jourdain, N., Rosevear, M., Vaňková, I., & Wåhlin, A. (2023). Ice-Ocean Melt: Future Research Directions. _Report on the 1st JCIOI workshop on ice-ocean interaction, 17-19th Oct 2022_. [doi:10.5281/zenodo.7960675](https://doi.org/10.5281/zenodo.7960675)
+
+* Bouissou, B., Burgard, C. and **Jourdain, N. C.**, Parameterising Ocean-induced Melt of an idealised Antarctic Ice Shelf Using Deep Learning. The 8th European Congress on Computational Methods in Applied Sciences and Engineering, June 2022, Oslo, Norway. _ECCOMAS Congress 2022_. [See article](https://www.scipedia.com/public/Bouissou_et_al_2022a)
 
 * **Jourdain, N. C.**, Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 44-47.
 
 * Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43.
-
-* Bouissou, B., Burgard, C. and **Jourdain, N. C.**, Parameterising Ocean-induced Melt of an idealised Antarctic Ice Shelf Using Deep Learning. The 8th European Congress on Computational Methods in Applied Sciences and Engineering, June 2022, Oslo, Norway. _ECCOMAS Congress 2022_. [See article](https://www.scipedia.com/public/Bouissou_et_al_2022a)
-
 
 ## Other accademic publications
 
