@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+68. Hélène Seroussi, Vincent Verjans, Sophie nowicki, Antony J. Payne, Heiko Goelzer, William H. Lipscomb, Ayako Abe Ouchi, Cécile Agosta, Torsten Albrecht, Xylar Asay-Davis, Alice Barthel, Reinhard Calov, Richard Cullather, Christophe Dumas, Benjamin K. Galton-Fenzi, Rupert Gladstone, Nicholas R. Golledge, Jonathan M. Gregory, Ralf Greve, Tore Hatterman, Matthew J. Hoffman, Angelika Humbert, Philippe Huybrechts, Nicolas C. Jourdain, Thomas Kleiner, Eric Larour, Gunter R. Leguy, Daniel P. Lowry, Chistopher M. Little, Mathieu Morlighem, Frank Pattyn, Tyler Pelle, Stephen F. Price, Aurélien Quiquet, Ronja Reese, Nicole-Jeanne Schlegel, Andrew Shepherd, Erika Simon, Robin S. Smith, Fiametta Straneo, Sainan Sun, Luke D. Trusel, Jonas Van Breedam, Peter Van Katwyk, Roderik S. W. van de Wal, Ricarda Winkelmann, Chen Zhao, Tong Zhang, and Thomas Zwinger (2023). Insights on the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty. _The Cryosphere_, submitted.
+
 67. Burgard, C., **Jourdain, N. C.**, Mathiot, P., Smith, R., Schäfer, R., Caillet, J., Finn, T. and Johnson, J. (2023). Emulating present and future simulations of melt rates at the base of Antarctic ice shelves with neural networks. _Journal of Advances in Modeling Earth Systems_, submitted.
 
 ## Peer reviewed publications
