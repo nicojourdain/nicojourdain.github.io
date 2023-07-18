@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-69. Mathiot, P. and Jourdain, N. C. (2023). High-end projections of Southern Ocean warming and Antarctic ice shelf melting in conditions typical of the end of the 23rd century. _Ocean Science_, submitted.
+69. Mathiot, P. and **Jourdain, N. C.** (2023). High-end projections of Southern Ocean warming and Antarctic ice shelf melting in conditions typical of the end of the 23rd century. _Ocean Science_, submitted. [doi:10.5194/egusphere-2023-1606](https://doi.org/10.5194/egusphere-2023-1606)
 
 68. Hélène Seroussi, Vincent Verjans, Sophie nowicki, Antony J. Payne, Heiko Goelzer, William H. Lipscomb, Ayako Abe Ouchi, Cécile Agosta, Torsten Albrecht, Xylar Asay-Davis, Alice Barthel, Reinhard Calov, Richard Cullather, Christophe Dumas, Benjamin K. Galton-Fenzi, Rupert Gladstone, Nicholas R. Golledge, Jonathan M. Gregory, Ralf Greve, Tore Hatterman, Matthew J. Hoffman, Angelika Humbert, Philippe Huybrechts, Nicolas C. Jourdain, Thomas Kleiner, Eric Larour, Gunter R. Leguy, Daniel P. Lowry, Chistopher M. Little, Mathieu Morlighem, Frank Pattyn, Tyler Pelle, Stephen F. Price, Aurélien Quiquet, Ronja Reese, Nicole-Jeanne Schlegel, Andrew Shepherd, Erika Simon, Robin S. Smith, Fiametta Straneo, Sainan Sun, Luke D. Trusel, Jonas Van Breedam, Peter Van Katwyk, Roderik S. W. van de Wal, Ricarda Winkelmann, Chen Zhao, Tong Zhang, and Thomas Zwinger (2023). Insights on the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty. _The Cryosphere_, submitted.
 
