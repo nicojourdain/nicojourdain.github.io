@@ -14,6 +14,8 @@ permalink: /communications/
 
 &#9824; Invited
 
+* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway**, June 2023 : Jourdain, N. *Mixed resolved and parameterised melting beneath Antarctic ice shelves*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf).
+
 * **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M. *Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)*. See [Abstract](https://doi.org/10.5194/egusphere-egu23-4042).
 
 * **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, May 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica*. See [Abstract](https://doi.org/10.5194/egusphere-egu22-10311).
@@ -92,9 +94,15 @@ permalink: /communications/
 
 ## Media
 
+* **France 2 & France 3**: Journal Météo Climat, August 2023. [See mp4]({{site.url}}img/Meteo_Climat_France2_August_2023.mp4)
+
+* **Libération**: Climat : pourquoi la fonte de l’Antarctique nous concerne tous (Anaïs Moran, August 2023). See [online article](https://www.liberation.fr/environnement/climat/climat-pourquoi-la-fonte-de-lantarctique-nous-concerne-tous-20230813_F5GVCV32CBACDPWJEAUMZV4WWM/) or [pdf]({{site.url}}img/libe_August_2023.pdf).
+
+* **L'OBS**: Un épisode exceptionnel » : pourquoi la banquise antarctique peine à se reformer, en plein hiver austral (Marie Fiachetti, August 2023). [see article](https://www.nouvelobs.com/ecologie/20230816.OBS76957/un-episode-exceptionnel-pourquoi-la-banquise-antarctique-peine-a-se-reformer-en-plein-hiver-austral.html)
+
 * **Réunion la 1ère**: Record de fonte de la glace de mer en Antarctique (Sophie Person, March 2023). [Listen to mp3]({{site.url}}img/radio_Reunion_record_fonte.MP3).
 
-* **Libération**: Record de fonte en Antarctique : «Sans banquise, beaucoup de zones ne sont plus protégées» (Sasha Garcia, March 2023) [see article](https://www.liberation.fr/environnement/climat/record-de-fonte-en-antarctique-sans-banquise-beaucoup-de-zones-ne-sont-plus-protegees-20230310_2QRY5W6RYRDQ7PGPPVESQ7VOUI/)
+* **Libération**: Record de fonte en Antarctique : «Sans banquise, beaucoup de zones ne sont plus protégées» (Sasha Garcia, March 2023) [see online article](https://www.liberation.fr/environnement/climat/record-de-fonte-en-antarctique-sans-banquise-beaucoup-de-zones-ne-sont-plus-protegees-20230310_2QRY5W6RYRDQ7PGPPVESQ7VOUI/) or [pdf]({{site.url}}img/libe_March_2023.pdf).
 
 * **Le Monde**: La banquise antarctique bat un record de fonte, exposant le continent blanc au réchauffement (Audrey Garric, February 2023) [see article](https://www.lemonde.fr/planete/article/2023/02/17/la-banquise-antarctique-bat-un-record-de-fonte-exposant-le-continent-blanc-au-rechauffement_6162307_3244.html)
 
