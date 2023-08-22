@@ -94,7 +94,7 @@ permalink: /communications/
 
 ## Media
 
-* **Arte TV**: Panique en Antarctique - Décryptage (Barbara Lohr, Florence Touly, Anne Mangin, Thierry Millote, Marion Nougueret, August 2023). See [online video](https://www.arte.tv/fr/videos/113043-092-A/panique-en-antarctique) or [mp4]({{site.url}}img/Video_Arte_Aug_2023.avi).
+* **Arte TV**: Panique en Antarctique - Décryptage (Barbara Lohr, Florence Touly, Anne Mangin, Thierry Millote, Marion Nougueret, August 2023). See [online video](https://www.arte.tv/fr/videos/113043-092-A/panique-en-antarctique) or [mp4](https://cloud.univ-grenoble-alpes.fr/s/erQjrtE7adRFg7f).
 
 * **France 2 & France 3**: Journal Météo Climat du 12/08/2023 (Thomas Baïetto, August 2023). See [online video](https://www.france.tv/france-2/journal-meteo-et-climat/5133669-journal-meteo-climat.html) or [mp4]({{site.url}}img/Meteo_Climat_France2_August_2023.mp4)
 
