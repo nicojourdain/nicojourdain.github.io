@@ -94,7 +94,9 @@ permalink: /communications/
 
 ## Media
 
-* **France 2 & France 3**: Journal Météo Climat, August 2023. [See mp4]({{site.url}}img/Meteo_Climat_France2_August_2023.mp4)
+* **Arte TV**: Panique en Antarctique - Décryptage (Barbara Lohr, Florence Touly, Anne Mangin, Thierry Millote, Marion Nougueret, August 2023). See [online video](https://www.arte.tv/fr/videos/113043-092-A/panique-en-antarctique) or [mp4]({{site.url}}img/Video_Arte_Aug_2023.mp4).
+
+* **France 2 & France 3**: Journal Météo Climat du 12/08/2023 (Thomas Baïetto, August 2023). See [online video](https://www.france.tv/france-2/journal-meteo-et-climat/5133669-journal-meteo-climat.html) or [mp4]({{site.url}}img/Meteo_Climat_France2_August_2023.mp4)
 
 * **Libération**: Climat : pourquoi la fonte de l’Antarctique nous concerne tous (Anaïs Moran, August 2023). See [online article](https://www.liberation.fr/environnement/climat/climat-pourquoi-la-fonte-de-lantarctique-nous-concerne-tous-20230813_F5GVCV32CBACDPWJEAUMZV4WWM/) or [pdf]({{site.url}}img/libe_August_2023.pdf).
 
