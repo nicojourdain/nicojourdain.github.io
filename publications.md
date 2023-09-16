@@ -197,6 +197,8 @@ For publication metrics, see :
 
 ## Other accademic publications
 
+* Rocha, M., **Jourdain, N.** and Smith, R. (2023). Modelling Ice sheets in Earth System Models: pushing the boundaries of our scientific and technical capabilities. _ESM2025 Research Highlight_, [doi:10.5281/zenodo.7691451](https://doi.org/10.5281/zenodo.7691451)
+
 * Vialard, J., Praveen Kumar, B., **Jourdain, N. C.**, and M. Bador (2012). CIRENE: from cyclones to interannual timescales in the south-western tropical indian ocean. _Mercator Quarterly Newsletter_, 45:16–20. [PDF](http://archimer.ifremer.fr/doc/00098/20969/18589.pdf)
 
 * Ferry, N., L. Parent, G. Garric, C. Bricaud, C. E. Testut, O. Le Galloudec, J. M. Lellouche, Drévillon, M., Greiner, E., Barnier, B., Molines, J. M., **Jourdain, N.**, Guinehut, S., Cabanes, C. and Zawadzki., L. (2012). GLORYS2V1 global ocean reanalysis of the altimetric era (1993-2009) at meso scale. _Mercator Quarterly Newsletter_, 44:28–39. [PDF](https://www.mercator-ocean.fr/wp-content/uploads/2015/05/Mercator-Ocean-newsletter-2012_44.pdf)
