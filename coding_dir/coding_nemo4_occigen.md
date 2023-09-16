@@ -22,7 +22,7 @@ date: 25-05-2021
    6. Create weights for on-the-fly interpolation of atmospheric forcing
 6. Running NEMO
 
-If you are new to occigen, see [this page](https://nicojourdain.github.io/students_dir/students_python_occigen/) for information on how to get an account and connect.
+If you are new to occigen, see [this page](https://nicojourdain.github.io/coding_dir/coding_python_occigen/) for information on how to get an account and connect.
 
 The official documentation on downloading and installing the NEMO code can be found [on the NEMO website](https://forge.ipsl.jussieu.fr/nemo/chrome/site/doc/NEMO/guide/html/install.html).
 

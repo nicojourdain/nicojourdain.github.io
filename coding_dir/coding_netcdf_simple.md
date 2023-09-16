@@ -47,5 +47,5 @@ When exiting, you'll need to leave the environment:
 conda deactivate
 ```
 
-See [this page]({{site.url}}students_dir/students_install_Ferret) to install Ferret on your computer.
+See [this page]({{site.url}}coding_dir/coding_install_Ferret) to install Ferret on your computer.
 

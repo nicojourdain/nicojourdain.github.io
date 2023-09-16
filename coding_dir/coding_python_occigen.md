@@ -98,7 +98,7 @@ which python
 
 # Pack a complete conda environment from another linux system:
 
-This alternative method consists of copying the conda environment from another linux system, for example, GRICAD's luke. See [this page](https://nicojourdain.github.io/students_dir/students_python_gricad/) to install a working conda environment on luke. Then, on luke:
+This alternative method consists of copying the conda environment from another linux system, for example, GRICAD's luke. See [this page](https://nicojourdain.github.io/coding_dir/coding_python_gricad/) to install a working conda environment on luke. Then, on luke:
 ```bash
 conda activate py38 # if you have defined an environment, here 'py38'
 conda list # check that you have all you need

@@ -10,21 +10,21 @@ permalink: /coding/
 
 <br>
 
-* [Overview of basic **linux** commands](/students_dir/students_linux.md).
+* [Overview of basic **linux** commands](/coding_dir/coding_linux.md).
 
-* [Working with **netcdf** files in various languages](/students_dir/students_netcdf.md).
+* [Working with **netcdf** files in various languages](/coding_dir/coding_netcdf.md).
 
-* [Overview of basic **git** commands](/students_dir/students_git.md).
+* [Overview of basic **git** commands](/coding_dir/coding_git.md).
 
-* [Working with **Python on GRICAD**](/students_dir/students_python_gricad.md).
+* [Working with **Python on GRICAD**](/coding_dir/coding_python_gricad.md).
 
-* [Working with **Python on Irene-Rome (TGCC)**](/students_dir/students_python_tgcc.md).
+* [Working with **Python on Irene-Rome (TGCC)**](/coding_dir/coding_python_tgcc.md).
 
-* [Running **NEMO4.2 on Irene-Rome (TGCC)**](/students_dir/students_nemo4.2_tgcc.md).
+* [Running **NEMO4.2 on Irene-Rome (TGCC)**](/coding_dir/coding_nemo4.2_tgcc.md).
 
 
 Obsolete:
 
-* [Working with **Python on occigen (CINES)**](/students_dir/students_python_occigen.md).
+* [Working with **Python on occigen (CINES)**](/coding_dir/coding_python_occigen.md).
 
-* [Running **NEMO4 on occigen (CINES)**](/students_dir/students_nemo4_occigen.md).
+* [Running **NEMO4 on occigen (CINES)**](/coding_dir/coding_nemo4_occigen.md).
