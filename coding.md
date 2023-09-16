@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Students
-permalink: /students/
+title: Coding
+permalink: /coding/
 ---
 
 <div>
