@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ESM2025 Research Highlight of ice sheets in Earth System Models
+title: "ESM2025 Research Highlight of ice sheets in Earth System Models"
 date: 2023-02-13
 ---
 
