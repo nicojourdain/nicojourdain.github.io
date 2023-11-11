@@ -10,9 +10,9 @@ permalink: /projects/
 
 <br>
 
-* PC7 (IMPRESSIONESM) co-leader in [**TRACCS**](https://climeri-france.fr/pepr-traccs/) - Transformer la modélisation du climat pour les services climatiques (PEPR, 2023-2032).
+* PC7 (IMPRESSIONESM) co-leader and PC9 (ISClim) partner in [**TRACCS**](https://climeri-france.fr/pepr-traccs/) - Transformer la modélisation du climat pour les services climatiques (PEPR, 2023-2032).
 
-* PI of [**AIAI**]({{site.url}}projects_dir/AIAI) - Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (ANR, 2023-2026). 
+* PI of [**AIAI**](https://anr-aiai.github.io) - Artificial Intelligence to improve the coupling between the Antarctic ice sheet and the ocean/atmosphere system (ANR, 2023-2026). 
 
 * WP2 leader in [**OCEAN:ICE**](https://ocean-ice.eu) - Ocean-Cryosphere Exchanges in ANtarctica: Impacts on Climate and the Earth System (HORIZON-CL6-2021-CLIMATE-01, 2022-2026).
 
