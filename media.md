@@ -30,8 +30,6 @@ permalink: /media/
 
 * **Pour la Science**: « Les glaciers antarctiques s’écoulent vers la mer comme du miel d’un pot renversé » (Olivier Voizeux, October 2022) [see article](https://www.pourlascience.fr/sd/geosciences/les-glaciers-antarctiques-s-ecoulent-vers-la-mer-comme-du-miel-d-un-pot-renverse-24291.php)
 
-* **The Conversation - France**: Alec et Eloa : « Pourquoi est-ce que quand on monte en haut d’une montagne il fait plus froid alors qu’on se rapproche du Soleil ? » (by Nicolas Jourdain, edited by Benoît Tonson, April 2022) [see article](https://theconversation.com/alec-et-eloa-pourquoi-est-ce-que-quand-on-monte-en-haut-dune-montagne-il-fait-plus-froid-alors-quon-se-rapproche-du-soleil-181091)
-
 * **Le Monde**: Fonte des glaciers : l’Antarctique va-t-il atteindre un point de non-retour ? (Audrey Garric, Mai 2021) [see article](https://www.lemonde.fr/planete/article/2021/05/05/fonte-des-glaciers-en-antarctique-le-point-de-non-retour-pourrait-etre-atteint-d-ici-a-2060_6079264_3244.html)
 
 * **Pour la Science**: La fonte des calottes glaciaires réestimée (François Savatier, Décembre 2020) [see article](https://www.pourlascience.fr/sd/climatologie/la-fonte-des-calottes-glaciaires-reestimee-20637.php)

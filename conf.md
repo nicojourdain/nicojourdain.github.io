@@ -14,6 +14,8 @@ permalink: /conf/
 
 &#9824; Invited
 
+* **Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium**, October 2023 : Jourdain, N. *On the need to consider ocean and ice sheets together*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf).
+
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway**, June 2023 : Jourdain, N. *Mixed resolved and parameterised melting beneath Antarctic ice shelves*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf).
 
 * **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M. *Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)*. See [Abstract](https://doi.org/10.5194/egusphere-egu23-4042).

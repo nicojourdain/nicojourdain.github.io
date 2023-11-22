@@ -16,15 +16,15 @@ For publication metrics, see :
 
 ## Submitted papers
 
-70. Mathiot, P. and **Jourdain, N. C.** (2023). High-end projections of Southern Ocean warming and Antarctic ice shelf melting in conditions typical of the end of the 23rd century. _Ocean Science_, submitted. [doi:10.5194/egusphere-2023-1606](https://doi.org/10.5194/egusphere-2023-1606).
-
-69. Seroussi, H., Verjans, V., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., Van Katwyk, P., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T., and Zwinger, T. (2023). Insights on the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty. _The Cryosphere_, submitted. [doi:10.5194/tc-2023-109](https://doi.org/10.5194/tc-2023-109).
-
-68. Burgard, C., **Jourdain, N. C.**, Mathiot, P., Smith, R., Schäfer, R., Caillet, J., Finn, T. and Johnson, J. (2023). Emulating present and future simulations of melt rates at the base of Antarctic ice shelves with neural networks. _Journal of Advances in Modeling Earth Systems_, submitted. [doi:10.22541/essoar.168500298.88328432/v1](https://doi.org/10.22541/essoar.168500298.88328432/v1).
+70. Seroussi, H., Verjans, V., Nowicki, S., Payne, A. J., Goelzer, H., Lipscomb, W. H., Abe Ouchi, A., Agosta, C., Albrecht, T., Asay-Davis, X., Barthel, A., Calov, R., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Gladstone, R., Golledge, N. R., Gregory, J. M., Greve, R., Hatterman, T., Hoffman, M. J., Humbert, A., Huybrechts, P., **Jourdain, N. C.**, Kleiner, T., Larour, E., Leguy, G. R., Lowry, D. P., Little, C. M., Morlighem, M., Pattyn, F., Pelle, T., Price, S. F., Quiquet, A., Reese, R., Schlegel, N.-J., Shepherd, A., Simon, E., Smith, R. S., Straneo, F., Sun, S., Trusel, L. D., Van Breedam, J., Van Katwyk, P., van de Wal, R. S. W., Winkelmann, R., Zhao, C., Zhang, T., and Zwinger, T. (2023). Insights on the vulnerability of Antarctic glaciers from the ISMIP6 ice sheet model ensemble and associated uncertainty. _The Cryosphere_, submitted. [doi:10.5194/tc-2023-109](https://doi.org/10.5194/tc-2023-109).
 
 ## Peer reviewed publications
 
 # 2023
+
+69. Burgard, C., **Jourdain, N. C.**, Mathiot, P., Smith, R., Schäfer, R., Caillet, J., Finn, T. and Johnson, J. (2023). Emulating present and future simulations of melt rates at the base of Antarctic ice shelves with neural networks. _Journal of Advances in Modeling Earth Systems_, accepted. [doi:10.22541/essoar.168500298.88328432/v1](https://doi.org/10.22541/essoar.168500298.88328432/v1).
+
+68. Mathiot, P. and **Jourdain, N. C.** (2023). High-end projections of Southern Ocean warming and Antarctic ice shelf melting in conditions typical of the end of the 23rd century, _Ocean Science_, 19, 1595–1615, [doi:10.5194/os-19-1595-2023](https://doi.org/10.5194/os-19-1595-2023)
 
 67. Millan, R., Jager, E., Mouginot, J., Wood, M. H., Larsen, S. H., Mathiot, P., **Jourdain, N. C.**, Bjørk, A. (2023). Rapid disintegration and weakening of ice shelves in North Greenland. _Nature Communications_, 14, 6914. [doi:10.1038/s41467-023-42198-2](https://doi.org/10.1038/s41467-023-42198-2)
 
@@ -212,6 +212,8 @@ For publication metrics, see :
 * **Jourdain N.** (2007). Simulations climatiques régionales couplées atmosphère - océan - gace de mer  en Antarctique. _Thèse de doctorat, Université Joseph Fourier, France_. [Abstract](https://tel.archives-ouvertes.fr/tel-00266564) [PDF](https://tel.archives-ouvertes.fr/tel-00266564/document)
 
 ## Publications for the general public
+
+* **The Conversation - France**: Alec et Eloa : « Pourquoi est-ce que quand on monte en haut d’une montagne il fait plus froid alors qu’on se rapproche du Soleil ? » (by Nicolas Jourdain, edited by Benoît Tonson, April 2022) [see article](https://theconversation.com/alec-et-eloa-pourquoi-est-ce-que-quand-on-monte-en-haut-dune-montagne-il-fait-plus-froid-alors-quon-se-rapproche-du-soleil-181091)
 
 * Nicolas Jourdain and Cécile Agosta (edited by Maylis Gaillard), March 2019: Fonte des glaces et climat, que se trame-t-il en Antarctique ?, _The Conversation - France_ [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
 
