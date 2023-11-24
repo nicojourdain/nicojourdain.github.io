@@ -63,19 +63,10 @@ source ~/.bashrc
 Now, to set up a tunel connection:
 ```bash
 cat << EOF >> ~/.ssh/config
-Host luke*
+Host luke* cargo* dahu*
   User ${MYLOGIN}
-  ProxyCommand ssh -X ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr exec netcat -w 2- %h %p
+  ProxyCommand ssh -q ${MYLOGIN}@access-gricad.univ-grenoble-alpes.fr "nc -w 60 `basename %h .ciment` %p"
   GatewayPorts yes
-
-Host dahu*
-  User ${MYLOGIN}
-  ProxyCommand ssh -X ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr exec netcat -w 2- %h %p
-  GatewayPorts yes
-
-Host cargo*
-  User ${MYLOGIN}
-  ProxyCommand ssh -X ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr exec netcat -w 20 %h %p
 
 Host *
   ServerAliveInterval 60
