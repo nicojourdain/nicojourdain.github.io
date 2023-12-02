@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work on netcdf files using the NCO operators
-date: 25-05-2020
+date: 01-12-2023
 ---
 
 NCO tools consist of several powerful commands to read/modify/create netcdf files. The full documentation can be found [here]. Some simple basic command lines are shown here as an example.
@@ -32,8 +32,12 @@ To **remove variables** var1 and var2 from a netcdf file:
 ```shell
 ncks -O -x -v var1,var2 filein.nc fileout.nc
 ```
+If the variables var1 and var2 are coordinates (e.g., x,y), the previous command may not work, but you can add the -C argument to make it work:
+```shell
+ncks -O -C -x -v var1,var2 filein.nc fileout.nc
+```
 
-To **merge two files** of same dimension (name and size), e.g. file1.nc containing the variable var(x,y) and file2.nc containing the variables nav_lon(x,y), nav_lat(x,y) and Bathymetry(x,y), you can do as follows:
+To **merge two files** of same dimension (name and size), e.g. file1.nc containing the variable var(x,y) and file2.nc containing the variables nav\_lon(x,y), nav\_lat(x,y) and Bathymetry(x,y), you can do as follows:
 ```shell
 ncks -A file1.nc file2.nc
 ```
