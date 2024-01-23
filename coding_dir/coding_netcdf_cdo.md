@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Work on netcdf files using the cdo operators
-date: 25-05-2020
+date: 25-01-2024
 ---
 
 Many things (running means, EOF, conversions, etc) can now be done using the cdo operators. For a list of available operators, see [this PDF list](https://code.zmaw.de/projects/cdo/embedded/cdo_refcard.pdf), or [here for the full documentation](https://code.mpimet.mpg.de/projects/cdo/embedded/index.html). 
@@ -22,6 +22,16 @@ To **concatenate** two consecutive files:
 ```shell
 cdo mergetime JUN1979.nc JUL1979.nc AUG1979.nc SEP1979.nc JJAS_1979.nc
 ```
+
+To **extract a variable** (here ST2) into another file:
+```shell
+cdo -selname,ST2 file_in.nc file_out.nc
+```
+
+To **set time attributes**:
+```shell
+cdo setreftime,1900-06-15,12:00:00,1year -settaxis,2015-06-15,12:00:00,1year -setcalendar,standard file_in.nc file_out.nc
+``` 
 
 To check whether **two netcdf files are identical**, or to find where differences are :
 ```shell
