@@ -16,11 +16,11 @@ For publication metrics, see :
 
 ## Submitted papers
 
-73. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _submitted to Earth System Dynamics_.
+73. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _submitted to Earth System Dynamics_. [doi:10.5194/egusphere-2024-128](https://doi.org/10.5194/egusphere-2024-128)
 
 72. De Rydt, J., **Jourdain, N. C.**, Nakayama, Y., van Caspel, M., Timmermann, R., Mathiot, P., Asay-Davis, X. S., Seroussi, H., Dutrieux, P., Galton-Fenzi, B., Holland, D., and Reese, R. (2024). Experimental design for the marine ice sheet and ocean model intercomparison project - phase 2 (MISOMIP2). _submitted to Geophys. Model Dev._ [doi:10.5194/egusphere-2024-95](https://doi.org/10.5194/egusphere-2024-95)
 
-71. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _submitted to The Cryosphere_.
+71. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
 
 ## Peer reviewed publications
 
