@@ -201,9 +201,9 @@ For publication metrics, see :
 
 * Bouissou, B., Burgard, C. and **Jourdain, N. C.**, Parameterising Ocean-induced Melt of an idealised Antarctic Ice Shelf Using Deep Learning. The 8th European Congress on Computational Methods in Applied Sciences and Engineering, June 2022, Oslo, Norway. _ECCOMAS Congress 2022_. [See article](https://www.scipedia.com/public/Bouissou_et_al_2022a)
 
-* **Jourdain, N. C.**, Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 44-47.
+* **Jourdain, N. C.**, Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 44-47. [See article](http://www.bom.gov.au/research/publications/cawcrreports/CTR_056.pdf)
 
-* Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43.
+* Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43. [See article](http://www.bom.gov.au/research/publications/cawcrreports/CTR_056.pdf)
 
 ## Other accademic publications
 
