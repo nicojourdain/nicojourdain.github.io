@@ -168,13 +168,13 @@ For publication metrics, see :
 
 12. Mathiot, P., **Jourdain, N. C.**, Barnier, B., Gallée, H., Molines, J.-M., Le Sommer, J. (2012). Sensitivity of Coastal Polynyas and High Salinity Shelf water Production in the Ross Sea, Antarctica, to the Atmospheric Forcing. _Ocean Dynam._, 62(5): 701-723. [doi:10.1007/s10236-012-0531-y](http://link.springer.com/article/10.1007/s10236-012-0531-y)
 
-11. Vincent, E. M., Lengaigne, M., Madec, G., Vialard, J., Samson, G., **Jourdain, N. C.**, Menkes, C. E., Jullien, S. (2012). Processes setting the characteristics of sea surface cooling induced by tropical cyclones. _J. Geophys. Res._, 117:C02020. [doi:10.1029/2011JC007396](http://onlinelibrary.wiley.com/doi/10.1029/2011JC007396/abstract).
+11. Vincent, E. M., Lengaigne, M., Madec, G., Vialard, J., Samson, G., **Jourdain, N. C.**, Menkes, C. E., Jullien, S. (2012). Processes setting the characteristics of sea surface cooling induced by tropical cyclones. _J. Geophys. Res._, 117:C02020. [doi:10.1029/2011JC007396](http://dx.doi.org/10.1029/2011JC007396).
 
 10. Gimbert, F., **Jourdain, N. C.**, Marsan, D., Weiss, J., Barnier, B. (2012). Recent mechanical weakening of the Arctic sea ice cover as revealed from larger inertial oscillations. _J. Geophys. Res._ 117:C00J12, 14pp. [doi:10.1029/2011JC007633](http://onlinelibrary.wiley.com/doi/10.1029/2011JC007633/abstract)
 
 9. Gimbert, F., Marsan, D., Weiss, J., **Jourdain, N. C.** , Barnier, B. (2012). Sea ice inertial oscillation magnitudes in the Arctic basin. _The Cryosphere_ 6:2179-2220. [doi:10.5194/tc-6-1187-2012](http://www.the-cryosphere.net/6/1187/2012/tc-6-1187-2012.html)
 
-8. Vincent, E. M., Lengaigne, M., Vialard, J., Madec, G., **Jourdain, N. C.**, Masson, S. (2012). Assessing the Oceanic Control on the Amplitude of Sea Surface Cooling induced by Tropical Cyclones. _J. Geophys. Res._ 117:C05023, 14pp. [doi:10.1029/2011JC007396](http://onlinelibrary.wiley.com/doi/10.1029/2011JC007705/abstract)
+8. Vincent, E. M., Lengaigne, M., Vialard, J., Madec, G., **Jourdain, N. C.**, Masson, S. (2012). Assessing the Oceanic Control on the Amplitude of Sea Surface Cooling induced by Tropical Cyclones. _J. Geophys. Res._ 117, C05023 [doi:10.1029/2011JC007396](http://onlinelibrary.wiley.com/doi/10.1029/2011JC007705/abstract)
 
 7. Jullien, S., Menkes, C. E., Marchesiello, P., **Jourdain, N. C.**, Lengaigne, M., Koch-Larrouy, A., Lefèvre, J., Vincent, E.M., Faure, V. (2012). Impact of tropical cyclones on the heat budget of the South Pacific Ocean. _J. Phys. Oceanogr._ 42:1882-1906. [doi:10.1175/JPO-D-11-0133.1](http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-11-0133.1)
  
