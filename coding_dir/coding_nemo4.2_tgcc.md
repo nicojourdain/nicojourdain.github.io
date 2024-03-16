@@ -347,7 +347,7 @@ rm -f mesh_mask_00??.nc domain_cfg_00??.nc nam_rebuild_?????
 ```
 Note that the namelist\_cfg can be re-extracted from domain\_cfg\_${CONFIG}.nc as follows:
 ```bash
-ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/xtrac_namelist.bash
+ln -s -v ${MY_NEMO}/tools/DOMAINcfg/xtrac_namelist.bash
 ./xtrac_namelist.bash domain_cfg_${CONFIG}.nc restored_namelist_cfg
 ```
 
