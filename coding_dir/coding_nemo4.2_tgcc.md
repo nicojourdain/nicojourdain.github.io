@@ -332,7 +332,7 @@ mpirun -np 24 ./make_domain_cfg.exe
 EOF
 
 chmod +x run.sh
-sbatch ./run.sh # then wait for the job completion
+ccc_msub ./run.sh # then wait for the job completion
 ls -al mesh_mask_00??.nc
 ls -al domain_cfg_00??.nc
 ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/BLD/bin/rebuild_nemo.exe
