@@ -356,6 +356,7 @@ ln -s -v ${MY_NEMO}/tools/DOMAINcfg/xtrac_namelist.bash
 
 To exctract the CHILD initial state (temperature and salinity) from the PARENT simulation, fill the ```&init``` section of the namelist:
 ```bash
+cd ${SCRATCHDIR}/input/BUILD_CONFIG_NEMO
 ./submit.sh extract_istate_TS 01 16
 ls -al ../nemo_${CONFIG}/istate_TS_${CONFIG}.nc  # check after completion of extract_istate_TS
 ```
