@@ -343,7 +343,7 @@ ln -s -v ${MY_NEMO}/tools/REBUILD_NEMO/rebuild_nemo
 ./dom_doc.exe -n namelist_cfg -d domain_cfg.nc # to save namelist in domain_cfg.nc
 mv mesh_mask.nc ../mesh_mask_${CONFIG}.nc
 mv domain_cfg.nc ../domain_cfg_${CONFIG}.nc
-rm -f mesh_mask_00??.nc domain_cfg_00??.nc nam_rebuild_?????
+rm -f mesh_mask_00??.nc domain_cfg_00??.nc nam_rebuild_[0-9][0-9]*
 ```
 Note that the namelist\_cfg can be re-extracted from domain\_cfg\_${CONFIG}.nc as follows:
 ```bash
