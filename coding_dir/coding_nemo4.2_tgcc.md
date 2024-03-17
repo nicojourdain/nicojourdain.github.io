@@ -390,9 +390,9 @@ vi namelist_pre # fill &bdy_data section
 ./submit.sh extract_bdy_icemod 01 8
 ./submit.sh extract_bdy_ssh 01 8
 ls -lrt ../nemo_${CONFIG}/BDY
-squeue
+ccc_mpp -u `whoami`  # to chech the queue
 # once all these jobs have completed:
-vi concatenate_yearly_BDY.sh  # adapt CONFIG, BDY_DIR, YEARi, YEARf
+vi concatenate_yearly_BDY.sh  # adapt module, CONFIG, BDY_DIR, YEARi, YEARf
 ./concatenate_yearly_BDY.sh # to get yearly files
 ls ../nemo_${CONFIG}/BDY
 ```
@@ -412,7 +412,7 @@ If you want to use sea surface salinity restoring:
 vi namelist_pre # fill &sss_resto section
 ./submit.sh extract_SSS_restoring 03 15 # adapt duration and memory requirements
 ls -lrt ../nemo_${CONFIG}/SSS
-squeue
+ccc_mpp -u `whoami` # to check the queue
 # once the job has completed:
 vi concatenate_yearly_SSS.sh # adapt CONFIG, SSS_DIR, YEARi, YEARf
 ./concatenate_yearly_SSS.sh
@@ -428,7 +428,7 @@ vi namelist_pre # fill &runoff section
 ./submit.sh extract_runoff_icb 03 8 # adapt duration (and memory) requirements
 #
 ls -lrt ../nemo_${CONFIG}/RNF
-squeue
+ccc_mpp -u `whoami` # to check the queue
 # once the job has completed:
 vi concatenate_yearly_runoff.sh # adapt CONFIG, RNF_DIR, YEARi, YEARf
 ./concatenate_yearly_runoff.sh
