@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+75. Wohleber, A., Blouzon, C., Witwicky, J., Ginot, P., **Jourdain, N. C.** and Grilli, R. (2024). A membrane inlet laser spectrometer for in-situ measurement of triple water isotopologues. _submitted to Environmental Science & Technology_.
+
 74. Seroussi, H., Pelle, T., Lipscomb, W. H., Abe-Ouchi, A., Albrecht, T., Álvarez-Solas, J., Asay-Davis, X. Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Garbe, J., Gillet-Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T., Hoffman, M., Huybrechts, P., **Jourdain, N. C.**, Kristin Klose, A. K., Langebroek, P. M., Leguy, G. R., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Quiquet, A., Reese, R., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S., Wang, Y., Zhao, C., Zwinger, T. (2024). Evolution of the Antarctic Ice Sheet over the next three centuries from an ISMIP6 model ensemble. _submitted to Earth's Future_.
 
 73. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _submitted to Earth System Dynamics_. [doi:10.5194/egusphere-2024-128](https://doi.org/10.5194/egusphere-2024-128)
