@@ -516,14 +516,16 @@ Then:
 ```bash
 cat <<EOF > run_bilin.sh
 #!/bin/bash
-#SBATCH -C BDW28
-#SBATCH --ntasks=1
-#SBATCH --mem=55000
-#SBATCH --threads-per-core=1
-#SBATCH -J run_WEIGHT
-#SBATCH -e run_WEIGHT.e%j
-#SBATCH -o run_WEIGHT.o%j
-#SBATCH --time=00:09:00
+#!/bin/bash
+#MSUB -r run_bilin
+#MSUB -o run_bilin.o%j
+#MSUB -e run_bilin.e%j
+#MSUB -n 8
+#MSUB -x
+#MSUB -T 600 
+#MSUB -A gen6035
+#MSUB -q rome
+#MSUB -m work,scratch
 ulimit -s unlimited
 ./scripgrid.exe namelist_bilin_${REANALYSIS}_${CONFIG}
 ./scrip.exe namelist_bilin_${REANALYSIS}_${CONFIG}
@@ -531,7 +533,7 @@ ulimit -s unlimited
 EOF
 
 chmod +x run_bilin.sh
-sbatch run_bilin.sh
+ccc_msub run_bilin.sh
 # when job has completed:
 ls -al weights_bilin_${REANALYSIS}_${CONFIG}.nc
 ```
@@ -541,7 +543,7 @@ Then you can procede similarly with namelist\_bicub instead of namelist\_bilin:
 sed -e "s/bilin/bicub/g ; s/bicubear/bicubic/g" namelist_bilin_${REANALYSIS}_${CONFIG} > namelist_bicub_${REANALYSIS}_${CONFIG}
 sed -e "s/bilin/bicub/g" run_bilin.sh > run_bicub.sh
 chmod +x run_bicub.sh
-sbatch run_bicub.sh
+ccc_msub run_bicub.sh
 # when job has completed:
 ls -al weights_bicub_${REANALYSIS}_${CONFIG}.nc
 ```
