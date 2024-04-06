@@ -10,11 +10,11 @@ permalink: /models/
 
 <br>
 
-Here are the models that I'm currently using:
+Here are the models that I have been using:
 
-* [NEMO][1] (Nucleus for European Modelling of the Ocean), including the OPA ocean model and the LIM sea ice model.
+* [NEMO][1] (Nucleus for European Modelling of the Ocean), including the OPA ocean model, the SI<sup>3</sup> sea ice model, as well as ice-shelf and iceberg modules.
 
-* [Elmer/Ice][2], an open-source finite-element software for ice sheets, glaciers and ice flow modelling.
+* [Elmer/Ice][2], an open-source finite-element software for modelling the ice sheet and glacier dynamics.
 
 * [MAR][3], a regional atmospheric model including a fine representation of polar processes.
 
@@ -22,11 +22,11 @@ Here are the models that I'm currently using:
 
 Some of these models have been coupled:
 
-* NEMO-Elmer/Ice, see [MISOMIP simulation][5], described in [Favier et al. (2019)][8].
+* NEMO-Elmer/Ice, see [Favier et al. (2019)][8].
 
-* NOW (NEMO-OASIS-WRF), developed by [Samson et al. (2014)][6], used in [Li et al. (2017)][9].
+* TANGO (NEMO-OASIS-MAR), developed by [Jourdain et al. (2011)][7], updated by [Huot et al. (2022)][11].
 
-* TANGO (NEMO-OASIS-MAR), developed by [Jourdain et al. (2011)][7], to be updated.
+* NOW (NEMO-OASIS-WRF), developed by [Samson et al. (2014)][6], used in Li et al. ([2017][9],[2020][10]).
 
 
 [1]: https://www.nemo-ocean.eu
@@ -38,3 +38,5 @@ Some of these models have been coupled:
 [7]: http://link.springer.com/article/10.1007/s00382-010-0889-9
 [8]: https://www.geosci-model-dev.net/12/2255/2019
 [9]: https://link.springer.com/content/pdf/10.1007/s00382-016-3317-y.pdf
+[10]: https://doi.org/10.1007/s00382-020-05266-7
+[11]: https://doi.org/10.1007/s00382-021-06115-x
