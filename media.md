@@ -12,6 +12,8 @@ permalink: /media/
 
 ## Media reporting on our research
 
+* **France Inter**: La Terre au carré - À l'écoute des icebergs (Mathieu Vidard, April 2024). [Listen online](https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mardi-23-avril-2024-4420496).
+
 * **Reporterre**: En Antarctique, les glaciers au bord du gouffre (Vincent Lucchese, September 2023). [See online article](https://reporterre.net/En-Antarctique-les-glaciers-au-bord-du-gouffre).
 
 * **Arte TV**: Panique en Antarctique - Décryptage (Barbara Lohr, Florence Touly, Anne Mangin, Thierry Millote, Marion Nougueret, August 2023). See [Arte video](https://www.arte.tv/fr/videos/113043-092-A/panique-en-antarctique), [You Tube](https://www.youtube.com/watch?v=TP0obamSt9o) or [mp4](https://cloud.univ-grenoble-alpes.fr/s/erQjrtE7adRFg7f).
