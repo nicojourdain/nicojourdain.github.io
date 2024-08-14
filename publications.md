@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-76. Wiskandt, J. and **Jourdain, N. C.** (2024). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _Submitted to The Cryosphere_.
+76. Wiskandt, J. and **Jourdain, N. C.** (2024). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-2239](https://doi.org/10.5194/egusphere-2024-2239)
 
 75. Wohleber, A., Blouzon, C., Witwicky, J., Ginot, P., **Jourdain, N. C.** and Grilli, R. (2024). A membrane inlet laser spectrometer for in-situ measurement of triple water isotopologues. _submitted to Geoscientific Instrumentation, Methods and Data Systems_.
 
