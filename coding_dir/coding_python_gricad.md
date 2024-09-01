@@ -16,8 +16,8 @@ You can enable copy/paste through Ctrl+Maj+C/v somewhere in the menu.
 
 Then, to enable remote display, do:
 ```bash
-echo "export DISPLAY=localhost:0.0" >> ~/.bashrc
-source ~/.bashrc
+echo "export DISPLAY=localhost:0.0" >> ~/.bashrc  # or ~/.zshrc
+source ~/.bashrc  # or ~/.zshrc 
 sudo apt-get update
 sudo apt-get install xterm
 ```
@@ -48,7 +48,7 @@ cat ~/.ssh/id_rsa.pub | ssh ${MYLOGIN}@access-ciment.univ-grenoble-alpes.fr 'cat
 
 If you want to enter the pass phrase only once per session on your computer:
 ```bash
-cat << EOF >> ~/.bashrc
+cat << EOF >> ~/.bashrc  # or ~/.zshrc
 
 if [ $? -eq 2 ]
 then
@@ -57,7 +57,7 @@ then
   ssh-add
 fi
 EOF
-source ~/.bashrc
+source ~/.bashrc  # or ~/.zshrc 
 ```
 
 Now, to set up a tunel connection:
