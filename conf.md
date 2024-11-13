@@ -14,6 +14,17 @@ permalink: /conf/
 
 &#9824; Invited
 
+{::nomarkdown}
+<div style="display:inline;text-align:left;">
+<img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" width="30%" height="30%" style="float: left;" />
+<div style="float:right">
+<p> &#9824; **Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop**, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See [description](https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html). </p>
+</div>
+</div>
+<div style="clear:both"/>
+<hr>
+{:/}
+
 * **Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium**, October 2023 : Jourdain, N. *On the need to consider ocean and ice sheets together*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf).
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway**, June 2023 : Jourdain, N. *Mixed resolved and parameterised melting beneath Antarctic ice shelves*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf).

@@ -35,7 +35,7 @@ France<br>
 
 
 ## Research Interests
-I am currently working on the interactions between the Antarctic Ice Sheet and the climate system at IGE, Grenoble, France. My main aim is to reduce uncertainty on sea level projections. Previously, I worked on tropical cyclones, the Indo-Pacific climate, and ocean-atmosphere interactions, at IRD, Nouméa, New Caledonia, and at CCRC-UNSW, Sydney, Australia. A large part of my work is based on numerical models designed to simulate some physical constituents of the climate system.
+I am a senior researcher, currently working on the interactions between the Antarctic Ice Sheet and the climate system at IGE, Grenoble, France. My main aim is to better estimate and eventually reduce the uncertainty on sea level projections. Previously, I worked on tropical cyclones, the Indo-Pacific climate, and ocean-atmosphere interactions, at IRD, Nouméa, New Caledonia, and at CCRC-UNSW, Sydney, Australia. A large part of my work is based on numerical models designed to simulate some physical constituents of the climate system.
 
 [.](/myphotos_dir/myphotos.md).
 
