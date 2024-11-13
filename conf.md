@@ -10,19 +10,23 @@ permalink: /conf/
 
 <br>
 
-## International communications in conferences
+## Most important conferences and workshops
 
 &#9824; Invited
 
-
 {::nomarkdown}
-<TABLE WIDTH=100%> <TR VALIGN=TOP>
-  <TD WIDTH=25% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
-  <TD WIDTH=75% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
-  </TD> </TR> </TABLE>
-{:/}
 
-* **Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium**, October 2023 : Jourdain, N. *On the need to consider ocean and ice sheets together*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf).
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_policy_brief.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium </b>, October 2023: Jourdain, N. <i>On the need to consider ocean and ice sheets together</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf">program</a>.</P>
+</TD> </TR> </TABLE>
+
+{:/}
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway**, June 2023 : Jourdain, N. *Mixed resolved and parameterised melting beneath Antarctic ice shelves*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf).
 
