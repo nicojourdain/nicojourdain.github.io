@@ -12,27 +12,40 @@ permalink: /conf/
 
 ## Most important conferences and workshops
 
-&#9824; Invited
-
 {::nomarkdown}
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_policy_brief.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium </b>, October 2023: Jourdain, N. <i>On the need to consider ocean and ice sheets together</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf">program</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium </b>, October 2023: Jourdain, N. <i>On the need to consider ocean and ice sheets together</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf">program</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_AG.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs Annual Meeting, Brussel, Belgium </b>, October 2023. See <a href="https://www.tipaccs.eu/tipaccs-annual-meeting-2023/">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_06_FRISP.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway </b>, June 2023. Jourdain, N. <i>Mixed resolved and parameterised melting beneath Antarctic ice shelves</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf">program</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_04_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M., <i>Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)</i>. See <a href="https://doi.org/10.5194/egusphere-egu23-4042">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_04_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+
 {:/}
-
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway**, June 2023 : Jourdain, N. *Mixed resolved and parameterised melting beneath Antarctic ice shelves*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf).
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M. *Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)*. See [Abstract](https://doi.org/10.5194/egusphere-egu23-4042).
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, May 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica*. See [Abstract](https://doi.org/10.5194/egusphere-egu22-10311).
 
 * **Ocean Science Meeting, online**, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica* [Abstract](https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228). [See recorded presentation](https://www.youtube.com/watch?v=df1IVYY4y2s)
 
