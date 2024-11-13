@@ -25,7 +25,7 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
-<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_AG.png" /></P></TD>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_AG.jpeg" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs Annual Meeting, Brussel, Belgium </b>, October 2023. See <a href="https://www.tipaccs.eu/tipaccs-annual-meeting-2023/">event description</a>.</P>
 </TD> </TR> </TABLE>
 
@@ -36,12 +36,12 @@ permalink: /conf/
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_04_EGU.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M., <i>Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)</i>. See <a href="https://doi.org/10.5194/egusphere-egu23-4042">abstract</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2023 : Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M., <i>Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)</i>. See <a href="https://doi.org/10.5194/egusphere-egu23-4042">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_04_EGU.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
 
