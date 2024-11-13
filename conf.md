@@ -16,27 +16,11 @@ permalink: /conf/
 
 
 {::nomarkdown}
-<TABLE WIDTH=100%>
-  <TR VALIGN=TOP>
-    <TD WIDTH=30% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
-    <TD WIDTH=30% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0cm"><P>&#9824; <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
-    </TD>
-  </TR>
-</TABLE>
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+  <TD WIDTH=25% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
+  <TD WIDTH=75% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
+  </TD> </TR> </TABLE>
 {:/}
-
-{::nomarkdown}
-<div style="display:inline;text-align:left;">
-<img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" width="25%" height="25%" style="float: left;" />
-<div style="float:right">
-&#9824; <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.<br>
-</div>
-</div>
-<div style="clear:both"/>
-<hr>
-{:/}
-
-<a href="url">link text</a>
 
 * **Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium**, October 2023 : Jourdain, N. *On the need to consider ocean and ice sheets together*. See [Program](https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf).
 
