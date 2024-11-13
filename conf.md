@@ -16,7 +16,7 @@ permalink: /conf/
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop </b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop, Algonkian Regional Park, VA, USA</b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
@@ -44,10 +44,12 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2022 : Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_02_OSM.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ocean Science Meeting, online </b>, March 2022 : Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
+</TD> </TR> </TABLE>
 
 {:/}
-
-* **Ocean Science Meeting, online**, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J. *Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica* [Abstract](https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228). [See recorded presentation](https://www.youtube.com/watch?v=df1IVYY4y2s)
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, online**, June 2020: Jourdain, N. *Ice-shelf melting projection in the Amundsen Sea, Antarctica*.
 
