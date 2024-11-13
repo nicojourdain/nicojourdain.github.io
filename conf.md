@@ -49,11 +49,17 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ocean Science Meeting, online </b>, March 2022 : Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2020_06_FRISP.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, online </b>, June 2020: Jourdain, N., <i>Ice-shelf melting projection in the Amundsen Sea, Antarctica</i>.
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2020_05_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, online </b>, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki, <i>Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica</i>. See <a href="https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
 {:/}
-
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, online**, June 2020: Jourdain, N. *Ice-shelf melting projection in the Amundsen Sea, Antarctica*.
-
-* **European Geophysical Union (EGU) General Assembly, online**, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki. *Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica*. See [Abstract](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html) 
 
 * **Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK**, September 2019: Jourdain, N. C. *Uncertainty on future ice-shelf basal melt rates in Antarctica*. See [FRISP webpage](https://www.bas.ac.uk/event/frisp-2019/)
 
