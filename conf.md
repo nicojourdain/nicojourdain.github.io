@@ -46,7 +46,7 @@ permalink: /conf/
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_02_OSM.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Ocean Science Meeting, online </b>, March 2022 : Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ocean Science Meeting, online </b>, March 2022 : Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
@@ -59,9 +59,13 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, online </b>, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki, <i>Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica</i>. See <a href="https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2019_06_FRISP.jpg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY>&#9824; <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK </b>, September 2019: Jourdain, N. C., <i>Uncertainty on future ice-shelf basal melt rates in Antarctica</i>. See <a href="https://www.bas.ac.uk/event/frisp-2019/">FRISP webpage</a>.</P>
+</TD> </TR> </TABLE>
+
 {:/}
 
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK**, September 2019: Jourdain, N. C. *Uncertainty on future ice-shelf basal melt rates in Antarctica*. See [FRISP webpage](https://www.bas.ac.uk/event/frisp-2019/)
 
 * **International Union of Geodesy and Geophysics (IUGG), Montreal, Canada**, July 2019 : Jourdain, N. C. Asay-Davis, X., Seroussi, H., Hattermann, T., Little, C., Straneo, F., Favier, L. and Mouginot, J. *Huge uncertainty on future ice-shelf basal melt rates in West Antarctica*. See [Abstract](https://www.czech-in.org/cmPortalV15/CM_W3_Searchable/iugg19/normal#!abstractdetails/0000797630)
 
