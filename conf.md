@@ -21,47 +21,47 @@ permalink: /conf/
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_policy_brief.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium </b>, October 2023: Jourdain, N. <i>On the need to consider ocean and ice sheets together</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf">program</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium</b>, October 2023: Jourdain, N. <i>On the need to consider ocean and ice sheets together</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf">program</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_AG.jpeg" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs Annual Meeting, Brussel, Belgium </b>, October 2023. See <a href="https://www.tipaccs.eu/tipaccs-annual-meeting-2023/">event description</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs Annual Meeting, Brussel, Belgium</b>, October 2023. See <a href="https://www.tipaccs.eu/tipaccs-annual-meeting-2023/">event description</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_06_FRISP.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway </b>, June 2023. Jourdain, N. <i>Mixed resolved and parameterised melting beneath Antarctic ice shelves</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf">program</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Stalheim, Norway</b>, June 2023. Jourdain, N. <i>Mixed resolved and parameterised melting beneath Antarctic ice shelves</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/06/2023_FRISP_program_v3.pdf">program</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_04_EGU.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2023: Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M., <i>Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)</i>. See <a href="https://doi.org/10.5194/egusphere-egu23-4042">abstract</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2023: Jourdain, N., De Rydt, J., Nakayama, Y., Timmermann, R. and Van Caspel, M., <i>Experimental design for the the 2nd marine ice sheet and ocean model intercomparison project (MISOMIP2)</i>. See <a href="https://doi.org/10.5194/egusphere-egu23-4042">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_04_EGU.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria </b>, April 2022: Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2022: Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_02_OSM.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ocean Science Meeting, online </b>, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ocean Science Meeting, online</b>, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2020_06_FRISP.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, online </b>, June 2020: Jourdain, N., <i>Ice-shelf melting projection in the Amundsen Sea, Antarctica</i>.
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, online</b>, June 2020: Jourdain, N., <i>Ice-shelf melting projection in the Amundsen Sea, Antarctica</i>.
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2020_05_EGU.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, online </b>, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki, <i>Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica</i>. See <a href="https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html">abstract</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, online</b>, June 2020: N. Jourdain, M. Donat-Magnin, C. Kittel, C. Agosta, C. Amory, H. Gallée, G. Krinner, and M. Chekki, <i>Surface mass balance and melting projections over the Amundsen coastal region, West Antarctica</i>. See <a href="https://meetingorganizer.copernicus.org/EGU2020/EGU2020-16488.html">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2019_06_FRISP.jpg" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK </b>, September 2019: Jourdain, N. C., <i>Uncertainty on future ice-shelf basal melt rates in Antarctica</i>. See <a href="https://www.bas.ac.uk/event/frisp-2019/">FRISP webpage</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK</b>, September 2019: Jourdain, N. C., <i>Uncertainty on future ice-shelf basal melt rates in Antarctica</i>. See <a href="https://www.bas.ac.uk/event/frisp-2019/">FRISP webpage</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
@@ -84,17 +84,33 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> American Geophisical Union (AGU) Fall Meeting 2017, New Orleans, USA</b>, December 2017: Jourdain, N., Molines, J. M., Le Sommer, J., Mathiot, P., de Lavergne, C., Gurvan, M., Durand, G., <i>Modelling and parameterizing the influence of tides on ice-shelf melt rates</i>. See <a href="http://adsabs.harvard.edu/abs/2017AGUFM.C13G..07J">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_FRISP.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Bergen, Norway</b>, June 2017: N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, <i>Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica</i>..</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2017_04_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2017: N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, <i>Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_FRISP.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Gothenburg/Kristineberg/Gullmarn Fjord, Sweden</b>, October 2106: Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G., <i>Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_07_IGS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> International Symposium on Interactions of Ice Sheets and Glaciers with the Ocean (IGS), La Jolla, USA</b>, July 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P., <i>On the processes affecting melt rates underneath the Amundsen Sea ice shelves</i>. See <a href="https://www.arcus.org/events/arctic-calendar/24672">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_CNFRA.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Journées scientifiques du CNFRA, Lyon, France</b>, May 2016: Jourdain, N., <i>Modélisation aux interfaces : état de l'art et défis à venir</i>. See <a href="http://cnfraa.org/IMG/pdf/resumes_cnfra_12js.pdf">program</a>.</P>
+</TD> </TR> </TABLE>
+
+
 {:/}
-
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Bergen, Norway**, June 2017: N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.*
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2017: N. C. Jourdain, J.-M. Molines, J. Le Sommer, P. Mathiot, J. Chanut and G. Madec, *Modelling the influence of tides on ice-shelf melt rates in the Amundsen Sea, Antarctica.* See [Abstract](http://meetingorganizer.copernicus.org/EGU2017/EGU2017-4784.pdf) 
-
-* **Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden**, October 2106: Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G. *Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.*
-
-* **International Glaciological Society (IGS) Symposium, La Jolla, USA**, July 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Proceedings](https://www.igsoc.org/symposia/2016/lajolla/proceedings/proceedings.html)
-
-* &#9824; **Journées scientifiques du CNFRA, Lyon, France**, May 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *Modélisation de l'interface océan/glace*.
 
 * &#9824; **Rising coastal seas on a Warming Earth II, Abu Dhabi, United Arab Emirates**, May 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Workshop website](http://nyuad.nyu.edu/en/news-events/abu-dhabi-events/2016/05/rising-coastal-seas-on-a-warming-earth-ii.html)
 
