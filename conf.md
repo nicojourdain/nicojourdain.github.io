@@ -95,8 +95,8 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
-<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_FRISP.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Gothenburg/Kristineberg/Gullmarn Fjord, Sweden</b>, October 2106: Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G., <i>Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.</i>.</P>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_FRISP.jpeg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Gothenburg/Kristineberg/Gullmarn Fjord, Sweden</b>, October 2016: Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P. and Madec, G., <i>Ocean circulation and sea-ice thinning induced by melting ice shelves in the Amundsen Sea.</i>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
@@ -130,15 +130,16 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
-<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_AG.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> </b>, <i> </i>. See <a href="">event description</a>.</P>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2014_MISOMIP.jpeg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Rising coastal seas on a Warming Earth (MISOMIP), Abu Dhabi, United Arab Emirates</b>, October 2014: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P., <i>How to model coastal ocean warming around Antarctica?</i>. See <a href="https://eos.org/wp-content/uploads/2015/11/15-Nov_Magazine.pdf?dd3e24">EOS paper</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2014_WRF.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> WRF workshop, Sydney, Australia</b>, February 2014: Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y., <i>Modelling the climate of the Maritime Continent</i>.</P>
 </TD> </TR> </TABLE>
 
 {:/}
-
-* &#9824; **Workshop for the West Antarctic Glacier Ocean Modelling, Abu Dhabi, United Arab Emirates**, October 2014: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *How to model coastal ocean warming around Antarctica?* See [workshop website](http://www.climate-cryosphere.org/activities/targeted/misomip/826-2014-kick-off#faqnoanchor) or [EOS paper](https://eos.org/wp-content/uploads/2015/11/15-Nov_Magazine.pdf?dd3e24)
-
-* **WRF workshop, Sydney, Australia**, February 2014: Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y. *Modelling the climate of the Maritime Continent*. 
 
 * **Australian Meteorological and Oceanographic Society (AMOS) conference, Hobart, Australia**, February 2014: Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y. *How to model the effects of the Maritime Continent topography in a climate model*.
 
