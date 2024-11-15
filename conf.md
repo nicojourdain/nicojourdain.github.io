@@ -101,7 +101,7 @@ permalink: /conf/
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_07_IGS.png" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> International Symposium on Interactions of Ice Sheets and Glaciers with the Ocean (IGS), La Jolla, USA</b>, July 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P., <i>On the processes affecting melt rates underneath the Amundsen Sea ice shelves</i>. See <a href="https://www.arcus.org/events/arctic-calendar/24672">event description</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> International Glaciological Society (IGS) International Symposium on Interactions of Ice Sheets and Glaciers with the Ocean (IGS), La Jolla, USA</b>, July 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P., <i>On the processes affecting melt rates underneath the Amundsen Sea ice shelves</i>. See <a href="https://www.arcus.org/events/arctic-calendar/24672">event description</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
@@ -109,16 +109,32 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Journées scientifiques du CNFRA, Lyon, France</b>, May 2016: Jourdain, N., <i>Modélisation aux interfaces : état de l'art et défis à venir</i>. See <a href="http://cnfraa.org/IMG/pdf/resumes_cnfra_12js.pdf">program</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_MISOMIP.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Rising coastal seas on a Warming Earth II (MISOMIP), Abu Dhabi, United Arab Emirates</b>, May 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P., <i>On the processes affecting melt rates underneath the Amundsen Sea ice shelves</i>. </P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2015_IGS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> International Glaciological Society (IGS) International Symposium on Contemporary Ice-Sheet Dynamics, Cambridge, UK</b>, August 2015: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P., <i>Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_AMOS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Australian Meteorological and Oceanographic Society (AMOS) conference, Brisbane, Australia</b>, July 2015: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P., <i>Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2015_04_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2015: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P., <i>Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2015/EGU2015-6470-1.pdf">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_AG.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> </b>, <i> </i>. See <a href="">event description</a>.</P>
+</TD> </TR> </TABLE>
 
 {:/}
-
-* &#9824; **Rising coastal seas on a Warming Earth II, Abu Dhabi, United Arab Emirates**, May 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P. *On the processes affecting melt rates underneath the Amundsen Sea ice shelves*. See [Workshop website](http://nyuad.nyu.edu/en/news-events/abu-dhabi-events/2016/05/rising-coastal-seas-on-a-warming-earth-ii.html)
-
-* **International Glaciological Society (IGS) Symposium, Cambridge, UK**, August 2015: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries*. See [Proceedings](https://www.igsoc.org/symposia/2015/cambridge/proceedings/proceedings.html)
-
-* **Australian Meteorological and Oceanographic Society (AMOS) conference, Brisbane, Australia**, July 2015: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries*.
-
-* **European Geophysical Union (EGU) General Assembly, Vienna**, Austria, April 2015: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *Melting West Antarctic ice-shelves: role of coastal warming versus changes in cavity geometries*. See [Abstract](http://meetingorganizer.copernicus.org/EGU2015/EGU2015-6470-1.pdf)
 
 * &#9824; **Workshop for the West Antarctic Glacier Ocean Modelling, Abu Dhabi, United Arab Emirates**, October 2014: Jourdain, N. C., Mathiot, P., Durand, G., Le Sommer, J., Spence, P. *How to model coastal ocean warming around Antarctica?* See [workshop website](http://www.climate-cryosphere.org/activities/targeted/misomip/826-2014-kick-off#faqnoanchor) or [EOS paper](https://eos.org/wp-content/uploads/2015/11/15-Nov_Magazine.pdf?dd3e24)
 
