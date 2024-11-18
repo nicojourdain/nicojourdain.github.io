@@ -60,6 +60,11 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2019_10_TiPACCs_Bergen.jpeg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b>TiPACCs Kick-off Meeting, Bergen</b>, October 2019. See <a href="https://www.tipaccs.eu/tipaccs-kick-off-in-bergen/">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2019_06_FRISP.jpg" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Oxford, UK</b>, September 2019: Jourdain, N. C., <i>Uncertainty on future ice-shelf basal melt rates in Antarctica</i>. See <a href="https://www.bas.ac.uk/event/frisp-2019/">FRISP webpage</a>.</P>
 </TD> </TR> </TABLE>
@@ -75,7 +80,7 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
-<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2018_05_MISOMIP_UAE.jpg" /></P></TD>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2018_MISOMIP.jpeg" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Rising coastal seas on a Warming Earth III (MISOMIP), Abu Dhabi, United Arab Emirates</b>, May 2018: Jourdain, N. C., Favier, L., Merino, N., Durand, G., Gagliardini, O., Gillet-Chaulet, F., <i>Inter-comparison of melt parameterizations and coupled simulations in a MISOMIP-like framework</i>.</P>
 </TD> </TR> </TABLE>
 
@@ -110,7 +115,7 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
-<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_MISOMIP.png" /></P></TD>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2016_MISOMIP.jpeg" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Rising coastal seas on a Warming Earth II (MISOMIP), Abu Dhabi, United Arab Emirates</b>, May 2016: Jourdain, N. C.,  Mathiot, P., Vlug, A., Le Sommer, J., Durand, G., Merino, N., Spence, P., <i>On the processes affecting melt rates underneath the Amundsen Sea ice shelves</i>. </P>
 </TD> </TR> </TABLE>
 
