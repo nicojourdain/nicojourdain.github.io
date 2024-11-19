@@ -20,6 +20,11 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_02_freshwater.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b>Workshop on the ice-sheet freshwater in Earth System Models, online</b>, 11-13 February 2024. See <a href="https://doi.org/10.1029/2024EO240514">EOS article</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2023_10_TiPACCs_policy_brief.png" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Tipping Points in Antarctica: Towards Evidence-Based Policy, Brussel, Belgium</b>, October 2023: Jourdain, N. <i>On the need to consider ocean and ice sheets together</i>. See <a href="https://www.tipaccs.eu/wp-content/uploads/2023/09/Antarctic-Policy-Event-2023-agenda_02.pdf">program</a>.</P>
 </TD> </TR> </TABLE>
@@ -40,6 +45,11 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_TiPACCs_AG.jpg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs annual meeting, Grenoble</b>, June 2022. See <a href="https://www.tipaccs.eu/tipaccs-annual-meeting-2022/">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_04_EGU.png" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2022: Jourdain, N., Mathiot, P., Caillet, J., and Burgard, C., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://doi.org/10.5194/egusphere-egu22-10311">abstract</a>.</P>
 </TD> </TR> </TABLE>
@@ -47,6 +57,16 @@ permalink: /conf/
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_02_OSM.png" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ocean Science Meeting, online</b>, March 2022: Jourdain, N., Mathiot, P., Burgard, C., Caillet, J., <i>Twenty-first century projections of ice-shelf melt in the Amundsen Sea, Antarctica</i>. See <a href="https://osm2022.secure-platform.com/a/gallery/rounds/3/details/7228">abstract</a> and <a href="https://www.youtube.com/watch?v=df1IVYY4y2s">recorded presentation</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2021_TiPACCs_online.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs annuam meeting, online</b>, October 2021.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2020_TiPACCs_online.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TiPACCs annuam meeting, online</b>, October 2020.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
