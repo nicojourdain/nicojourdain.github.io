@@ -18,15 +18,15 @@ For publication metrics, see :
 
 76. Wiskandt, J. and **Jourdain, N. C.** (2024). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-2239](https://doi.org/10.5194/egusphere-2024-2239)
 
-75. Wohleber, A., Blouzon, C., Witwicky, J., Ginot, P., **Jourdain, N. C.** and Grilli, R. (2024). A membrane inlet laser spectrometer for in-situ measurement of triple water isotopologues. _submitted to Limnology and Oceanography: Methods_.
+75. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _submitted to Earth System Dynamics_. [doi:10.5194/egusphere-2024-128](https://doi.org/10.5194/egusphere-2024-128)
 
-74. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _submitted to Earth System Dynamics_. [doi:10.5194/egusphere-2024-128](https://doi.org/10.5194/egusphere-2024-128)
-
-73. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
+74. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
 
 ## Peer reviewed publications
 
 # 2024
+
+73. Wohleber, A., Blouzon, C., Witwicky, J., Ginot, P., **Jourdain, N. C.** and Grilli, R. (2024). A membrane inlet laser spectrometer for in-situ measurement of triple water isotopologues. _Limnology and Oceanography: Methods_. [doi:10.1002/lom3.10660](http://doi.org/10.1002/lom3.10660).
 
 72. Seroussi, H., Pelle, T., Lipscomb, W. H., Abe-Ouchi, A., Albrecht, T., Álvarez-Solas, J., Asay-Davis, X. Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Garbe, J., Gillet-Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T., Hoffman, M., Huybrechts, P., **Jourdain, N. C.**, Kristin Klose, A. K., Langebroek, P. M., Leguy, G. R., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Quiquet, A., Reese, R., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S., Wang, Y., Zhao, C., Zwinger, T. (2024). Evolution of the Antarctic Ice Sheet over the next three centuries from an ISMIP6 model ensemble. _Earth's Future_. [doi:10.1029/2024EF004561](http://doi.org/10.1029/2024EF004561).
 
