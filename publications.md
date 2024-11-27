@@ -213,6 +213,8 @@ For publication metrics, see :
 
 ## Other accademic publications
 
+* **Jourdain, N. C.** (2024). Les plateformes de glace d’Antarctique : De leur découverte à leur désintégration. _La Météorologie_, 127, 50-56. [doi:10.37053/lameteorologie-2024-0085](http://doi.org/10.37053/lameteorologie-2024-0085).
+
 * **Jourdain, N. C.** (2024). Antarctic ice shelves and their links with the climate system – Habilitation à Diriger des Recherches (HDR). University Grenoble Alpes & Zenodo. [doi:10.5281/zenodo.13830662](https://doi.org/10.5281/zenodo.13830662)
 
 * Rocha, M., **Jourdain, N.** and Smith, R. (2023). Modelling Ice sheets in Earth System Models: pushing the boundaries of our scientific and technical capabilities. _ESM2025 Research Highlight_, [doi:10.5281/zenodo.7691451](https://doi.org/10.5281/zenodo.7691451)
