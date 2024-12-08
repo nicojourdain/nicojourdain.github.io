@@ -184,21 +184,43 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> WRF workshop, Sydney, Australia</b>, February 2014: Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y., <i>Modelling the climate of the Maritime Continent</i>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_AMOS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Australian Meteorological and Oceanographic Society (AMOS) conference, Hobart, Australia</b>, February 2014: Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y., <i>How to model the effects of the Maritime Continent topography in a climate model</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2013_AOGS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Asia-Oceania Geoscience Society (AOGS) Annual Meeting, Brisbane, Australia</b>, June 2013: N. C. Jourdain, M. Lengaigne, J. Vialard, T. Izumo, A. Sen Gupta., <i>Influence of Indian Ocean Dipole on the following year's El Niño in the CMIP models: a physical relationship?</i>. See <a href="https://www.asiaoceania.org/aogs2013">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2013_04_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2013: Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Li, Y.,  Lengaigne, M., Vialard, J., Izumo, T., <i>The Indo-Australian monsoon and IOD-ENSO interactions in the CMIP models</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2013/EGU2013-7139.pdf">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_AMOS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Australian Meteorological and Oceanographic Society (AMOS) conference, Melbourne, Australia</b>, February 2013: Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K., <i>The Indo-Australian monsoon and IOD-ENSO interactions in the CMIP models</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2013_CLIVAR.jpeg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> 3rd CLIVAR workshop on the Evaluation of ENSO processes in climate models, Hobart, Australia</b>, January 2013: N. C. Jourdain, M. Lengaigne, J. Vialard, T. Izumo, A. Sen Gupta, <i>Influence of IOD on the following year’s El Niño: robustness across the CMIP models?</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2012_CAWCR.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> 6th Annual CAWCR Workshop, Melbourne, Australia</b>, November 2012: Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K., <i>The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations</i>. See <a href="http://www.cawcr.gov.au/technical-reports/CTR_056.pdf">extended abstracts</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_21012_Nanjing.jpg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> International CLIVAR Workshop on interdecadal variability of the global monsoons, Nanjing, China</b>, September 2012: Jourdain, N. C., Sen Gupta, A., Li, Y., Taschetto, A. S. and Ummenhofer, C. C., <i>Variability of the Tropospheric Biennial Oscillation</i>. See <a href="https://www.clivar.org/panels-and-working-groups/aamp/event/interdecadal-variability-of-the-global-monsoons-workshop">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+
 {:/}
-
-* **Australian Meteorological and Oceanographic Society (AMOS) conference, Hobart, Australia**, February 2014: Jourdain, N. C., Sen Gupta, A., Masson, S., Li, Y. *How to model the effects of the Maritime Continent topography in a climate model*.
-
-* **Asia-Oceania Geoscience Society (AOGS) Annual Meeting, Brisbane, Australia**, June 2013: N. C. Jourdain, M. Lengaigne, J. Vialard, T. Izumo, A. Sen Gupta. *Influence of Indian Ocean Dipole on the following year's El Niño in the CMIP models: a physical relationship?*
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2013: Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Li, Y.,  Lengaigne, M., Vialard, J., Izumo, T. *The Indo-Australian monsoon and IOD-ENSO interactions in the CMIP models*. See [Abstract](http://meetingorganizer.copernicus.org/EGU2013/EGU2013-7139.pdf)
-
-* **Australian Meteorological and Oceanographic Society (AMOS) conference, Melbourne, Australia**, February 2013: Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. *The Indo-Australian monsoon and IOD-ENSO interactions in the CMIP models.*
-
-* **3rd CLIVAR workshop on the Evaluation of ENSO processes in climate models, Hobart, Australia**, January 2013: N. C. Jourdain, M. Lengaigne, J. Vialard, T. Izumo, A. Sen Gupta. *Influence of IOD on the following year’s El Niño: robustness across the CMIP models?*
-
-* &#9824; **6th Annual CAWCR Workshop, Melbourne, Australia**, November 2012: Jourdain, N. C., Sen Gupta, A., Taschetto, A. S., Ummenhofer, C. M., Moise, A. and Ashok, K. *The Indo-Australian monsoon and its relationship to ENSO and IOD in reanalysis data and the CMIP3/CMIP5 simulations*. See [Extended Abstracts](http://www.cawcr.gov.au/technical-reports/CTR_056.pdf)
-
-* **International CLIVAR Workshop on interdecadal variability of the global monsoons, Nanjing, China**, September 2012: Jourdain, N. C., Sen Gupta, A., Li, Y., Taschetto, A. S. and Ummenhofer, C. C.. *Variability of the Tropospheric Biennial Oscillation*. See [more about the workhsop](http://www.clivar.org/panels-and-working-groups/aamp/event/interdecadal-variability-of-the-global-monsoons-workshop)
 
 * **Australian Meteorological and Oceanographic Society (AMOS) conference, Sydney, Australia**, February 2012: Jourdain, N. C., Vincent, E. M., Lengaigne, M., Vialard, J., Madec, G., Menkes, C. E., Jullien, S. Samson, G., Barnier, B. *Influence of ocean and rainfall on the intensity of tropical cyclones*, AMOS Annual Conf., 10.5, p.175.
 
