@@ -219,18 +219,37 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> International CLIVAR Workshop on interdecadal variability of the global monsoons, Nanjing, China</b>, September 2012: Jourdain, N. C., Sen Gupta, A., Li, Y., Taschetto, A. S. and Ummenhofer, C. C., <i>Variability of the Tropospheric Biennial Oscillation</i>. See <a href="https://www.clivar.org/panels-and-working-groups/aamp/event/interdecadal-variability-of-the-global-monsoons-workshop">event description</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_AMOS.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Australian Meteorological and Oceanographic Society (AMOS) conference, Sydney, Australia</b>, February 2012: Jourdain, N. C., Vincent, E. M., Lengaigne, M., Vialard, J., Madec, G., Menkes, C. E., Jullien, S. Samson, G., Barnier, B., <i>Influence of ocean and rainfall on the intensity of tropical cyclones</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2010_AGU.jpeg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> American Geophysical Union (AGU) Fall Meeting, San Francisco, USA</b>, December 2010: Jourdain; N. C., Barnier, B. and Molines, J. and Chanut, J. and Ferry, N. and Garric, G. and Parent, L., <i>Deep convection in the Labrador Sea, as captured by a global ocean reanalysis and regional downscalings</i>. See <a href="http://adsabs.harvard.edu/abs/2010AGUFMOS54B..07J">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2010_MYOCEAN.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> MYOCEAN Science Days, Toulouse, France</b>, December 2010, Jourdain, N. C., Barnier, B., Le Sommer, J., Ferry, N. and Mercator team, <i>Deep convection in the Labrador Sea, as captured by a global ocean reanalysis and regional downscalings</i>. See <a href="https://marine.copernicus.eu/sites/default/files/wp-content/uploads/2016/06/r71_9_msd2010_agenda_and_access_to_abstracts.pdf">program</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2010_05_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, May 2010: Jourdain; N. C., Mathiot, P., Gallée, H. and Barnier, B., <i>Influence of ocean - sea ice - atmosphere feedbacks in Antarctica</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2443.pdf">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2010_05_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, May 2010: Jourdain N. C., Marchesiello, P., Menkes, C. E., Lefèvre, J., Vincent, E., Lengaigne,M., Chauvin, F., <i>Origin of the interannual variability of tropical cyclones activity in the South Pacific</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2605.pdf">abstract</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2010_05_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, May 2010: Jourdain, N. C.; Barnier, B., Le Sommer, J., Molines, J.-M., Chanut, J., Ferry, N. and Mercator Team, <i>What can we learn about deep convection in the Labrador Sea using increments of an ocean reanalysis ?</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2438.pdf">abstract</a>.</P>
+</TD> </TR> </TABLE>
 
 {:/}
-
-* **Australian Meteorological and Oceanographic Society (AMOS) conference, Sydney, Australia**, February 2012: Jourdain, N. C., Vincent, E. M., Lengaigne, M., Vialard, J., Madec, G., Menkes, C. E., Jullien, S. Samson, G., Barnier, B. *Influence of ocean and rainfall on the intensity of tropical cyclones*, AMOS Annual Conf., 10.5, p.175.
-
-* **American Geophysical Union (AGU) Fall Meeting, San Francisco, USA**, December 2010: Jourdain; N. C., Barnier, B. and Molines, J. and Chanut, J. and Ferry, N. and Garric, G. and Parent, L. *Deep convection in the Labrador Sea, as captured by a global ocean reanalysis and regional downscalings*. AGU Fall Meet. Abs. 1:7. See [Abstract](http://adsabs.harvard.edu/abs/2010AGUFMOS54B..07J)
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, May 2010: Jourdain; N. C., Mathiot, P., Gallée, H. and Barnier, B. *Influence of ocean - sea ice - atmosphere feedbacks in Antarctica*, Geophys. Res. Abstracts, 12:2443. See [Abstract](http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2443.pdf)
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, May 2010: Jourdain N. C., Marchesiello, P., Menkes, C. E., Lefèvre, J., Vincent, E., Lengaigne,M., Chauvin, F. *Origin of the interannual variability of tropical cyclones activity in the South Pacific*, Geophys. Res. Abstracts, 12:2605. See [Abstract](http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2605.pdf)
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, May 2010: Jourdain, N. C.; Barnier, B., Le Sommer, J., Molines, J.-M., Chanut, J., Ferry, N. and Mercator Team. *What can we learn about deep convection in the Labrador Sea using increments of an ocean reanalysis ?*, Geophys. Res. Abstracts, 12:2438. See [Abstract](http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2438.pdf)
 
 * **DRAKKAR/MYOCEAN WP3 Annual Workshop, Grenoble, France**, February 2010: Jourdain, N. C., Barnier, B., Le Sommer, J., Ferry, N. and Mercator team. *What can we learn about deep convection in the Labrador Sea using increments of an ocean reanalysis?*
 
