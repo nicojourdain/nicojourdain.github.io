@@ -249,15 +249,25 @@ permalink: /conf/
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, May 2010: Jourdain, N. C.; Barnier, B., Le Sommer, J., Molines, J.-M., Chanut, J., Ferry, N. and Mercator Team, <i>What can we learn about deep convection in the Labrador Sea using increments of an ocean reanalysis ?</i>. See <a href="http://meetingorganizer.copernicus.org/EGU2010/EGU2010-2438.pdf">abstract</a>.</P>
 </TD> </TR> </TABLE>
 
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2009_Corfu.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> 2nd International Summit on Hurricanes and Climate Change, Corfou, Greece</b>, June 2009: Jourdain, N. C., Marchesiello, P., Menkes, C. E., Lefèvre, J., Vincent, E., Lengaigne, M., Chauvin, F., and Royer, J.-F., <i>Origin of the interannual variability of tropical cyclones genesis over the South Pacific Ocean</i>. See <a href="https://www.aegeanconferences.org/src/App/conferences/view/44">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2008_Cairns.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Western Pacific Geophysics Meeting, Cairns, Australia</b>, July 2008: Jourdain N., Marchesiello, P., Menkes, C. E., Lefevre, J., Chauvin, F., Royer, J.-F., <i>South West Pacific cyclones simulations with a regional atmospheric model</i>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2007_04_EGU.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> European Geophysical Union (EGU) General Assembly, Vienna, Austria</b>, April 2007: Jourdain N. and Gallée H., <i>Atmosphere - sea ice - ocean interactions in the Ross Sea sector, Antarctica</i>. See <a href="http://www.cosis.net/abstracts/EGU2007/01532/EGU2007-J-01532.pdf">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2005_08_EPLWG.jpg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> 10th European Polar Lows Working Group Workshop, Tromsø, Norway</b>, September 2005: Jourdain, N. and Gallée, H.<i> </i></P>
+</TD> </TR> </TABLE>
+
 {:/}
-
-* **DRAKKAR/MYOCEAN WP3 Annual Workshop, Grenoble, France**, February 2010: Jourdain, N. C., Barnier, B., Le Sommer, J., Ferry, N. and Mercator team. *What can we learn about deep convection in the Labrador Sea using increments of an ocean reanalysis?*
-
-* **2nd International Summit on Hurricanes and Climate Change, Corfou, Greece**, June 2009: Jourdain, N. C., Marchesiello, P., Menkes, C. E., Lefèvre, J., Vincent, E., Lengaigne, M., Chauvin, F., and Royer, J.-F., *Origin of the interannual variability of tropical cyclones genesis over the South Pacific Ocean*.
-
-* **Western Pacific Geophysics Meeting, Cairns, Australia**, July 2008: Jourdain N., Marchesiello, P., Menkes, C. E., Lefevre, J., Chauvin, F., Royer, J.-F., *South West Pacific cyclones simulations with a regional atmospheric model*, Eos Trans. AGU, 89:23.
-
-* **European Geophysical Union (EGU) General Assembly, Vienna, Austria**, April 2007: Jourdain N. and Gallée H., *Atmosphere - sea ice - ocean interactions in the Ross Sea sector, Antarctica*, Geophys. Res. Abstracts, 9:1532. See [Abstract](http://www.cosis.net/abstracts/EGU2007/01532/EGU2007-J-01532.pdf)
-
-* **10th European Polar Lows Working Group Workshop, Tromsø, Norway**, September 2005: Jourdain, N. and Gallée, H.: *Mesoscale simulations over the Ross Sea with the regional climate model MAR*.
 
