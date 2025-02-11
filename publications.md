@@ -18,11 +18,13 @@ For publication metrics, see :
 
 76. Wiskandt, J. and **Jourdain, N. C.** (2024). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-2239](https://doi.org/10.5194/egusphere-2024-2239)
 
-75. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _submitted to Earth System Dynamics_. [doi:10.5194/egusphere-2024-128](https://doi.org/10.5194/egusphere-2024-128)
-
-74. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
-
 ## Peer reviewed publications
+
+# 2025
+
+75. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2024). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _The Cryosphere, accepted_. [doi:10.5194/egusphere-2024-58](https://doi.org/10.5194/egusphere-2024-58)
+
+74. Caillet, J., **Jourdain, N. C.**, Mathiot, P., Gillet-Chaulet, F., Urruty, B., Burgard, C., Amory, C., Kittel, C. and Chekki, M. (2024). Uncertainty in the projected Antarctic contribution to sea level due to internal climate variability. _Earth System Dynamics, accepted_. [doi:10.5194/egusphere-2024-128](https://doi.org/10.5194/egusphere-2024-128)
 
 # 2024
 
