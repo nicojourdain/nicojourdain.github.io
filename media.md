@@ -12,7 +12,7 @@ permalink: /media/
 
 ## Media reporting on our research topics
 
-* **Libération**: A la dérive - De 1986 à 2025, l’odyssée antarctique du méga iceberg A23a, qui menace les manchots de Géorgie du Sud (Julie Renson Miquel, Janvier 2025). See [online article](https://www.liberation.fr/environnement/biodiversite/de-1986-a-2025-lodyssee-antarctique-du-mega-iceberg-a23a-qui-menace-les-manchots-de-georgie-du-sud-20250202_NCTUWCXHEJFCVID35N5D5RK2QY/).
+* **Libération**: A la dérive - De 1986 à 2025, l’odyssée antarctique du méga iceberg A23a, qui menace les manchots de Géorgie du Sud (Julie Renson Miquel, February 2025). See [online article](https://www.liberation.fr/environnement/biodiversite/de-1986-a-2025-lodyssee-antarctique-du-mega-iceberg-a23a-qui-menace-les-manchots-de-georgie-du-sud-20250202_NCTUWCXHEJFCVID35N5D5RK2QY/).
 
 * **France Inter**: La Terre au carré - À l'écoute des icebergs (Mathieu Vidard, April 2024). [Listen online](https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mardi-23-avril-2024-4420496).
 
