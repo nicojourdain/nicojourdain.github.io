@@ -15,6 +15,11 @@ permalink: /conf/
 {::nomarkdown}
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_PROTECT_2025.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> PROTECT Final meeting, Marche-en-Famenne, Belgium</b>, January 2025.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2024_06_ISMIP7.jpg" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Ice Sheet Model Intercomparison Project for CMIP7 (ISMIP7) Workshop, Algonkian Regional Park, VA, USA</b>, June 2024: Presentations on MISOMIP2 and on the parameterisation of ocean ice-sheet interactions in Antarctica. See <a href="https://arts-sciences.buffalo.edu/geological-and-climate-hazards/news-events/latest-news/ice-sheet-model-intercomparison-project-for-cmip7-2024-workshop.html">event description</a>.</P>
 </TD> </TR> </TABLE>
