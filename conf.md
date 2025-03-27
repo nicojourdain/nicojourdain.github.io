@@ -60,6 +60,11 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_TRACCS_KO_Jussieu.jpeg" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> TRACCS kick-off meeting, Paris, France</b>, March 2023.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2022_10_PROTECT_AG.png" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> PROTECT Fall Meeting, Grenoble, France</b>, October 2022.</P>
 </TD> </TR> </TABLE>
@@ -280,4 +285,3 @@ permalink: /conf/
 </TD> </TR> </TABLE>
 
 {:/}
-
