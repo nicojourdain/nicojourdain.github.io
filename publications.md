@@ -16,9 +16,11 @@ For publication metrics, see :
 
 ## Submitted papers
 
-78. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations.
+79. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Submitted to Journal of Geophysical Research - Oceans_
 
-77. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2025). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). 
+78. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Submitted to Geoscientific Model Development_.
+
+77. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2025). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _Submitted to The Cryosphere_.
 
 76. Wiskandt, J. and **Jourdain, N. C.** (2025). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2024-2239](https://doi.org/10.5194/egusphere-2024-2239)
 
