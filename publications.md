@@ -16,7 +16,9 @@ For publication metrics, see :
 
 ## Submitted papers
 
-79. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Submitted to Journal of Geophysical Research - Oceans_
+80. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2025). Disentangling Antarctic meltwater-induced changes from ocean internal variability. _Submitted to Journal of Geophysical Research - Oceans_.
+
+79. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Submitted to Journal of Geophysical Research - Oceans_.
 
 78. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Submitted to Geoscientific Model Development_.
 
