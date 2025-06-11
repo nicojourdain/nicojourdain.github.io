@@ -28,6 +28,11 @@ To **extract a variable** (here ST2) into another file:
 cdo -selname,ST2 file_in.nc file_out.nc
 ```
 
+To **remove a variable** (here ST2) into another file:
+```shell
+cdo -delname,ST2 file_in.nc file_out.nc
+```
+
 To **set time attributes**:
 ```shell
 cdo setreftime,1900-06-15,12:00:00,1year -settaxis,2015-06-15,12:00:00,1year -setcalendar,standard file_in.nc file_out.nc
