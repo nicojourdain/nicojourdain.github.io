@@ -16,7 +16,9 @@ For publication metrics, see :
 
 ## Submitted papers
 
-81. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _Submitted to The Cryosphere_.
+82. Vallot, D., Jourdain, N. C. and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
+
+81. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2423](https://doi.org/10.5194/egusphere-2025-2423)
 
 80. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2025). Disentangling Antarctic meltwater-induced changes from ocean internal variability. _Submitted to Journal of Geophysical Research - Oceans_.
 
@@ -30,7 +32,7 @@ For publication metrics, see :
 
 # 2025
 
-76. Wiskandt, J. and **Jourdain, N. C.** (2025). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _The Cryosphere, accepted_. [doi:10.5194/egusphere-2024-2239](https://doi.org/10.5194/egusphere-2024-2239)
+76. Wiskandt, J. and **Jourdain, N. C.** (2025). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _The Cryosphere_, 19, 3253–3258. [doi:10.5194/tc-19-3253-2025](https://doi.org/10.5194/tc-19-3253-2025)
 
 75. **Jourdain, N. C.**, Amory, C., Kittel, C. and Durand, G. (2025). Changes in Antarctic surface conditions and potential for ice shelf hydrofracturing from 1850 to 2200. _The Cryosphere_, 19, 1641–1674. [doi:10.5194/tc-19-1641-2025](https://doi.org/10.5194/tc-19-1641-2025)
 
