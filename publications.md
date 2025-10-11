@@ -16,13 +16,13 @@ For publication metrics, see :
 
 ## Submitted papers
 
+83. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2025). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_.
+
 82. Vallot, D., Jourdain, N. C. and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
 
 81. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2423](https://doi.org/10.5194/egusphere-2025-2423)
 
 80. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2025). Disentangling Antarctic meltwater-induced changes from ocean internal variability. _Submitted to Journal of Geophysical Research - Oceans_.
-
-79. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Submitted to Journal of Geophysical Research - Oceans_. [doi:10.22541/au.174838305.51204729/v1](https://doi.org/10.22541/au.174838305.51204729/v1)
 
 78. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Submitted to Geoscientific Model Development_. [doi:10.5194/egusphere-2025-1940](https://doi.org/10.5194/egusphere-2025-1940)
 
@@ -31,6 +31,8 @@ For publication metrics, see :
 ## Peer reviewed publications
 
 # 2025
+
+77. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Journal of Geophysical Research - Oceans_, 30(10), e2025JC022857. [doi:10.1029/2025JC022857](http://dx.doi.org/10.1029/2025JC022857)
 
 76. Wiskandt, J. and **Jourdain, N. C.** (2025). Brief Communication: Representation of heat conduction into the ice in marine ice shelf melt modeling. _The Cryosphere_, 19, 3253–3258. [doi:10.5194/tc-19-3253-2025](https://doi.org/10.5194/tc-19-3253-2025)
 
@@ -44,7 +46,7 @@ For publication metrics, see :
 
 72. Seroussi, H., Pelle, T., Lipscomb, W. H., Abe-Ouchi, A., Albrecht, T., Álvarez-Solas, J., Asay-Davis, X. Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton-Fenzi, B. K., Garbe, J., Gillet-Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T., Hoffman, M., Huybrechts, P., **Jourdain, N. C.**, Kristin Klose, A. K., Langebroek, P. M., Leguy, G. R., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Quiquet, A., Reese, R., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S., Wang, Y., Zhao, C., Zwinger, T. (2024). Evolution of the Antarctic Ice Sheet over the next three centuries from an ISMIP6 model ensemble. _Earth's Future_, 12(9), e2024EF004561. [doi:10.1029/2024EF004561](http://doi.org/10.1029/2024EF004561).
 
-71. De Rydt, J., **Jourdain, N. C.**, Nakayama, Y., van Caspel, M., Timmermann, R., Mathiot, P., Asay-Davis, X. S., Seroussi, H., Dutrieux, P., Galton-Fenzi, B., Holland, D., and Reese, R. (2024). Experimental design for the marine ice sheet and ocean model intercomparison project - phase 2 (MISOMIP2). _Geophysical Model Development_, 17, 7105–7139. [doi:10.5194/egusphere-2024-95](https://doi.org/10.5194/egusphere-2024-95)
+71. De Rydt, J., **Jourdain, N. C.**, Nakayama, Y., van Caspel, M., Timmermann, R., Mathiot, P., Asay-Davis, X. S., Seroussi, H., Dutrieux, P., Galton-Fenzi, B., Holland, D., and Reese, R. (2024). Experimental design for the marine ice sheet and ocean model intercomparison project - phase 2 (MISOMIP2). _Geophysical Model Development_, 17, 7105–7139. [doi:10.5194/gmd-17-7105-2024](https://doi.org/10.5194/gmd-17-7105-2024).
 
 # 2023
 
