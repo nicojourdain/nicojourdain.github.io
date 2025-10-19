@@ -75,6 +75,7 @@ To run simple operations, e.g. on multi-dimensional 'toce' variable:
 ```python
 tID=nc1.toce.get_axis_num('time') # gives integer corresponding to the 'time' axis
 mean_sst=nc1.toce.mean(axis=tID)  # equivalent to nc1.toce.mean(axis=0)
+mean_sst=nc1.toce.mean('time')    # same as above
 meanT=nc1.toce.mean()
 minT=nc1.toce.min(skipna=True)
 heat_content=(nc1.toce*nc1.e3t).sum('z')
