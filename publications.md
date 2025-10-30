@@ -24,13 +24,15 @@ For publication metrics, see :
 
 80. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2025). Disentangling Antarctic meltwater-induced changes from ocean internal variability. _Submitted to Journal of Geophysical Research - Oceans_.
 
-78. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Submitted to Geoscientific Model Development_. [doi:10.5194/egusphere-2025-1940](https://doi.org/10.5194/egusphere-2025-1940)
+80. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Submitted to Geoscientific Model Development_. [doi:10.5194/egusphere-2025-1940](https://doi.org/10.5194/egusphere-2025-1940)
 
-77. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2025). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _Submitted to The Cryosphere_.
+79. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2025). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _Submitted to The Cryosphere_.
 
 ## Peer reviewed publications
 
 # 2025
+
+78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
 
 77. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Journal of Geophysical Research - Oceans_, 30(10), e2025JC022857. [doi:10.1029/2025JC022857](http://dx.doi.org/10.1029/2025JC022857)
 
