@@ -42,4 +42,4 @@ These results have been reported in _Le Monde_ by Lea Sanchez, [here in French](
 
 ## Funding
 
-This research was possible thanks to the leadership of @clara, to the strong involvement of several talented early career researchers, and to a perfect alignment of circumstances in terms of project funding: PEPR-TRACCS, ANR-AIAI, EU-PROTECT, EU-OCEAN:ICE, EU-CRiceS and by the long-term support of CNRS-INSU, UGA and IGE.
+This research was made possible thanks to a perfect alignment of circumstances in terms of project funding: UGA-IRGA, PEPR-TRACCS, ANR-AIAI, EU-PROTECT, EU-OCEAN:ICE, EU-CRiceS and by the long-term support of CNRS-INSU, UGA-OSUG and IGE.
