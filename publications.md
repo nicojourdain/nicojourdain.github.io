@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+84. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2025). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_.
+
 83. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2025). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
 
 82. Vallot, D., Jourdain, N. C. and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
