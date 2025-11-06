@@ -16,11 +16,11 @@ For publication metrics, see :
 
 ## Submitted papers
 
-84. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2025). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_.
+84. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2025). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_. [doi:10.22541/essoar.176218943.36540527/v1](https://doi.org/10.22541/essoar.176218943.36540527/v1)
 
 83. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2025). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
 
-82. Vallot, D., Jourdain, N. C. and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
+82. Vallot, D., **Jourdain, N. C.** and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
 
 81. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2423](https://doi.org/10.5194/egusphere-2025-2423)
 
@@ -34,7 +34,7 @@ For publication metrics, see :
 
 # 2025
 
-78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
+78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w) [Sharedit link](https://rdcu.be/eNkZa) (See also the Briefing [doi](https://doi.org/10.1038/d41586-025-03581-9), [Sharedit](https://rdcu.be/eOtPR))
 
 77. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Journal of Geophysical Research - Oceans_, 30(10), e2025JC022857. [doi:10.1029/2025JC022857](http://dx.doi.org/10.1029/2025JC022857)
 
@@ -232,6 +232,8 @@ For publication metrics, see :
 * Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43. [See article](http://www.bom.gov.au/research/publications/cawcrreports/CTR_056.pdf)
 
 ## Other accademic publications
+
+* **Jourdain, N. C.** and Burgard, C. (2025). Most Antarctic ice shelves are set to disappear if greenhouse-gas emissions remain high. _Nature Briefing_. [doi:10.1038/d41586-025-03581-9](https://doi:10.1038/d41586-025-03581-9) [Sharedit link](https://rdcu.be/eOtPR)
 
 * **Jourdain, N. C.** (2024). Les plateformes de glace d’Antarctique : De leur découverte à leur désintégration. _La Météorologie_, 127, 50-56. [doi:10.37053/lameteorologie-2024-0085](http://doi.org/10.37053/lameteorologie-2024-0085).
 
