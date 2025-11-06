@@ -34,7 +34,7 @@ For publication metrics, see :
 
 # 2025
 
-78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w) [Sharedit link](https://rdcu.be/eNkZa) (See also the Briefing [doi](https://doi.org/10.1038/d41586-025-03581-9), [Sharedit](https://rdcu.be/eOtPR))
+78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_, 647, 102–108. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w) [Sharedit link](https://rdcu.be/eNkZa) (See also the Briefing [doi](https://doi.org/10.1038/d41586-025-03581-9), [Sharedit](https://rdcu.be/eOtPR))
 
 77. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Journal of Geophysical Research - Oceans_, 30(10), e2025JC022857. [doi:10.1029/2025JC022857](http://dx.doi.org/10.1029/2025JC022857)
 

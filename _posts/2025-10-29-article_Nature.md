@@ -12,7 +12,9 @@ A wonderful collaboration with talented early career researchers in Grenoble (_L
 
 ## Reference
 
-Burgard, C., Jourdain, N. C., Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
+Burgard, C., Jourdain, N. C., Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_, 647, 102–108. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w)
+
+A summary can also be found in _Nature Briefing_: [doi:10.1038/d41586-025-03581-9](https://doi.org/10.1038/d41586-025-03581-9) 
 
 ## Summary
 
