@@ -257,3 +257,8 @@ For publication metrics, see :
 
 * Nicolas Jourdain and Cécile Agosta (edited by Maylis Gaillard), March 2019: Fonte des glaces et climat, que se trame-t-il en Antarctique ?, _The Conversation - France_ [See article](https://theconversation.com/fonte-des-glaces-et-climat-que-se-trame-t-il-en-antarctique-113446)
 
+## Policy Briefs
+
+* Chapuis, A., Durand, G., Ballestros-Martinez, C., Champollion, N., Edwards, T., Hinkel, J., Heslop, F., Huss, M., **Jourdain, N.**, Klose, A. K., Lincke, D., Malagón-Santos, V., Marzeion, B., Mottram, R., Nicholls, R., Pattyn, F., Slangen, A., Thiéblemont, R., van den Broeke, M. R., Völz, V., Winkelmann, R., Zekollari, H. (2025). Adapting to the changing cryosphere and sea-level rise: recommendations. _Zenodo_. [doi:10.5281/zenodo.14650681](https://doi.org/10.5281/zenodo.14650681)
+
+
