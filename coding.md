@@ -22,6 +22,8 @@ permalink: /coding/
 
 * [Running **NEMO4.2 on Irene-Rome (TGCC)**](/coding_dir/coding_nemo4.2_tgcc.md).
 
+* [Running **CROCO on Irene-Rome (TGCC)**](/coding_dir/coding_croco_tgcc.md).
+
 
 Obsolete:
 
