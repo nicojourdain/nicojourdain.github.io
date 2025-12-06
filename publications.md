@@ -36,7 +36,7 @@ For publication metrics, see :
 
 79. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Burgard, C., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Geoscientific Model Development_, 18, 8333–8361, [doi:10.5194/gmd-18-8333-2025](https://doi.org/10.5194/gmd-18-8333-2025)
 
-78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_, 647, 102–108. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w) [Sharedit link](https://rdcu.be/eNkZa) (See also the Briefing [doi](https://doi.org/10.1038/d41586-025-03581-9), [Sharedit](https://rdcu.be/eOtPR))
+78. Burgard, C., **Jourdain, N. C.**, Mosbeux, C., Caillet, J., Mathiot, P., Kittel, C. (2025). Ocean warming threatens the viability of 60% of Antarctic ice shelves. _Nature_, 647, 102–108. [doi:10.1038/s41586-025-09657-w](https://doi.org/10.1038/s41586-025-09657-w), [Sharedit link](https://rdcu.be/eNkZa) (See also the Briefing [doi](https://doi.org/10.1038/d41586-025-03581-9), [Sharedit](https://rdcu.be/eOtPR))
 
 77. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., Holland, P. R., Gascoin, S., Rousset, C. (2025). Iceberg grounding enhances the release of freshwater on the Antarctic continental shelf. _Journal of Geophysical Research - Oceans_, 30(10), e2025JC022857. [doi:10.1029/2025JC022857](http://dx.doi.org/10.1029/2025JC022857)
 
