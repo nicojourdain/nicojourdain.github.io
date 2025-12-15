@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-86. Vancoppenolle, M., **Jourdain, N. C.**, Fichefet, T., Fraser, A. D., Massonnet, F., Mathiot, P., Madec, G., Mehlmann, C., Abelló, A. O., Atwater, D. P., Berthet, S., Billy, C., Brearley, A., Delfieu, J., Kostov, Y., Lemaire, E., Marson, J. M., Petit, J., Pirlet, N., Wongpan, P., Burgard, C., de Lavergne, C., Holland, P. R., Hutchinson, K., Noël, M., Ortega, E., Piedagnel, E., Rampal, P., Rousset, C., Sallée, J.-B., Thomas, M. (2025). Why icebergs and their interactions with sea ice should be included in Earth system models? _Submitted to Bulletin of the American Meteorological Society_. [hal-05397165v1](https://hal.science/hal-05397165v1)
+86. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2025). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Submitted to Journal of Advances in Modeling Earth Systems_
 
 85. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2025). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_. [doi:10.22541/essoar.176218943.36540527/v1](https://doi.org/10.22541/essoar.176218943.36540527/v1)
 
@@ -234,6 +234,8 @@ For publication metrics, see :
 * Taschetto, A., Li, Y., **Jourdain, N. C.** and Sen Gupta, A. Modulation of monsoon activity by tropical Pacific variability and climate model fidelity apologies. 6th Annual CAWCR Workshop, Melbourne, Australia, November 2012. _In: CAWCR Technical Report No. 56_, pp. 42-43. [See article](http://www.bom.gov.au/research/publications/cawcrreports/CTR_056.pdf)
 
 ## Other accademic publications
+
+* Vancoppenolle, M., **Jourdain, N. C.**, Fichefet, T., Fraser, A. D., Massonnet, F., Mathiot, P., Madec, G., Mehlmann, C., Abelló, A. O., Atwater, D. P., Berthet, S., Billy, C., Brearley, A., Delfieu, J., Kostov, Y., Lemaire, E., Marson, J. M., Petit, J., Pirlet, N., Wongpan, P., Burgard, C., de Lavergne, C., Holland, P. R., Hutchinson, K., Noël, M., Ortega, E., Piedagnel, E., Rampal, P., Rousset, C., Sallée, J.-B., Thomas, M. (2025). Why icebergs and their interactions with sea ice should be included in Earth system models? _Bulletin of the American Meteorological Society_. [hal-05397165v1](https://hal.science/hal-05397165v1)
 
 * **Jourdain, N. C.** and Burgard, C. (2025). Most Antarctic ice shelves are set to disappear if greenhouse-gas emissions remain high. _Nature Briefing_. [doi:10.1038/d41586-025-03581-9](https://doi:10.1038/d41586-025-03581-9) [Sharedit link](https://rdcu.be/eOtPR)
 
