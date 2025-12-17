@@ -164,10 +164,15 @@ touch file1
 
 To find your IP address (4 numbers giving the address of your host), try on of these commands:
 ```shell
-/sbin/ifconfig
+/sbin/ifconfig 
 ip addr show
 ```
 or visit [monippublique.com](http://www.monippublique.com).
+
+To find the mac address: 
+```shell      
+/sbin/ifconfig  # look for en0 or en1
+```
 
 To find the server name associated with an IP address ("your_IP"), you can try one of these commands:
 ```shell
