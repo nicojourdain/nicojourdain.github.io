@@ -98,6 +98,8 @@ cp -p $WORKDIR/Run_croco_save/crocotools_param.m
 vi crocotools_param.m
 ```
 
+### 4a- Create the grid(s)
+
 To create the grid of the parent domain:
 ```bash
 module load matlab
@@ -106,14 +108,77 @@ matlab -nodesktop
         >> make_grid
                 % Do you want to link the GSHHS data coastlines (+ borders and rivers) ? y
                 % Do you want to use interactive grid maker ? y
-                        # Updated values for Saigon_LR:
-                        # xsize = 342
-                        # ysize = 312
-                        # Rotation = 30
+                        # Updated values for Saigon_LR (2km resolution):
+                        # xsize = 320
+                        # ysize = 344
+                        # Rotation = 20
                         # Longitu = 106.75
-                        # Latitude = 9.8
+                        # Latitude = 10.2
                 % Do you want to use editmask ? y
                         # turn the part of the Gulf of Thailand into land
         >> exit
 ls -al CROCO_FILES/croco_grid.nc
 ```
+
+To create the grid of the child domain(s), check [this page](https://croco-ocean.gitlabpages.inria.fr/croco_doc/tutos/tutos.12.nesting.html), then:
+```bash
+module load matlab
+matlab -nodesktop
+        >> start
+        >> nestgui
+```
+
+### 4b- Create the atmospheric forcing
+
+To extract the surface conditions from ERA5, start doing this **on spirit** :
+```bash
+cd /scratchu/njourdain/croco_tools-v2.1.0/Aforc_ERA5
+vi era5_crocotools_param.py # adapt everything (for direct ERA5 download on some pre-defined lon-lat domain which can be larger than the grid)
+submit_python.sh ERA5_request.py 24 32
+cd ../DATA
+ls -al ERA5_native_Vietnam # or other name
+rsync -av --chmod=Dg+s --chown=:gen6035 ERA5_native_Vietnam jourdain@irene-amd-fr.ccc.cea.fr:/ccc/work/cont003/gen6035/jourdain/DATASETS_CROCOTOOLS/.
+```
+Then, on Irene-rome:
+```bash
+cd ${SCRATCHDIR}/run_croco/Run_Saigon_01
+vi crocotools_param.m # adapt My_ERA5_dir
+vi ${WORKDIR}/models/croco_tools-v2.1.0/Aforc_ERA5/era5_crocotools_param.py #adapt everything 
+cd ${WORKDIR}/models/croco_tools-v2.1.0/Aforc_ERA5
+python ERA5_convert.py
+ls /ccc/scratch/cont003/gen6035/jourdain/run_croco/Run_Saigon_01/DATA/ERA5_Saigon_LR/
+```
+
+### 4c- Create the lateral boundary conditions
+
+To extract the lateral boundary consitions from GLORYS12, start doing this **on spirit** :
+```bash
+cd /scratchu/njourdain/croco_tools-v2.1.0/Oforc_OGCM
+```
+
+Then, at first use of this script, use the following command lines to put the right header in the existing bash script (**still on spirit**):
+```bash
+cat << EOF > tmp1.tmp
+#SBATCH --ntasks=1
+#SBATCH --mem=16000
+#SBATCH --threads-per-core=1
+#SBATCH -J glorys
+#SBATCH -e glorys.e%j
+#SBATCH -o glorys.o%j
+#SBATCH --time=47:59:00
+EOF
+awk 'NR==2{while(getline line < "tmp1.tmp"){print line}}1' download_glorys_data.sh > tmp2.tmp
+mv tmp2.tmp download_glorys_data.sh
+rm -f tmp1.tmp
+```
+
+Then, **still on spirit**, adjust dates, area, frequency and run the script. Note that you need to create a login to access these data:
+```bash
+vi download_glorys_data.sh # edit dates, area, frequency, ...
+sbatch ./download_glorys_data.sh
+rsync -av --chmod=Dg+s --chown=:gen6035 raw_mercator_Y*M*.nc  XXXXXXX
+```
+
+## 5. Run the regional model
+
+

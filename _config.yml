@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://nicojourdain.github.io/
 github_username:  nicojourdain
-twitter_username: nicojourd
+bluesky_username: nicojourdain
 header-img: img/baniere_3.jpg
 
 # Build settings
