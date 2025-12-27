@@ -18,7 +18,7 @@ For publication metrics, see :
 
 87. Ockenden, H., Burgard, C., Mathiot, P., Kittel, C., Gellens, A., Agosta, C. and **Jourdain, N. C.** (2026). A neural network emulator of ice-shelf melt rates for use in ocean models which partially resolve ice-shelf cavities, _Submitted to Geoscientific Model Development_
 
-86. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Submitted to Journal of Advances in Modeling Earth Systems_
+86. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Submitted to Journal of Advances in Modeling Earth Systems_ [doi:10.22541/essoar.176677323.32970185/v1](https://doi.org/10.22541/essoar.176677323.32970185/v1)
 
 85. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2025). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_. [doi:10.22541/essoar.176218943.36540527/v1](https://doi.org/10.22541/essoar.176218943.36540527/v1)
 
