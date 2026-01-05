@@ -10,7 +10,7 @@ If you are new to TGCC, see [this page](http://www-hpc.cea.fr/en/complexe/tgcc.h
 
 Some parts of the preprocessing are complicated to execute on Irene-Rome due to access restrictions, and they are therefore run on [the CLIMERI server spirit](https://climeri-france.fr/les-activites/acces-a-la-plateforme).
 
-## 1. Module environment
+## 1. Module and Python environments
 
 To access to all the project directories of your group, you need to do this (replace gen6035 by your project ID):
 ```bash
@@ -25,7 +25,12 @@ TMP="${PROJECT^^}_ALL_CCCWORKDIR";    export SHAREDWORKDIR=${!TMP}
 TMP="${PROJECT^^}_ALL_CCCSTOREDIR";   export SHAREDSTOREDIR=${!TMP}
 ```
 
-This can typically be included in ~/.bashrc.
+To install a good python environment on TGCC, see [this page](https://nicojourdain.github.io/coding_dir/coding_python_tgcc/), then define the alias to activate it:
+```bash
+alias py='source /ccc/workflash/cont003/gen6035/jourdain/py37/bin/activate'
+```
+
+All the commands above can typically be included in ~/.bashrc.
 
 ## 2. Get the sources
 
@@ -75,7 +80,13 @@ vi MY_SRC/cppdefs.h # change configuration name # define SAIGON_LR
                     # def or undef OBCs
 ```
 
-## 4. Preprocessing
+Then, compile the code:
+```bash
+./jobcomp # should end with "CROCO is OK"
+ls -al croco
+```
+
+## 4. Preprocessing: preparing the grid and forcing data
 
 **On spirit**, get the datasets required for the preprocessing:
 ```bash
@@ -83,11 +94,9 @@ cd /scratchu/njourdain
 wget https://data-croco.ifremer.fr/DATASETS/DATASETS_CROCOTOOLS.tar.gz
 tar xzf DATASETS_CROCOTOOLS.tar.gz
 rsync -av --chmod=Dg+s --chown=:gen6035  DATASETS_CROCOTOOLS jourdain@irene-amd-fr.ccc.cea.fr:/ccc/work/cont003/gen6035/jourdain/.
-# new topography:
-wget 
+# new topography to be downloaded on https://cloud.univ-grenoble-alpes.fr/s/aTgTskfCaFd3nHf
 rsync -av --chmod=Dg+s --chown=:gen6035 Topo_Mekong_Saigon_merged_3sec_2025_v0.nc jourdain@irene-amd-fr.ccc.cea.fr:/ccc/work/cont003/gen6035/jourdain/DATASETS_CROCOTOOLS/Topo/.
-# new tide data:
-wget
+# new tide data to be downloaded on https://cloud.univ-grenoble-alpes.fr/s/PBaq8xjTCAGXtFp
 rsync -av --chmod=Dg+s --chown=:gen6035 TPXO9v5_Mekong.nc jourdain@irene-amd-fr.ccc.cea.fr:/ccc/work/cont003/gen6035/jourdain/DATASETS_CROCOTOOLS/TPXO9/.
 ```
 
@@ -141,12 +150,13 @@ rsync -av --chmod=Dg+s --chown=:gen6035 ERA5_native_Vietnam jourdain@irene-amd-f
 ```
 Then, on Irene-rome:
 ```bash
-cd ${SCRATCHDIR}/run_croco/Run_Saigon_01
+cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
 vi crocotools_param.m # adapt My_ERA5_dir
-vi ${WORKDIR}/models/croco_tools-v2.1.0/Aforc_ERA5/era5_crocotools_param.py #adapt everything 
 cd ${WORKDIR}/models/croco_tools-v2.1.0/Aforc_ERA5
+vi era5_crocotools_param.py #adapt everything (put month_start=1 and month_end=12) 
+py
 python ERA5_convert.py
-ls /ccc/scratch/cont003/gen6035/jourdain/run_croco/Run_Saigon_01/DATA/ERA5_Saigon_LR/
+ls /ccc/scratch/cont003/gen6035/jourdain/run_croco/Run_${CONFIG}/DATA/ERA5_Saigon_LR/
 ```
 
 ### 4c- Create the lateral boundary conditions
@@ -181,4 +191,49 @@ rsync -av --chmod=Dg+s --chown=:gen6035 raw_mercator_Y*M*.nc  XXXXXXX
 
 ## 5. Run the regional model
 
+**At first use** of run\_croco\_inter.bash, use the following command lines to put the right header in the existing bash script (**still on spirit**):
+```bash
+cp -p run_croco_inter.bash run_croco_inter.bash_save
+cat << EOF > tmp1.tmp
+#MSUB -r run_croco
+#MSUB -o run_croco.o%j
+#MSUB -e run_croco.e%j
+#MSUB -n 8
+#MSUB -x
+#MSUB -T 86000 
+#MSUB -A gen6035
+#MSUB -q rome
+#MSUB -m store,work,scratch
+EOF
+awk 'NR==2{while(getline line < "tmp1.tmp"){print line}}1' run_croco_inter.bash > tmp2.tmp
+mv tmp2.tmp run_croco_inter.bash
+rm -f tmp1.tmp
+```
 
+Then, adapt this script further:
+```bash
+vi run_croco_inter.bash  # RUNCMD="ccc_mprun ./"
+                         # NBPROCS=8
+                         # BULK_FILES=1
+                         # BOUNDARY_FILES=1
+                         # ATMOS_BULK=ERA5
+                         # DT=120
+                         # Replace MSSDIR with actual path for ERA5 and GLORYS data
+                         #
+```
+
+Then adapt this script:
+```bash
+vi croco_inter.in        # Put the number of runoff points in the "psource:" section 
+                         #   with Nsrc the number of source points and
+                         #   one line per source point with grid location, flux, temperature and salinity 
+                         #
+                         # Adapt dates on 2nd last line 
+                         #   and change last line to : DATA/ERA5_Saigon_LR/
+```
+
+Then launch the simulation:
+```bash
+ccc_msub ./run_croco_inter.bash
+ccc_mpp -u `whoami`
+```
