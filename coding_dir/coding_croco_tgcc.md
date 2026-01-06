@@ -156,7 +156,7 @@ cd ${WORKDIR}/models/croco_tools-v2.1.0/Aforc_ERA5
 vi era5_crocotools_param.py #adapt everything (put month_start=1 and month_end=12) 
 py
 python ERA5_convert.py
-ls /ccc/scratch/cont003/gen6035/jourdain/run_croco/Run_${CONFIG}/DATA/ERA5_Saigon_LR/
+ls ${SCRATCHDIR}/run_croco/Run_${CONFIG}/DATA/ERA5_Saigon_LR/
 ```
 
 ### 4c- Create the lateral boundary conditions
@@ -189,9 +189,67 @@ sbatch ./download_glorys_data.sh
 rsync -av --chmod=Dg+s --chown=:gen6035 raw_mercator_Y*M*.nc  XXXXXXX
 ```
 
+Then, back to Irene-rome, create this script to format the GLORYS outputs:
+```bash
+cd ${WORKDIR}/models/croco_tools-v2.1.0/Oforc_OGCM
+cat << EOF > convert_raw2crocotools.m
+clear all;
+close all;
+crocotools_param;
+GLORYS_dir = ['/ccc/work/cont003/gen6035/jourdain/DATASETS_CROCOTOOLS/GLORYS12_Vietnam/']
+vars = {'zos' ...
+        'uo' ...
+        'vo' ...
+        'thetao' ...
+        'so'};
+disp(['Making output data directory ',OGCM_dir])
+eval(['!mkdir ',OGCM_dir, ' 2> /dev/null'])
+%-----
+for Y=Ymin:Ymax
+    if Y==Ymin
+        mo_min=Mmin;
+    else
+        mo_min=1;
+    end
+    if Y==Ymax
+        mo_max=Mmax;
+    else
+        mo_max=12;
+    end
+    for M=mo_min:mo_max
+        thedatemonth=['Y',num2str(Y),'M',num2str(M)];
+        time1=datenum(Y,M,01);
+        time2=datenum(Y,M+1,01) - 1;
+        time=cat(2,time1,time2);
+        raw_mercator_name=[GLORYS_dir,'raw_',OGCM_prefix,thedatemonth,'.nc'];
+        disp(['Processing ',raw_mercator_name])
+        if mercator_type==1
+            write_mercator(OGCM_dir,OGCM_prefix,raw_mercator_name, ...
+                           mercator_type,vars,time,thedatemonth,Yorig); % write data
+        end                
+    end
+end
+EOF
+```
+
+```bash
+cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
+vi crocotools_param.m  # OGCM = 'mercator';
+vi ${WORKDIR}/models/croco_tools-v2.1.0/Oforc_OGCM/make_OGCM_mercator.m  
+module load matlab
+matlab -nodesktop
+        >> start
+        >> convert_raw2crocotools
+        >> make_OGCM_mercator
+# check initial file(s):
+ls -al ${SCRATCHDIR}/run_croco/Run_${CONFIG}/CROCO_FILES/croco_ini_mercator_*.nc
+# check bdy files:
+ls -al ${SCRATCHDIR}/run_croco/Run_${CONFIG}/DATA/mercator_Saigon_LR/.
+```
+
 ## 5. Run the regional model
 
-**At first use** of run\_croco\_inter.bash, use the following command lines to put the right header in the existing bash script (**still on spirit**):
+**At first use** of run\_croco\_inter.bash, use the following command lines to put the right header in the existing bash script:
 ```bash
 cp -p run_croco_inter.bash run_croco_inter.bash_save
 cat << EOF > tmp1.tmp
