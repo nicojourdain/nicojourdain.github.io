@@ -32,9 +32,11 @@ For publication metrics, see :
 
 ## Peer reviewed publications
 
-# 2025
+# 2026
 
-80. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _The Cryosphere, in press_. [doi:10.5194/egusphere-2025-2423](https://doi.org/10.5194/egusphere-2025-2423)
+80. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _The Cryosphere_, 20, 135–169, [doi:10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026)
+
+# 2025
 
 79. Schmidt, G. A., Mankoff, K. D., Bamber, J. L., Burgard, C., Carroll, D., Chandler, D. M., Coulon, V., Davison, B. J., England, M. H., Holland, P. R., **Jourdain, N. C.**, Li, Q., Marson, J. M., Mathiot, P., McMahon, C. R., Moon, T. A., Mottram, R., Nowicki, S., Olivé Abelló, A., Pauling, A. G., Rackow, T. and Ringeisen, D. (2025). Datasets and protocols for including anomalous freshwater from melting ice sheets in climate simulations. _Geoscientific Model Development_, 18, 8333–8361, [doi:10.5194/gmd-18-8333-2025](https://doi.org/10.5194/gmd-18-8333-2025)
 
