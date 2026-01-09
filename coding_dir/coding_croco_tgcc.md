@@ -68,24 +68,6 @@ ls -al Run_croco_save.tar
 tar xvf Run_croco_save.tar
 ```
 
-Then, for every new configuration:
-```bash
-cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
-cp -p $WORKDIR/Run_croco_save/jobcomp .         # adapted for Irene-rome
-cp -p $WORKDIR/Run_croco_save/myenv_mypath.sh . # adapted for Irene-rome
-cp -rp $WORKDIR/Run_croco_save/MY_SRC .
-vi MY_SRC/cppdefs.h # change configuration name # define SAIGON_LR
-                    # undef  AGRIF
-                    # undef  AGRIF_2WAY
-                    # def or undef OBCs
-```
-
-Then, compile the code:
-```bash
-./jobcomp # should end with "CROCO is OK"
-ls -al croco
-```
-
 ## 4. Preprocessing: preparing the grid and forcing data
 
 **On spirit**, get the datasets required for the preprocessing:
@@ -263,7 +245,34 @@ matlab -nodesktop
 ls -al CROCO_FILES/croco_frc_*.nc 
 ```
 
-## 5. Run the regional model
+## 5. Compile and run the regional model
+
+### 5a- Compilation
+
+The compilation has to be redone for any change in the grid size or model options.
+
+```bash
+cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
+cp -p $WORKDIR/Run_croco_save/jobcomp .         # adapted for Irene-rome
+cp -p $WORKDIR/Run_croco_save/myenv_mypath.sh . # adapted for Irene-rome
+cp -rp $WORKDIR/Run_croco_save/MY_SRC .
+vi MY_SRC/cppdefs.h # Change configuration name # define SAIGON_LR
+                    # undef  AGRIF
+                    # undef  AGRIF_2WAY
+                    # def or undef OBCs
+vi MY_SRC/param.h   # Change LLm0 and MMm0. They correspond to the number of interior points 
+                    # (domain without boundaries). It means xi_rho -2 and eta_rho - 2, in e.g. :
+                    #       #  elif defined SAIGON_LR
+                    #             parameter (LLm0=172, MMm0=185,  N=10)
+```    
+
+Then, compile the code:
+```bash
+./jobcomp # should end with "CROCO is OK"
+ls -al croco
+```
+
+### 5b- Running CROCO
 
 **At first use** of run\_croco\_inter.bash, use the following command lines to put the right header in the existing bash script:
 ```bash
@@ -287,12 +296,14 @@ rm -f tmp1.tmp
 Then, adapt this script further:
 ```bash
 vi run_croco_inter.bash  # RUNCMD="ccc_mprun ./"
-                         # NBPROCS=8
+                         # NBPROCS=54
                          # BULK_FILES=1
+                         # FORCING_FILES=1
                          # BOUNDARY_FILES=1
                          # ATMOS_BULK=ERA5
+                         # ATMOS_FRC=TIDETPXO
+                         # OGCM=mercator
                          # DT=120
-                         # Replace MSSDIR with actual path for ERA5 and GLORYS data
                          #
 ```
 
@@ -308,6 +319,7 @@ vi croco_inter.in        # Put the number of runoff points in the "psource:" sec
 
 Then launch the simulation:
 ```bash
+source myenv_mypath.sh
 ccc_msub ./run_croco_inter.bash
 ccc_mpp -u `whoami`
 ```
