@@ -245,6 +245,10 @@ matlab -nodesktop
 ls -al CROCO_FILES/croco_frc_*.nc 
 ```
 
+### 4e- Create boundary conditions for passive tracers (optional)
+
+TBC
+
 ## 5. Compile and run the regional model
 
 ### 5a- Compilation
@@ -257,9 +261,21 @@ cp -p $WORKDIR/Run_croco_save/jobcomp .         # adapted for Irene-rome
 cp -p $WORKDIR/Run_croco_save/myenv_mypath.sh . # adapted for Irene-rome
 cp -rp $WORKDIR/Run_croco_save/MY_SRC .
 vi MY_SRC/cppdefs.h # Change configuration name # define SAIGON_LR
+                    # under "if defined REGIONAL" :
+                    # ----- define whether an AGRIF nest is used -----
                     # undef  AGRIF
                     # undef  AGRIF_2WAY
-                    # def or undef OBCs
+                    # ----- define whether tides and OBCs are used -----
+                    # define TIDES
+                    # define OBC_EAST
+                    # define OBC_WEST
+                    # undef  OBC_NORTH
+                    # define OBC_SOUTH
+                    # ----- passive tracers -----
+                    # define PASSIVE_TRACER
+                    # ----- define point river sources as mass fluxes -----
+                    # undef PSOURCE
+                    # define PSOURCE_MASS (check double S: MASS !!)
 vi MY_SRC/param.h   # Change LLm0 and MMm0. They correspond to the number of interior points 
                     # (domain without boundaries). It means xi_rho -2 and eta_rho - 2, in e.g. :
                     #       #  elif defined SAIGON_LR
@@ -311,10 +327,13 @@ Then adapt this script:
 ```bash
 vi croco_inter.in        # Put the number of runoff points in the "psource:" section 
                          #   with Nsrc the number of source points and
-                         #   one line per source point with grid location, flux, temperature and salinity 
+                         #   one line per source point with grid location, discharge (m3/s), temperature (degC) and salinity (psu)
+                         #     Isrc and Jsrc are interior indices (in other words, python indexing convention on croco_grid.nc)
+                         #     Dsrc not used if PSOURCE_MASS rather than PSOURCE is defined.
                          #
-                         # Adapt dates on 2nd last line 
-                         #   and change last line to : DATA/ERA5_Saigon_LR/
+                         # Adapt dates on 2nd last line (nb of time step per day in ERA5, last year, last month)
+                         #   and change last line to something like: 
+                         #   /ccc/scratch/cont003/gen6035/jourdain/run_croco/Run_Saigon_02/DATA/ERA5_Saigon_LR/
 ```
 
 Then launch the simulation:
@@ -323,3 +342,11 @@ source myenv_mypath.sh
 ccc_msub ./run_croco_inter.bash
 ccc_mpp -u `whoami`
 ```
+
+Once completed, you can look at the outptuts:
+```bash
+ls -al croco_Y*M*.out          # CROCO's standard output
+ncdump -h SCRATCH/croco_avg.nc # time-averaged (e.g. 3-day) gridded outputs
+ncdump -h SCRATCH/croco_his.nc # instantaneous gridded output (after first time step?)
+```
+
