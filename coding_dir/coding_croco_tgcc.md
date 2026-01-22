@@ -321,6 +321,10 @@ vi run_croco_inter.bash  # RUNCMD="ccc_mprun ./"
                          # OGCM=mercator
                          # DT=120
                          #
+                         # Set the output frequency and averaged period (in nb of days): ND_AVG = 1 (for 1-day outputs).
+                         # If you want sub-daily outputs, e.g. 20 outputs per day, replace ND_AVG with ND_AVG_H (in hours), then
+                         # replace NUMAVG=$((ND_AVG * 86400 / DT )) with NUMAVG=$((ND_AVG_H * 3600 / DT ))
+                         # (check that you have a finite number of outputs per day)
 ```
 
 Then adapt this script:
