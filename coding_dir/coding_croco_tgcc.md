@@ -217,6 +217,9 @@ EOF
 ```bash
 cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
 vi crocotools_param.m  # OGCM = 'mercator';
+                       # itolap_a    = 2;   % before
+                       # itolap_p    = 2;   % after
+                       # Also adapt YMIN, YMAX, MMIN, MMAX...
 vi ${WORKDIR}/models/croco_tools-v2.1.0/Oforc_OGCM/make_OGCM_mercator.m  
 module load matlab
 matlab -nodesktop
@@ -324,7 +327,7 @@ vi run_croco_inter.bash  # RUNCMD="ccc_mprun ./"
                          # Set the output frequency and averaged period (in nb of days): ND_AVG = 1 (for 1-day outputs).
                          # If you want sub-daily outputs, e.g. 20 outputs per day, replace ND_AVG with ND_AVG_H (in hours), then
                          # replace NUMAVG=$((ND_AVG * 86400 / DT )) with NUMAVG=$((ND_AVG_H * 3600 / DT ))
-                         # (check that you have a finite number of outputs per day)
+                         # (check that you have a finite number of outputs per hour)
 ```
 
 Then adapt this script:

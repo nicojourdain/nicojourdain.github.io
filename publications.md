@@ -26,7 +26,7 @@ For publication metrics, see :
 
 83. Vallot, D., **Jourdain, N. C.** and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
 
-82. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2025). Disentangling Antarctic meltwater-induced changes from ocean internal variability. _Submitted to Journal of Geophysical Research - Oceans_.
+82. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2026). Haline internal variability confuses the response of the Atlantic Meridional Overturning Circulation to Antarctic meltwater. _Submitted to Journal of Geophysical Research - Oceans_.
 
 81. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2025). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _Submitted to The Cryosphere_.
 
