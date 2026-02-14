@@ -239,7 +239,7 @@ ls -al ${SCRATCHDIR}/run_croco/Run_${CONFIG}/CROCO_FILES/croco_bry_mercator_*.nc
 ```bash
 cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
 vi crocotools_param.m  # check that tidename and salname point to the right dataset
-vi ${WORKDIR}/models/croco_tools-v2.1.0/Tides/make_tides
+vi ${WORKDIR}/models/croco_tools-v2.1.0/Tides/make_tides_interannual
 module load matlab
 matlab -nodesktop
         >> start
@@ -357,3 +357,28 @@ ncdump -h SCRATCH/croco_avg.nc # time-averaged (e.g. 3-day) gridded outputs
 ncdump -h SCRATCH/croco_his.nc # instantaneous gridded output (after first time step?)
 ```
 
+### 5b- Running CROCO with an AGRIF nest
+
+Generate ocean initial state and tidal forcing for the child grid:
+```bash
+cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
+vi crocotools_param.m   # level = 1
+                        # choose date of initial state
+module load matlab       
+matlab -nodesktop        
+        >> start         
+        >> make_OGCM_mercator
+        >> make_tides_interannual
+ls -al CROCO_FILES/croco_ini_mercator_Y*.nc.1
+```
+
+Adjust grid and recompile:
+```bash
+ncdump -v grd_pos CROCO_FILES/croco_grd.nc.1
+vi AGRIF_FixedGrids.in  # adjust if inconsistent with above
+vi MY_SRC/cppdefs.h  # define AGRIF
+                     # define AGRIF_2WAY
+./jobcomp
+```
+
+Then, same as above, but: put NLEVEL = 2 in run\_croco\_inter.bash and edit vi croco\_inter.in.1
