@@ -239,7 +239,9 @@ For publication metrics, see :
 
 ## Other accademic publications
 
-* Vancoppenolle, M., **Jourdain, N. C.**, Fichefet, T., Fraser, A. D., Massonnet, F., Mathiot, P., Madec, G., Mehlmann, C., Abelló, A. O., Atwater, D. P., Berthet, S., Billy, C., Brearley, A., Delfieu, J., Kostov, Y., Lemaire, E., Marson, J. M., Petit, J., Pirlet, N., Wongpan, P., Burgard, C., de Lavergne, C., Holland, P. R., Hutchinson, K., Noël, M., Ortega, E., Piedagnel, E., Rampal, P., Rousset, C., Sallée, J.-B., Thomas, M. (2025). Why icebergs and their interactions with sea ice should be included in Earth system models? _Bulletin of the American Meteorological Society_. [hal-05397165v1](https://hal.science/hal-05397165v1)
+* Caillet, J., **Jourdain, N. C.**, Mathiot, P. and Burgard, C. (2026). Mais qui vide l’Antarctique dans l’océan à la grande cuillère ? _Climatologie_, 23. [doi:10.1051/climat/202523001](https://doi.org/10.1051/climat/202523001)
+
+* Vancoppenolle, M., **Jourdain, N. C.**, Fichefet, T., Fraser, A. D., Massonnet, F., Mathiot, P., Madec, G., Mehlmann, C., Abelló, A. O., Atwater, D. P., Berthet, S., Billy, C., Brearley, A., Delfieu, J., Kostov, Y., Lemaire, E., Marson, J. M., Petit, J., Pirlet, N., Wongpan, P., Burgard, C., de Lavergne, C., Holland, P. R., Hutchinson, K., Noël, M., Ortega, E., Piedagnel, E., Rampal, P., Rousset, C., Sallée, J.-B., Thomas, M. (2025). Why icebergs and their interactions with sea ice should be included in Earth system models? _Bulletin of the American Meteorological Society_. [hal-05397165v1](https://hal.science/hal-05397165v1) [doi:10.1175/BAMS-D-25-0322.1](http://doi.org/10.1175/BAMS-D-25-0322.1)
 
 * **Jourdain, N. C.** and Burgard, C. (2025). Most Antarctic ice shelves are set to disappear if greenhouse-gas emissions remain high. _Nature Briefing_. [doi:10.1038/d41586-025-03581-9](https://doi:10.1038/d41586-025-03581-9) [Sharedit link](https://rdcu.be/eOtPR)
 
