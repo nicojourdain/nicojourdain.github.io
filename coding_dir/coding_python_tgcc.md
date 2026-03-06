@@ -28,6 +28,7 @@ conda activate py37
 conda install numpy ipython netcdf4 xarray matplotlib scipy pandas pillow
 conda install dask 
 conda install zarr
+conda install oce utide
 pip install watermark # load with '%load_ext watermark' # print versions with '%watermark -v -iv'
 conda install cartopy
 conda install -c conda-forge cmocean # nice colors for ocean plots
