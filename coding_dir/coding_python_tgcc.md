@@ -28,7 +28,9 @@ conda activate py313
 conda install numpy ipython netcdf4 xarray matplotlib scipy pandas pillow
 conda install dask 
 conda install zarr
-conda install oce utide
+conda install oce utide # for tidal analysis
+conda install esmf # for interpolation
+conda install fftw # fast fourrier transform
 pip install watermark # load with '%load_ext watermark' # print versions with '%watermark -v -iv'
 conda install cartopy
 conda install -c conda-forge cmocean # nice colors for ocean plots
