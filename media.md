@@ -12,6 +12,12 @@ permalink: /media/
 
 ## Media reporting on our research topics
 
+* **The Greenletter Club**: L'Antarctique de l'Ouest va s'effondrer (Maxime Thuillez, Février 2026). [See YouTube video](https://youtu.be/NqjQqsnbobQ?si=duYjhkwyuxOjb5VS)
+
+* **Géo**: Sombre pronostic pour le continent blanc? Deux nouvelles études sur l'Antarctique font un constat glaçant (Nastasia Michael, November 2025). [See online](https://www.geo.fr/environnement/sombre-pronostic-pour-le-continent-blanc-deux-nouvelles-etudes-sur-l-antarctique-font-un-constat-glacant-229390)
+
+* **Le Monde**: Une majorité de plateformes glaciaires de l’Antarctique menacées à long terme, dans un scénario pessimiste de poursuite du réchauffement climatique (Léa Sanchez, Octobre 2025). [Voir l'article en Français](https://www.lemonde.fr/planete/article/2025/10/29/une-majorite-de-plateformes-glaciaires-de-l-antarctique-menacees-a-long-terme-dans-un-scenario-pessimiste-de-poursuite-du-rechauffement-climatique_6650190_3244.html) or [here in English](https://www.lemonde.fr/en/environment/article/2025/10/30/most-antarctic-ice-shelves-face-long-term-threat-under-worst-case-global-warming-scenario_6746927_114.html)
+
 * **Libération**: A la dérive - De 1986 à 2025, l’odyssée antarctique du méga iceberg A23a, qui menace les manchots de Géorgie du Sud (Julie Renson Miquel, February 2025). See [online article](https://www.liberation.fr/environnement/biodiversite/de-1986-a-2025-lodyssee-antarctique-du-mega-iceberg-a23a-qui-menace-les-manchots-de-georgie-du-sud-20250202_NCTUWCXHEJFCVID35N5D5RK2QY/) or [pdf]({{site.url}}img/libe_fev2025.pdf).
 
 * **France Inter**: La Terre au carré - À l'écoute des icebergs (Mathieu Vidard, April 2024). [Listen online](https://www.radiofrance.fr/franceinter/podcasts/la-terre-au-carre/la-terre-au-carre-du-mardi-23-avril-2024-4420496).
