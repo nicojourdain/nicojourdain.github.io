@@ -25,22 +25,20 @@ Then create a python environment (here "py313") with all the potentially useful 
 ```bash
 conda create --name py313  python=3.13
 conda activate py313
-conda install numpy ipython netcdf4 xarray matplotlib scipy pandas pillow
-conda install dask 
-conda install zarr
-conda install -c conda-forge r-oce # may need to be submitted a interactive job if pb with memory excess
-conda install -c conda-forge utide # for tide analysis
-conda install -c conda-forge esmf  # for interpolation
-conda install -c conda-forge fftw  # fast fourrier transform
-pip install watermark # load with '%load_ext watermark' # print versions with '%watermark -v -iv'
-conda install cartopy
-conda install -c conda-forge cmocean # nice colors for ocean plots
-conda install -c conda-forge papermill # to run notebooks like scripts
-conda install -c conda-forge gsw # Gibbs sea water equation of state
-conda install -c conda-forge xmovie # to create movies from xarray objects
-conda install pytorch torchvision -c pytorch # Machine Learning
-pip install tensorflow # Machine Learning
-conda install -c conda-forge vtk # For Elmer/Ice's outputs
+conda install -y numpy ipython netcdf4 xarray matplotlib scipy pandas pillow
+conda install -y dask 
+conda install -y zarr
+conda install -y cartopy
+conda install -y -c conda-forge utide # for tide analysis
+conda install -y -c conda-forge fftw  # fast fourrier transform
+#pip install watermark # load with '%load_ext watermark' # print versions with '%watermark -v -iv'
+conda install -y -c conda-forge cmocean # nice colors for ocean plots
+conda install -y -c conda-forge papermill # to run notebooks like scripts
+conda install -y -c conda-forge gsw # Gibbs sea water equation of state
+conda install -y -c conda-forge xmovie # to create movies from xarray objects
+#conda install -y pytorch torchvision -c pytorch # Machine Learning
+#pip install tensorflow # Machine Learning
+#conda install -c conda-forge vtk # For Elmer/Ice's outputs
 pip install conda-pack
 conda update -n py313 --force-reinstall --update-all # may be needed to avoid errors due to pip overwritting conda stuff
 ```
@@ -48,7 +46,7 @@ conda update -n py313 --force-reinstall --update-all # may be needed to avoid er
 Then, check that you have everythng and pack:
 ```bash
 conda list
-conda pack -n py313 -o condapack_dahu_py37.tar.gz --ignore-missing-files
+conda pack -n py313 -o condapack_dahu_py313.tar.gz --ignore-missing-files
 ```
 
 Then, copy condapack_dahu_py313.tar.gz and the miniconda installation bash script onto Iren-Rome (in the WORKDIR):
