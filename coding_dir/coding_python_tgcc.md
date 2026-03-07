@@ -55,6 +55,11 @@ scp -p condapack_dahu_py313.tar.gz <MYLOGIN>@irene-amd-fr.ccc.cea.fr:/ccc/work/c
 scp -p Miniconda3-latest-Linux-x86_64.sh <MYLOGIN>@irene-amd-fr.ccc.cea.fr:/ccc/work/cont003/<MYPROJECT>/<MYLOGIN>
 ```
 
+If you use natural Earth features in caretopy, you may also need to copy from a local server where cartopy has also been used in that was or from [this website](https://www.naturalearthdata.com/downloads):
+```bash
+cd ~/.local/share/cartopy/shapefiles/natural_earth
+rsync -av * <MYLOGIN>@irene-amd-fr.ccc.cea.fr:/ccc/cont003/home/<MYPROJECT>/<MYLOGIN>/.local/share/cartopy/shapefiles/natural_earth
+```
 
 # Unpack the conda environment onn Irene-Rome (TGCC):
 
