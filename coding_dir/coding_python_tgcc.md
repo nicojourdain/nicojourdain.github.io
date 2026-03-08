@@ -21,7 +21,7 @@ bash Miniconda3-latest-Linux-x86_64.sh # accept to initialize Miniconda3
 . ~/.bashrc
 ```
 
-Then create a python environment (here "py313") with all the potentially useful modules, e.g.:
+Then create a python environment (here "py313") with all the potentially useful modules, e.g. (you may need to work in interactive job to do that):
 ```bash
 conda create --name py313  python=3.13
 conda activate py313
@@ -36,11 +36,12 @@ conda install -y -c conda-forge cmocean # nice colors for ocean plots
 conda install -y -c conda-forge papermill # to run notebooks like scripts
 conda install -y -c conda-forge gsw # Gibbs sea water equation of state
 conda install -y -c conda-forge xmovie # to create movies from xarray objects
+conda install -y -c conda-forge ffmpeg # to save videos
 #conda install -y pytorch torchvision -c pytorch # Machine Learning
 #pip install tensorflow # Machine Learning
 #conda install -c conda-forge vtk # For Elmer/Ice's outputs
 pip install conda-pack
-conda update -n py313 --force-reinstall --update-all # may be needed to avoid errors due to pip overwritting conda stuff
+conda update -y -n py313 --force-reinstall --update-all # may be needed to avoid errors due to pip overwritting conda stuff
 ```
 
 Then, check that you have everythng and pack:
