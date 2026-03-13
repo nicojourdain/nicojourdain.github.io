@@ -45,3 +45,7 @@ These results have been reported in _Le Monde_ by Lea Sanchez, [here in French](
 ## Funding
 
 This research was made possible thanks to a perfect alignment of circumstances in terms of project funding: UGA-IRGA, PEPR-TRACCS, ANR-AIAI, EU-PROTECT, EU-OCEAN:ICE, EU-CRiceS and by the long-term support of CNRS-INSU, UGA-OSUG and IGE.
+
+## Submitted manuscript
+
+While awaiting for the embargo on the accepted draft, [here is the submitted version]({{site.url}}img/burgard_submitted_draft.pdf).
