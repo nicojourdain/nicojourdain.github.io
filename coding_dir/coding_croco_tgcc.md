@@ -234,6 +234,26 @@ ls -al ${SCRATCHDIR}/run_croco/Run_${CONFIG}/CROCO_FILES/croco_ini_mercator_*.nc
 ls -al ${SCRATCHDIR}/run_croco/Run_${CONFIG}/CROCO_FILES/croco_bry_mercator_*.nc
 ```
 
+If you use passive tracers, you need to manually add variable "tpasxx" in the initial state and boundary condition, with xx in 01, 02, 03, etc. This can be done like this:
+```bash
+cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}/CROCO_FILES
+module load nco
+# Initial state :
+for file in croco_ini_mercator_*
+do
+  newfile=`echo $file |sed -e "s/mercator/mercator_tpas/g"`
+  oldfile=`echo $file |sed -e "s/mercator/mercator_old/g"`
+  ncap2 -s 'tpas01=salt*0.0 ; tpas02=salt*0.0 ; tpas03=salt*0.0 ; tpas04=salt*0.0 ; tpas05=salt*0.0 ; tpas06=salt*0.0 ; tpas07=salt*0.0' $file $newfile
+  for ipas in $(seq 1 7)
+  do
+    ncatted -a long_name,tpas0${ipas},m,c,"tpas0${ipas} passive tracer" $newfile
+    ncatted -a units,tpas0${ipas},m,c,'no unit' $newfile
+  done
+  mv $file $oldfile
+  ln -s -v $newfile $file
+done
+```
+
 ### 4d- Create the tides lateral boundary conditions
 
 ```bash
@@ -275,7 +295,7 @@ vi MY_SRC/cppdefs.h # Change configuration name # define SAIGON_LR
                     # undef  OBC_NORTH
                     # define OBC_SOUTH
                     # ----- passive tracers -----
-                    # define PASSIVE_TRACER
+                    # define PASSIVE_TRACER  (in the REGIONAL part)
                     # ----- define point river sources as mass fluxes -----
                     # undef PSOURCE
                     # define PSOURCE_MASS (check double S: MASS !!)
@@ -283,6 +303,7 @@ vi MY_SRC/param.h   # Change LLm0 and MMm0. They correspond to the number of int
                     # (domain without boundaries). It means xi_rho -2 and eta_rho - 2, in e.g. :
                     #       #  elif defined SAIGON_LR
                     #             parameter (LLm0=172, MMm0=185,  N=10)
+                    # If you use passive tracers, you may need to change ntrc_pas (for the case where KH_INST is not defined)
 ```    
 
 Then, compile the code:
@@ -337,6 +358,12 @@ vi croco_inter.in        # Put the number of runoff points in the "psource:" sec
                          #   one line per source point with grid location, discharge (m3/s), temperature (degC) and salinity (psu)
                          #     Isrc and Jsrc are interior indices (in other words, python indexing convention on croco_grid.nc)
                          #     Dsrc not used if PSOURCE_MASS rather than PSOURCE is defined.
+                         #   If PASSIVE_TRACER is defined, you need to add put Lsrc to T for each tracer and 
+                         #     add the tracer concentrations at the end of the line in addition to T,S, e.g. for seven passive tracers :
+                         #     psource:   Nsrc  Isrc  Jsrc  Dsrc  Qbar [m3/s]    Lsrc        Tsrc
+                         #                  2
+                         #                      23    602     0   <Q_Chau_Doc>    9*T   30.   0.1  100.0    0.0    0.0    0.0    0.0    0.0    0.0
+                         #                      75    641     0   <Q_Tan_Chau>    9*T   30.   0.1    0.0  100.0    0.0    0.0    0.0    0.0    0.0
                          #
                          # Adapt dates on 2nd last line (nb of time step per day in ERA5, last year, last month)
                          #   and change last line to something like: 
