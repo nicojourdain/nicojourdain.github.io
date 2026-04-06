@@ -303,6 +303,8 @@ vi MY_SRC/param.h   # Change LLm0 and MMm0. They correspond to the number of int
                     # (domain without boundaries). It means xi_rho -2 and eta_rho - 2, in e.g. :
                     #       #  elif defined SAIGON_LR
                     #             parameter (LLm0=172, MMm0=185,  N=10)
+                    # Change the number of MPI domains by specifying NP_XI and NP_ETA 
+                    # (the product should be the number of PROCs required in the bash job).
                     # If you use passive tracers, you may need to change ntrc_pas (for the case where KH_INST is not defined)
 ```    
 
@@ -336,7 +338,7 @@ rm -f tmp1.tmp
 Then, adapt this script further:
 ```bash
 vi run_croco_inter.bash  # RUNCMD="ccc_mprun ./"
-                         # NBPROCS=54
+                         # NBPROCS=54  # = NP_XI * NP_ETA in param.h
                          # BULK_FILES=1
                          # FORCING_FILES=1
                          # BOUNDARY_FILES=1
@@ -358,12 +360,12 @@ vi croco_inter.in        # Put the number of runoff points in the "psource:" sec
                          #   one line per source point with grid location, discharge (m3/s), temperature (degC) and salinity (psu)
                          #     Isrc and Jsrc are interior indices (in other words, python indexing convention on croco_grid.nc)
                          #     Dsrc not used if PSOURCE_MASS rather than PSOURCE is defined.
-                         #   If PASSIVE_TRACER is defined, you need to add put Lsrc to T for each tracer and 
-                         #     add the tracer concentrations at the end of the line in addition to T,S, e.g. for seven passive tracers :
+                         #   If PASSIVE_TRACER is defined, you need to put Lsrc to T for each tracer and 
+                         #     add the tracer concentrations at the end of the line in addition to T,S, e.g. for 4 passive tracers :
                          #     psource:   Nsrc  Isrc  Jsrc  Dsrc  Qbar [m3/s]    Lsrc        Tsrc
                          #                  2
-                         #                      23    602     0   <Q_Chau_Doc>    9*T   30.   0.1  100.0    0.0    0.0    0.0    0.0    0.0    0.0
-                         #                      75    641     0   <Q_Tan_Chau>    9*T   30.   0.1    0.0  100.0    0.0    0.0    0.0    0.0    0.0
+                         #                      23    602     0   <Q_Chau_Doc>    6*T   30.   0.1  100.0    0.0    0.0    0.0
+                         #                      75    641     0   <Q_Tan_Chau>    6*T   30.   0.1    0.0  100.0    0.0    0.0
                          #
                          # Adapt dates on 2nd last line (nb of time step per day in ERA5, last year, last month)
                          #   and change last line to something like: 
