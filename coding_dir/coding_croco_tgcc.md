@@ -410,4 +410,6 @@ vi MY_SRC/cppdefs.h  # define AGRIF
 ./jobcomp
 ```
 
+*NB:* There may be a problem when using AGRIF and PASSIVE TRACER as it forces a 5th order scheme for tracer advection (to ensure positivity of the scheme), as described [here](https://forum.croco-ocean.org/t/agrif-subscript-1-of-the-array-ibuf-snds-has-value/7531). You basically need to replace 'Npts' with 'MAXNPTS' in the definition of size\_X, size\_E and size\_Z for the case with AGRIF defined in MessPass2D.F and MessPass3D.F.
+
 Then, same as above, but: put NLEVEL = 2 in run\_croco\_inter.bash and edit vi croco\_inter.in.1
