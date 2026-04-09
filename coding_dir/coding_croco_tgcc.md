@@ -216,7 +216,7 @@ EOF
 
 ```bash
 cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
-vi crocotools_param.m  # OGCM = 'mercator';
+vi crocotools_param.m  # level=0 ; OGCM = 'mercator';
                        # itolap_a    = 2;   % before
                        # itolap_p    = 2;   % after
                        # Also adapt YMIN, YMAX, MMIN, MMAX...
@@ -258,8 +258,8 @@ done
 
 ```bash
 cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
-vi crocotools_param.m  # check that tidename and salname point to the right dataset
-vi ${WORKDIR}/models/croco_tools-v2.1.0/Tides/make_tides_interannual
+vi crocotools_param.m  # level = 0 ; check that tidename and salname point to the right dataset
+vi ${WORKDIR}/models/croco_tools-v2.1.0/Tides/make_tides_interannual.m
 module load matlab
 matlab -nodesktop
         >> start
