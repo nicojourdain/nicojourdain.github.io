@@ -16,27 +16,29 @@ For publication metrics, see :
 
 ## Submitted papers
 
+89. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Submitted to Ocean Science_
+
 88. Mathiot, P., **Jourdain, N. C.**, Urruty, B., Gillet-Chaulet, F., Gagliardini, O., Durand, G. (2026). Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility. _Submitted to The Cryosphere_ [doi:10.5194/egusphere-2026-927](https://doi.org/10.5194/egusphere-2026-927)
 
 87. Ockenden, H., Burgard, C., Mathiot, P., Kittel, C., Gellens, A., Agosta, C. and **Jourdain, N. C.** (2026). DeepMelt-GL v1: A neural network emulator of ice-shelf melt rates for use in ocean models which partially resolve ice-shelf cavities, _Submitted to Geoscientific Model Development_ [doi:10.5194/egusphere-2025-6314](https://doi.org/10.5194/egusphere-2025-6314)
 
 86. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Submitted to Journal of Advances in Modeling Earth Systems_ [doi:10.22541/essoar.176677323.32970185/v1](https://doi.org/10.22541/essoar.176677323.32970185/v1)
 
-85. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2025). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_. [doi:10.22541/essoar.176218943.36540527/v1](https://doi.org/10.22541/essoar.176218943.36540527/v1)
+85. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2026). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Submitted to Journal of Geophysical Research - Oceans_. [doi:10.22541/essoar.176218943.36540527/v1](https://doi.org/10.22541/essoar.176218943.36540527/v1)
 
-84. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2025). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
+84. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2026). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
 
-83. Vallot, D., **Jourdain, N. C.** and Mathiot, P. (2025). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-2866](https://doi.org/10.5194/egusphere-2025-2866).
-
-82. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2026). Haline internal variability confuses the response of the Atlantic Meridional Overturning Circulation to Antarctic meltwater. _Submitted to Journal of Geophysical Research - Oceans_.
-
-81. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2025). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _Submitted to The Cryosphere_.
+83. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2026). Haline internal variability confuses the response of the Atlantic Meridional Overturning Circulation to Antarctic meltwater. _Submitted to Journal of Geophysical Research - Oceans_.
 
 ## Peer reviewed publications
 
 # 2026
 
-80. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2025). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _The Cryosphere_, 20, 135–169, [doi:10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026)
+82. Vallot, D., **Jourdain, N. C.** and Mathiot, P. (2026). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _The Cryosphere_, 20, 1997–2016, [doi:10.5194/tc-20-1997-2026](https://doi.org/10.5194/tc-20-1997-2026).
+
+81. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2026). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _The Cryosphere_, 20, 2053–2088, [doi:10.5194/tc-20-2053-2026](https://doi.org/10.5194/tc-20-2053-2026)
+
+80. Kostov, Y., Holland, P. R., Hogan, K. A., Smith, J. A., **Jourdain, N. C.**, Mathiot, P., Olivé Abelló, A., Fleming, A. H. and Meijers, A. J. S. (2026). Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea. _The Cryosphere_, 20, 135–169, [doi:10.5194/tc-20-135-2026](https://doi.org/10.5194/tc-20-135-2026)
 
 # 2025
 
