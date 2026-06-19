@@ -15,6 +15,11 @@ permalink: /conf/
 {::nomarkdown}
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
+<TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_PLUME_2026.png" /></P></TD>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> PLUME Post Cruise meeting, Hanoi, Viet Nam</b>, May 2026. See <a href="https://en.ird.fr/plume-post-cruise-meeting-presentation-first-scientific-results-hanoi">event description</a>.</P>
+</TD> </TR> </TABLE>
+
+<TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_PROTECT_2025.png" /></P></TD>
 <TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> PROTECT Final meeting, Marche-en-Famenne, Belgium</b>, January 2025.</P>
 </TD> </TR> </TABLE>
