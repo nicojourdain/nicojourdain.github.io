@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-89. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Submitted to Ocean Science_
+89. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Submitted to Ocean Science_ [doi:10.5194/egusphere-2026-3422](https://doi.org/10.5194/egusphere-2026-3422)
 
 88. Mathiot, P., **Jourdain, N. C.**, Urruty, B., Gillet-Chaulet, F., Gagliardini, O., Durand, G. (2026). Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility. _Submitted to The Cryosphere_ [doi:10.5194/egusphere-2026-927](https://doi.org/10.5194/egusphere-2026-927)
 
