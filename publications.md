@@ -30,13 +30,13 @@ For publication metrics, see :
 
 84. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2026). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
 
-83. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2026). Haline internal variability confuses the response of the Atlantic Meridional Overturning Circulation to Antarctic meltwater. _Submitted to Journal of Geophysical Research - Oceans_.
-
 ## Peer reviewed publications
 
 # 2026
 
-82. Vallot, D., **Jourdain, N. C.** and Mathiot, P. (2026). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _The Cryosphere_, 20, 1997–2016, [doi:10.5194/tc-20-1997-2026](https://doi.org/10.5194/tc-20-1997-2026).
+83. Berthet, S., Piret, J., Voldoire, A., **Jourdain, N. C.**, Penduff, T. (2026). Intrinsic Haline Variability as a Source of Uncertainty in Ocean Simulations Without Salinity Restoring. _Journal of Geophysical Research - Oceans_, 131 (7), e2026JC024169, [doi:10.1029/2026JC024169](https://doi.org/10.1029/2026JC024169)
+
+82. Vallot, D., **Jourdain, N. C.** and Mathiot, P. (2026). Effects of subgrid-scale ice topography on the ice shelf basal melting simulated in NEMO-4.2.0. _The Cryosphere_, 20, 1997–2016, [doi:10.5194/tc-20-1997-2026](https://doi.org/10.5194/tc-20-1997-2026)
 
 81. Yung, C. K., Asay-Davis , X., Adcroft, A., Bull , C. Y. S., De Rydt, J., Dinniman , M. S., Galton-Fenzi , B. K., Goldberg , D., Gwyther, D. E., Hallberg, R., Harrison , M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., **Jourdain, N. C.**, Kusahara , K., Marques , G., Mathiot, P., Menemenlis , D., Morrison, A. K., Nakayama , Y., Sergienko , O., Smith , R. S., Stern , A., Timmermann, R. and Zhou, Q. (2026). Results of the second Ice Shelf-Ocean Model Intercomparison Project (ISOMIP+). _The Cryosphere_, 20, 2053–2088, [doi:10.5194/tc-20-2053-2026](https://doi.org/10.5194/tc-20-2053-2026)
 
