@@ -151,6 +151,17 @@ ds.attrs['history'] = 'created using this script'
 ds.to_netcdf(file_miso3d,unlimited_dims="time")
 ```
 
+You can further encode the variables, which includes changing the time *dtype*, managing the *\_FillValue* or compressing a variable, e.g.:
+```
+ds.to_netcdf(file_name,unlimited_dims="time",encoding={
+             'so':       {"zlib": True, "complevel": 9, "_FillValue": 9.96921e36},
+             'x':        {"_FillValue": None},
+             'y':        {"_FillValue": None},
+             'z':        {"_FillValue": None},
+             'time_bnds':{"_FillValue": None, "dtype":'float64'},
+             'time':     {"_FillValue": None, "dtype":'float64', "units": "days since 1850-01-01", "calendar": "noleap"}  } )
+```
+
 # Further Reading
 
 A list of useful tools and tutorials is provided on the [MEOM groups's page](https://github.com/meom-group/tutos/blob/master/software.md).
