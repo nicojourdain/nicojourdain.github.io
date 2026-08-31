@@ -219,7 +219,7 @@ cd ${SCRATCHDIR}/run_croco/Run_${CONFIG}
 vi crocotools_param.m  # level=0 ; OGCM = 'mercator';
                        # itolap_a    = 2;   % before
                        # itolap_p    = 2;   % after
-                       # Also adapt YMIN, YMAX, MMIN, MMAX...
+                       # Also adapt Ymin, Ymax, Mmin, Mmax...
 vi ${WORKDIR}/models/croco_tools-v2.1.0/Oforc_OGCM/make_OGCM_mercator.m  
 module load matlab
 matlab -nodesktop
