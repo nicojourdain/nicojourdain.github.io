@@ -16,6 +16,8 @@ For publication metrics, see :
 
 ## Submitted papers
 
+91. Reese, R., **Jourdain, N. C.**, Asay-Davis, X. S., Burgard, C., Lambert, E., Nakayama, Y., Holland, P. R., Naughten, K. A., Timmermann, R., Dutrieux, P., Zhou, S., Talebigheshlaghi, G. and Tian, Y. (2026). A protocol for calibrating basal melt rates in the ISMIP7 Antarctic ice sheet projections. _Submitted to The Cryosphere_
+
 90. Caillet, J., Beckmann, J., **Jourdain, N. C.**, Mosbeux, C., Gillet-Chaulet, F., Seroussi, H., Burgard, C., Durand, G., Gagliardini, O., Mathiot, P., McCormack, F. S. (2026). Toward an initialization of the Antarctic Ice Sheet in the pre-industrial era. _Submitted to the Journal of Advances in Modeling Earth Systems_
 
 89. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Submitted to Ocean Science_ [doi:10.5194/egusphere-2026-3422](https://doi.org/10.5194/egusphere-2026-3422)
