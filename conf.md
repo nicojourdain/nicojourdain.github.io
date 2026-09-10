@@ -16,7 +16,7 @@ permalink: /conf/
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
 <TD WIDTH=35% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P><img src="{{site.baseurl}}/img/conf_2026_FRISP.jpg" /></P></TD>
-<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> , Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden</b>, August 2026. See <a href="https://frisp.w.uib.no/2025/06/27/frisp-2026-17-19-august-in-kristineberg-sweden/">event description</a>.</P>
+<TD WIDTH=65% STYLE="border-top: none; border-bottom: none; border-left: none; border-right: none; padding: 0.1cm 0.1cm"><P ALIGN=JUSTIFY> <b> Forum for Research into Ice Shelf Processess (FRISP) workshop, Kristineberg, Sweden</b>, August 2026. See <a href="https://frisp.w.uib.no/2025/06/27/frisp-2026-17-19-august-in-kristineberg-sweden/">event description</a>.</P>
 </TD> </TR> </TABLE>
 
 <TABLE WIDTH=100%> <TR VALIGN=TOP>
