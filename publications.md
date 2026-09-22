@@ -16,7 +16,7 @@ For publication metrics, see :
 
 ## Submitted papers
 
-92. Reese, R., **Jourdain, N. C.**, Asay-Davis, X. S., Burgard, C., Lambert, E., Nakayama, Y., Holland, P. R., Naughten, K. A., Timmermann, R., Dutrieux, P., Zhou, S., Talebigheshlaghi, G. and Tian, Y. (2026). A protocol for calibrating basal melt rates in the ISMIP7 Antarctic ice sheet projections. _Submitted to The Cryosphere_
+92. Reese, R., **Jourdain, N. C.**, Asay-Davis, X. S., Burgard, C., Lambert, E., Nakayama, Y., Holland, P. R., Naughten, K. A., Timmermann, R., Dutrieux, P., Zhou, S., Talebigheshlaghi, G. and Tian, Y. (2026). A protocol for calibrating basal melt rates in the ISMIP7 Antarctic ice sheet projections. _Submitted to The Cryosphere_ [doi:10.5194/egusphere-2026-5337](https://doi.org/10.5194/egusphere-2026-5337)
 
 91. Caillet, J., Beckmann, J., **Jourdain, N. C.**, Mosbeux, C., Gillet-Chaulet, F., Seroussi, H., Burgard, C., Durand, G., Gagliardini, O., Mathiot, P., McCormack, F. S. (2026). Toward an initialization of the Antarctic Ice Sheet in the pre-industrial era. _Submitted to the Journal of Advances in Modeling Earth Systems_
 
