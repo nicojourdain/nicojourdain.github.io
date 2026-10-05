@@ -32,7 +32,7 @@ For publication metrics, see :
 
 87. Mathiot, P., **Jourdain, N. C.**, Urruty, B., Gillet-Chaulet, F., Gagliardini, O., Durand, G. (2026). Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility. _The Cryosphere, accepted_ [doi:10.5194/egusphere-2026-927](https://doi.org/10.5194/egusphere-2026-927)
 
-86. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2026). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Journal of Geophysical Research - Oceans, accepted_. [doi:10.22541/essoar.176218943.36540527/v1](https://doi.org/10.22541/essoar.176218943.36540527/v1)
+86. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2026). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Journal of Geophysical Research - Oceans_, 131, e2025JC023673, [doi:10.1029/2025JC023673](https://doi.org/10.1029/2025JC023673)
 
 85. Mosbeux, C., Råback, P., Gilbert, A., Brondex, J., Gillet-Chaulet, F., **Jourdain, N. C.**, Chekki, M., Gagliardini, O., and Durand, G. (2026). A semi-Lagrangian advection scheme in Elmer (v26.1): benchmarking against discontinuous Galerkin and application to ice-damage transport, _Geoscientific Model Development_, 19, 8269–8288, [doi:10.5194/gmd-19-8269-2026](https://doi.org/10.5194/gmd-19-8269-2026)
 
