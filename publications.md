@@ -16,17 +16,17 @@ For publication metrics, see :
 
 ## Submitted papers
 
-93. Reese, R., **Jourdain, N. C.**, Asay-Davis, X. S., Burgard, C., Lambert, E., Nakayama, Y., Holland, P. R., Naughten, K. A., Timmermann, R., Dutrieux, P., Zhou, S., Talebigheshlaghi, G. and Tian, Y. (2026). A protocol for calibrating basal melt rates in the ISMIP7 Antarctic ice sheet projections. _Submitted to The Cryosphere_ [doi:10.5194/egusphere-2026-5337](https://doi.org/10.5194/egusphere-2026-5337)
+92. Reese, R., **Jourdain, N. C.**, Asay-Davis, X. S., Burgard, C., Lambert, E., Nakayama, Y., Holland, P. R., Naughten, K. A., Timmermann, R., Dutrieux, P., Zhou, S., Talebigheshlaghi, G. and Tian, Y. (2026). A protocol for calibrating basal melt rates in the ISMIP7 Antarctic ice sheet projections. _Submitted to The Cryosphere_ [doi:10.5194/egusphere-2026-5337](https://doi.org/10.5194/egusphere-2026-5337)
 
-92. Caillet, J., Beckmann, J., **Jourdain, N. C.**, Mosbeux, C., Gillet-Chaulet, F., Seroussi, H., Burgard, C., Durand, G., Gagliardini, O., Mathiot, P., McCormack, F. S. (2026). Toward an initialization of the Antarctic Ice Sheet in the pre-industrial era. _Submitted to the Journal of Advances in Modeling Earth Systems_
-
-91. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Submitted to Journal of Advances in Modeling Earth Systems_ [doi:10.22541/essoar.176677323.32970185/v1](https://doi.org/10.22541/essoar.176677323.32970185/v1)
+91. Caillet, J., Beckmann, J., **Jourdain, N. C.**, Mosbeux, C., Gillet-Chaulet, F., Seroussi, H., Burgard, C., Durand, G., Gagliardini, O., Mathiot, P., McCormack, F. S. (2026). Toward an initialization of the Antarctic Ice Sheet in the pre-industrial era. _Submitted to the Journal of Advances in Modeling Earth Systems_
 
 90. Johanna Beckmann, J., Reese, R., McCormack, F. S., Cook, S., Bird, L., Gwyther, D., Richards, D., Scheiter, M., Wang, Y., Seroussi, H., Abe‐Ouchi, A., Albrecht, T., Alvarez‐Solas, J., Asay‐Davis, X. S., Barre, J.-B., Berends, C. J., Bernales, J., Blasco, J., Caillet, J., Chandler, D. M., Coulon, V., Cullather, R., Dumas, C., Galton‐Fenzi, B. K., Garbe, J., Gillet‐Chaulet, F., Gladstone, R., Goelzer, H., Golledge, N. R., Greve, R., Gudmundsson, G. H., Han, H. K., Hillebrand, T. R., Hoffman, M. J., Huybrechts, P., **Jourdain, N. C.**, Klose, A. K., Langebroek, P. M., Leguy, G. R., Lipscomb, W. H., Lowry, D. P., Mathiot, P., Montoya, M., Morlighem, M., Nowicki, S., Pattyn, F., Payne, A. J., Pelle, T., Quiquet, A., Robinson, A., Saraste, L., Simon, E. G., Sun, S., Twarog, J. P., Trusel, L. D., Urruty, B., Van Breedam, J., van de Wal, R. S. W., Zhao, C. and Zwinger, T. (2026). Disentangling uncertainty in ISMIP6 Antarctic sub-shelf melting and 2300 sea level rise projections. _Submitted to The Cryosphere_. [doi:10.5194/egusphere-2025-4069](https://doi.org/10.5194/egusphere-2025-4069)
 
 ## Peer reviewed publications
 
 # 2026
+
+90. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Journal of Advances in Modeling Earth Systems, accepted_ [doi:10.22541/essoar.176677323.32970185/v1](https://doi.org/10.22541/essoar.176677323.32970185/v1)
 
 89. Heurgue, B., Amory, C., Kittel, C., Boberg, F., Durand, G., Favier, V., Fettweis, X., Glaude, Q., Goelzer, H., Hansen, N., **Jourdain, N.C.**, Mottram, R., Olesen, M., Van de Berg, W. J., Van den Broeke, M. R. and Wijngaard, R. R. (2026). Diverging runoff drives uncertainty in Antarctic surface mass balance projections under a high emission scenario. _The Cryosphere, accepted_ [doi:10.5194/egusphere-2026-624](https://doi.org/10.5194/egusphere-2026-624)
 
