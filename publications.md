@@ -32,7 +32,7 @@ For publication metrics, see :
 
 88. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Ocean Science, accepted_ [doi:10.5194/egusphere-2026-3422](https://doi.org/10.5194/egusphere-2026-3422)
 
-87. Mathiot, P., **Jourdain, N. C.**, Urruty, B., Gillet-Chaulet, F., Gagliardini, O., Durand, G. (2026). Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility. _The Cryosphere, accepted_ [doi:10.5194/egusphere-2026-927](https://doi.org/10.5194/egusphere-2026-927)
+87. Mathiot, P., **Jourdain, N. C.**, Urruty, B., Gillet-Chaulet, F., Gagliardini, O., Durand, G. (2026). Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility. _The Cryosphere_, 20, 6241–6262, [doi:10.5194/tc-20-6241-2026](https://doi.org/10.5194/tc-20-6241-2026))
 
 86. Pirlet, N., Fichefet, T., Vancoppenolle, M., de Lavergne, C., **Jourdain, N. C.** (2026). Effects of a landfast ice representation on Antarctic shelf water properties and ice shelf melt simulated by NEMO4-SI³. _Journal of Geophysical Research - Oceans_, 131, e2025JC023673, [doi:10.1029/2025JC023673](https://doi.org/10.1029/2025JC023673)
 
