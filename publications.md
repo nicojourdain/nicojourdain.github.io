@@ -26,11 +26,11 @@ For publication metrics, see :
 
 # 2026
 
-90. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Journal of Advances in Modeling Earth Systems, accepted_ [doi:10.22541/essoar.176677323.32970185/v1](https://doi.org/10.22541/essoar.176677323.32970185/v1)
+90. Nasser, A.-A., **Jourdain, N. C.**, Mathiot, P., Fiol, L., Madec, G., Debreu, L. (2026). Porous Cavities and Smooth Boundaries: Brinkman Volume Penalization for Ice-Shelf-Ocean Interactions in Earth System Models, _Journal of Advances in Modeling Earth Systems_, 18(11), e2025MS005692, [doi:10.1029/2025MS005692](https://doi.org/10.1029/2025MS005692)
 
 89. Heurgue, B., Amory, C., Kittel, C., Boberg, F., Durand, G., Favier, V., Fettweis, X., Glaude, Q., Goelzer, H., Hansen, N., **Jourdain, N.C.**, Mottram, R., Olesen, M., Van de Berg, W. J., Van den Broeke, M. R. and Wijngaard, R. R. (2026). Diverging runoff drives uncertainty in Antarctic surface mass balance projections under a high emission scenario. _The Cryosphere_, 20, 6353-6373, [doi:10.5194/tc-20-6353-2026](https://doi.org/10.5194/tc-20-6353-2026)
 
-88. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Ocean Science, accepted_ [doi:10.5194/egusphere-2026-3422](https://doi.org/10.5194/egusphere-2026-3422)
+88. Olivé Abelló, A., Mathiot, P., **Jourdain, N. C.**, Kostov, Y., and Holland, P. R. (2026). Simulated Antarctic iceberg melting occurs primarily within the Southern Ocean mixed layer. _Ocean Science_, 22, 3747–3770, [doi:10.5194/os-22-3747-2026](https://doi.org/10.5194/os-22-3747-2026)
 
 87. Mathiot, P., **Jourdain, N. C.**, Urruty, B., Gillet-Chaulet, F., Gagliardini, O., Durand, G. (2026). Transition to a much warmer climate for the global ocean and Antarctic Ice Sheet coupled system, and its reversibility. _The Cryosphere_, 20, 6241–6262, [doi:10.5194/tc-20-6241-2026](https://doi.org/10.5194/tc-20-6241-2026))
 
